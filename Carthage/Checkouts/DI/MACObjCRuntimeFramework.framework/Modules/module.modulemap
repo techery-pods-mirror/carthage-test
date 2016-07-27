@@ -1,0 +1,6 @@
+framework module MACObjCRuntimeFramework {
+  umbrella header "MACObjCRuntimeFramework.h"
+
+  export *
+  module * { export * }
+}

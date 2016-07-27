@@ -1,0 +1,6 @@
+framework module FLUX {
+  umbrella header "FLUX.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module OvercoatSocial {
+  umbrella header "OvercoatSocial.h"
+
+  export *
+  module * { export * }
+}

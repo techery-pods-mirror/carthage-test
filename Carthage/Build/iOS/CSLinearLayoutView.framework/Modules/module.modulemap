@@ -1,0 +1,6 @@
+framework module CSLinearLayoutView {
+  umbrella header "CSLinearLayoutView.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,1 @@
+../../../CriolloKitDI/CRDI/Code/DIClassInspection/ClassTemplate/DIPropertyModel.h

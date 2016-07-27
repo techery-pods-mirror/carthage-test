@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'CRDI' target in the 'CRDI' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import "CRDIException.h"
+#endif

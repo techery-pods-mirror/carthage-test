@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'BABCropperView', :exclusive => true do
+  pod "BABCropperView", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "BABCropperView", :path => "../"
+
+  
+end

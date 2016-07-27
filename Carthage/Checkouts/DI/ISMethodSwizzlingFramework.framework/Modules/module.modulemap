@@ -1,0 +1,6 @@
+framework module ISMethodSwizzlingFramework {
+  umbrella header "ISMethodSwizzlingFramework.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,503 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 47;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AD31B2811D18877000560600 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AD31B2801D18877000560600 /* main.m */; };
+		AD31B2841D18877000560600 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AD31B2831D18877000560600 /* AppDelegate.m */; };
+		AD31B2871D18877000560600 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AD31B2861D18877000560600 /* ViewController.m */; };
+		AD31B28A1D18877000560600 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD31B2881D18877000560600 /* Main.storyboard */; };
+		AD31B28C1D18877000560600 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD31B28B1D18877000560600 /* Assets.xcassets */; };
+		AD31B28F1D18877000560600 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD31B28D1D18877000560600 /* LaunchScreen.storyboard */; };
+		AD31B3121D189C1600560600 /* AHEasing.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B2FF1D189C0B00560600 /* AHEasing.framework */; };
+		AD31B3131D189C1600560600 /* AHEasing.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B2FF1D189C0B00560600 /* AHEasing.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B3141D189C1700560600 /* AMPopTip.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3001D189C0B00560600 /* AMPopTip.framework */; };
+		AD31B3151D189C1700560600 /* AMPopTip.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3001D189C0B00560600 /* AMPopTip.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B3161D189C1700560600 /* AsyncDisplayKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3011D189C0B00560600 /* AsyncDisplayKit.framework */; };
+		AD31B3171D189C1700560600 /* AsyncDisplayKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3011D189C0B00560600 /* AsyncDisplayKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B3181D189C1700560600 /* CocoaLumberjack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3021D189C0B00560600 /* CocoaLumberjack.framework */; };
+		AD31B3191D189C1700560600 /* CocoaLumberjack.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3021D189C0B00560600 /* CocoaLumberjack.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B31C1D189C1700560600 /* FXKeychain.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3041D189C0B00560600 /* FXKeychain.framework */; };
+		AD31B31D1D189C1700560600 /* FXKeychain.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3041D189C0B00560600 /* FXKeychain.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B31E1D189C1700560600 /* MagicalRecord.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3051D189C0B00560600 /* MagicalRecord.framework */; };
+		AD31B31F1D189C1700560600 /* MagicalRecord.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3051D189C0B00560600 /* MagicalRecord.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B3201D189C1700560600 /* Mantle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3061D189C0B00560600 /* Mantle.framework */; };
+		AD31B3211D189C1700560600 /* Mantle.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3061D189C0B00560600 /* Mantle.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B3221D189C1700560600 /* Masonry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3071D189C0B00560600 /* Masonry.framework */; };
+		AD31B3231D189C1700560600 /* Masonry.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3071D189C0B00560600 /* Masonry.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B3241D189C1700560600 /* MBProgressHUD.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3081D189C0B00560600 /* MBProgressHUD.framework */; };
+		AD31B3251D189C1700560600 /* MBProgressHUD.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3081D189C0B00560600 /* MBProgressHUD.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B3261D189C1700560600 /* OAStackView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3091D189C0B00560600 /* OAStackView.framework */; };
+		AD31B3271D189C1700560600 /* OAStackView.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3091D189C0B00560600 /* OAStackView.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B32A1D189C1700560600 /* pop.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B30B1D189C0B00560600 /* pop.framework */; };
+		AD31B32B1D189C1700560600 /* pop.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B30B1D189C0B00560600 /* pop.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B3301D189C1700560600 /* SlackTextViewController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B30E1D189C0B00560600 /* SlackTextViewController.framework */; };
+		AD31B3311D189C1700560600 /* SlackTextViewController.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B30E1D189C0B00560600 /* SlackTextViewController.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B3321D189C1700560600 /* TLLayoutTransitioning.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B30F1D189C0B00560600 /* TLLayoutTransitioning.framework */; };
+		AD31B3331D189C1700560600 /* TLLayoutTransitioning.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B30F1D189C0B00560600 /* TLLayoutTransitioning.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B3341D189C1700560600 /* TTTAttributedLabel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3101D189C0B00560600 /* TTTAttributedLabel.framework */; };
+		AD31B3351D189C1700560600 /* TTTAttributedLabel.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3101D189C0B00560600 /* TTTAttributedLabel.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AD31B3361D189C1700560600 /* WebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3111D189C0B00560600 /* WebImage.framework */; };
+		AD31B3371D189C1700560600 /* WebImage.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD31B3111D189C0B00560600 /* WebImage.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AFD97098526D806B201989AB /* Pods_CarthageTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB6941756F4CA6A41B12390C /* Pods_CarthageTest.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		AD31B2FE1D1887FB00560600 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				AD31B3351D189C1700560600 /* TTTAttributedLabel.framework in Embed Frameworks */,
+				AD31B31F1D189C1700560600 /* MagicalRecord.framework in Embed Frameworks */,
+				AD31B3151D189C1700560600 /* AMPopTip.framework in Embed Frameworks */,
+				AD31B3131D189C1600560600 /* AHEasing.framework in Embed Frameworks */,
+				AD31B3191D189C1700560600 /* CocoaLumberjack.framework in Embed Frameworks */,
+				AD31B3171D189C1700560600 /* AsyncDisplayKit.framework in Embed Frameworks */,
+				AD31B3331D189C1700560600 /* TLLayoutTransitioning.framework in Embed Frameworks */,
+				AD31B3231D189C1700560600 /* Masonry.framework in Embed Frameworks */,
+				AD31B3211D189C1700560600 /* Mantle.framework in Embed Frameworks */,
+				AD31B31D1D189C1700560600 /* FXKeychain.framework in Embed Frameworks */,
+				AD31B32B1D189C1700560600 /* pop.framework in Embed Frameworks */,
+				AD31B3271D189C1700560600 /* OAStackView.framework in Embed Frameworks */,
+				AD31B3311D189C1700560600 /* SlackTextViewController.framework in Embed Frameworks */,
+				AD31B3251D189C1700560600 /* MBProgressHUD.framework in Embed Frameworks */,
+				AD31B3371D189C1700560600 /* WebImage.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		79910BE0E01CEB27CA51C4C2 /* Pods-CarthageTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarthageTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-CarthageTest/Pods-CarthageTest.release.xcconfig"; sourceTree = "<group>"; };
+		AD31B27C1D18877000560600 /* CarthageTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarthageTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD31B2801D18877000560600 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AD31B2821D18877000560600 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		AD31B2831D18877000560600 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		AD31B2851D18877000560600 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		AD31B2861D18877000560600 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		AD31B2891D18877000560600 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AD31B28B1D18877000560600 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AD31B28E1D18877000560600 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AD31B2901D18877000560600 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD31B2FF1D189C0B00560600 /* AHEasing.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AHEasing.framework; path = Carthage/Build/iOS/AHEasing.framework; sourceTree = "<group>"; };
+		AD31B3001D189C0B00560600 /* AMPopTip.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AMPopTip.framework; path = Carthage/Build/iOS/AMPopTip.framework; sourceTree = "<group>"; };
+		AD31B3011D189C0B00560600 /* AsyncDisplayKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AsyncDisplayKit.framework; path = Carthage/Build/iOS/AsyncDisplayKit.framework; sourceTree = "<group>"; };
+		AD31B3021D189C0B00560600 /* CocoaLumberjack.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CocoaLumberjack.framework; path = Carthage/Build/iOS/CocoaLumberjack.framework; sourceTree = "<group>"; };
+		AD31B3041D189C0B00560600 /* FXKeychain.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FXKeychain.framework; path = Carthage/Build/iOS/FXKeychain.framework; sourceTree = "<group>"; };
+		AD31B3051D189C0B00560600 /* MagicalRecord.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MagicalRecord.framework; path = Carthage/Build/iOS/MagicalRecord.framework; sourceTree = "<group>"; };
+		AD31B3061D189C0B00560600 /* Mantle.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Mantle.framework; path = Carthage/Build/iOS/Mantle.framework; sourceTree = "<group>"; };
+		AD31B3071D189C0B00560600 /* Masonry.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Masonry.framework; path = Carthage/Build/iOS/Masonry.framework; sourceTree = "<group>"; };
+		AD31B3081D189C0B00560600 /* MBProgressHUD.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MBProgressHUD.framework; path = Carthage/Build/iOS/MBProgressHUD.framework; sourceTree = "<group>"; };
+		AD31B3091D189C0B00560600 /* OAStackView.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OAStackView.framework; path = Carthage/Build/iOS/OAStackView.framework; sourceTree = "<group>"; };
+		AD31B30B1D189C0B00560600 /* pop.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = pop.framework; path = Carthage/Build/iOS/pop.framework; sourceTree = "<group>"; };
+		AD31B30E1D189C0B00560600 /* SlackTextViewController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SlackTextViewController.framework; path = Carthage/Build/iOS/SlackTextViewController.framework; sourceTree = "<group>"; };
+		AD31B30F1D189C0B00560600 /* TLLayoutTransitioning.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TLLayoutTransitioning.framework; path = Carthage/Build/iOS/TLLayoutTransitioning.framework; sourceTree = "<group>"; };
+		AD31B3101D189C0B00560600 /* TTTAttributedLabel.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TTTAttributedLabel.framework; path = Carthage/Build/iOS/TTTAttributedLabel.framework; sourceTree = "<group>"; };
+		AD31B3111D189C0B00560600 /* WebImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebImage.framework; path = Carthage/Build/iOS/WebImage.framework; sourceTree = "<group>"; };
+		B186202E69591093A1DC510F /* Pods-CarthageTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarthageTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CarthageTest/Pods-CarthageTest.debug.xcconfig"; sourceTree = "<group>"; };
+		FB6941756F4CA6A41B12390C /* Pods_CarthageTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CarthageTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AD31B2791D18877000560600 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD31B3341D189C1700560600 /* TTTAttributedLabel.framework in Frameworks */,
+				AD31B31E1D189C1700560600 /* MagicalRecord.framework in Frameworks */,
+				AD31B3141D189C1700560600 /* AMPopTip.framework in Frameworks */,
+				AD31B3121D189C1600560600 /* AHEasing.framework in Frameworks */,
+				AD31B3181D189C1700560600 /* CocoaLumberjack.framework in Frameworks */,
+				AD31B3161D189C1700560600 /* AsyncDisplayKit.framework in Frameworks */,
+				AD31B3321D189C1700560600 /* TLLayoutTransitioning.framework in Frameworks */,
+				AD31B3221D189C1700560600 /* Masonry.framework in Frameworks */,
+				AD31B3201D189C1700560600 /* Mantle.framework in Frameworks */,
+				AD31B31C1D189C1700560600 /* FXKeychain.framework in Frameworks */,
+				AD31B32A1D189C1700560600 /* pop.framework in Frameworks */,
+				AD31B3261D189C1700560600 /* OAStackView.framework in Frameworks */,
+				AD31B3301D189C1700560600 /* SlackTextViewController.framework in Frameworks */,
+				AD31B3241D189C1700560600 /* MBProgressHUD.framework in Frameworks */,
+				AD31B3361D189C1700560600 /* WebImage.framework in Frameworks */,
+				AFD97098526D806B201989AB /* Pods_CarthageTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5B65B20256B01948ED66F289 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B186202E69591093A1DC510F /* Pods-CarthageTest.debug.xcconfig */,
+				79910BE0E01CEB27CA51C4C2 /* Pods-CarthageTest.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		AD31B2731D18877000560600 = {
+			isa = PBXGroup;
+			children = (
+				AD31B2981D1887BB00560600 /* Frameworks */,
+				AD31B27E1D18877000560600 /* CarthageTest */,
+				AD31B27D1D18877000560600 /* Products */,
+				5B65B20256B01948ED66F289 /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		AD31B27D1D18877000560600 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AD31B27C1D18877000560600 /* CarthageTest.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AD31B27E1D18877000560600 /* CarthageTest */ = {
+			isa = PBXGroup;
+			children = (
+				AD31B2821D18877000560600 /* AppDelegate.h */,
+				AD31B2831D18877000560600 /* AppDelegate.m */,
+				AD31B2851D18877000560600 /* ViewController.h */,
+				AD31B2861D18877000560600 /* ViewController.m */,
+				AD31B2881D18877000560600 /* Main.storyboard */,
+				AD31B28B1D18877000560600 /* Assets.xcassets */,
+				AD31B28D1D18877000560600 /* LaunchScreen.storyboard */,
+				AD31B2901D18877000560600 /* Info.plist */,
+				AD31B27F1D18877000560600 /* Supporting Files */,
+			);
+			path = CarthageTest;
+			sourceTree = "<group>";
+		};
+		AD31B27F1D18877000560600 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				AD31B2801D18877000560600 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		AD31B2981D1887BB00560600 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AD31B2FF1D189C0B00560600 /* AHEasing.framework */,
+				AD31B3001D189C0B00560600 /* AMPopTip.framework */,
+				AD31B3011D189C0B00560600 /* AsyncDisplayKit.framework */,
+				AD31B3021D189C0B00560600 /* CocoaLumberjack.framework */,
+				AD31B3041D189C0B00560600 /* FXKeychain.framework */,
+				AD31B3051D189C0B00560600 /* MagicalRecord.framework */,
+				AD31B3061D189C0B00560600 /* Mantle.framework */,
+				AD31B3071D189C0B00560600 /* Masonry.framework */,
+				AD31B3081D189C0B00560600 /* MBProgressHUD.framework */,
+				AD31B3091D189C0B00560600 /* OAStackView.framework */,
+				AD31B30B1D189C0B00560600 /* pop.framework */,
+				AD31B30E1D189C0B00560600 /* SlackTextViewController.framework */,
+				AD31B30F1D189C0B00560600 /* TLLayoutTransitioning.framework */,
+				AD31B3101D189C0B00560600 /* TTTAttributedLabel.framework */,
+				AD31B3111D189C0B00560600 /* WebImage.framework */,
+				FB6941756F4CA6A41B12390C /* Pods_CarthageTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AD31B27B1D18877000560600 /* CarthageTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD31B2931D18877000560600 /* Build configuration list for PBXNativeTarget "CarthageTest" */;
+			buildPhases = (
+				4E4D7AB452B8F99ECFB38223 /* Check Pods Manifest.lock */,
+				AD31B2781D18877000560600 /* Sources */,
+				AD31B2791D18877000560600 /* Frameworks */,
+				AD31B27A1D18877000560600 /* Resources */,
+				AD31B2FE1D1887FB00560600 /* Embed Frameworks */,
+				498A5A4E58D991229E44A1B1 /* Embed Pods Frameworks */,
+				F0C388BF62164FC5C33CC10F /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CarthageTest;
+			productName = CarthageTest;
+			productReference = AD31B27C1D18877000560600 /* CarthageTest.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AD31B2741D18877000560600 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = Techery;
+				TargetAttributes = {
+					AD31B27B1D18877000560600 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = AD31B2771D18877000560600 /* Build configuration list for PBXProject "CarthageTest" */;
+			compatibilityVersion = "Xcode 6.3";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AD31B2731D18877000560600;
+			productRefGroup = AD31B27D1D18877000560600 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AD31B27B1D18877000560600 /* CarthageTest */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AD31B27A1D18877000560600 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD31B28F1D18877000560600 /* LaunchScreen.storyboard in Resources */,
+				AD31B28C1D18877000560600 /* Assets.xcassets in Resources */,
+				AD31B28A1D18877000560600 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		498A5A4E58D991229E44A1B1 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CarthageTest/Pods-CarthageTest-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4E4D7AB452B8F99ECFB38223 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		F0C388BF62164FC5C33CC10F /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CarthageTest/Pods-CarthageTest-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AD31B2781D18877000560600 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD31B2871D18877000560600 /* ViewController.m in Sources */,
+				AD31B2841D18877000560600 /* AppDelegate.m in Sources */,
+				AD31B2811D18877000560600 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		AD31B2881D18877000560600 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AD31B2891D18877000560600 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AD31B28D1D18877000560600 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AD31B28E1D18877000560600 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AD31B2911D18877000560600 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AD31B2921D18877000560600 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AD31B2941D18877000560600 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B186202E69591093A1DC510F /* Pods-CarthageTest.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				INFOPLIST_FILE = CarthageTest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = io.techery.swiftydreamtrips.CarthageTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AD31B2951D18877000560600 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 79910BE0E01CEB27CA51C4C2 /* Pods-CarthageTest.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				INFOPLIST_FILE = CarthageTest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = io.techery.swiftydreamtrips.CarthageTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AD31B2771D18877000560600 /* Build configuration list for PBXProject "CarthageTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD31B2911D18877000560600 /* Debug */,
+				AD31B2921D18877000560600 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AD31B2931D18877000560600 /* Build configuration list for PBXNativeTarget "CarthageTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD31B2941D18877000560600 /* Debug */,
+				AD31B2951D18877000560600 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AD31B2741D18877000560600 /* Project object */;
+}

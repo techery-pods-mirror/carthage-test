@@ -1,0 +1,6 @@
+framework module CriolloKitDI {
+  umbrella header "CriolloKitDI.h"
+
+  export *
+  module * { export * }
+}

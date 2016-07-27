@@ -1,0 +1,6 @@
+framework module MTLManagedObjectAdapter {
+  umbrella header "MTLManagedObjectAdapter.h"
+
+  export *
+  module * { export * }
+}

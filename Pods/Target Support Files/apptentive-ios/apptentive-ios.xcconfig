@@ -1,0 +1,5 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1 AT_LOGGING_LEVEL_ERROR=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/apptentive-ios" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Crashlytics" "${PODS_ROOT}/Headers/Public/Fabric" "${PODS_ROOT}/Headers/Public/NewRelicAgent"
+OTHER_LDFLAGS = -framework "AVFoundation" -framework "CoreData" -framework "CoreGraphics" -framework "Foundation" -framework "ImageIO" -framework "MobileCoreServices" -framework "QuartzCore" -framework "SystemConfiguration" -framework "UIKit" -weak_framework "CoreTelephony" -weak_framework "StoreKit"
+PODS_ROOT = ${SRCROOT}
+SKIP_INSTALL = YES

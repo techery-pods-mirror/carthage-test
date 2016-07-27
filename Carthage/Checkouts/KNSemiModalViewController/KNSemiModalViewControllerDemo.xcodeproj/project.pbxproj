@@ -1,0 +1,779 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1616D85D181696FA009DF81C /* background_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 1616D85B181696FA009DF81C /* background_01.png */; };
+		1616D85E181696FA009DF81C /* background_01@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1616D85C181696FA009DF81C /* background_01@2x.png */; };
+		8B1A183716225DE400EDF2B0 /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B1A183016225DE400EDF2B0 /* first.png */; };
+		8B1A183816225DE400EDF2B0 /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B1A183116225DE400EDF2B0 /* first@2x.png */; };
+		8B1A183916225DE400EDF2B0 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B1A183216225DE400EDF2B0 /* Icon.png */; };
+		8B1A183A16225DE400EDF2B0 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B1A183316225DE400EDF2B0 /* Icon@2x.png */; };
+		8B1A183B16225DE400EDF2B0 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B1A183416225DE400EDF2B0 /* second.png */; };
+		8B1A183C16225DE400EDF2B0 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B1A183516225DE400EDF2B0 /* second@2x.png */; };
+		8B1A183D16225DE400EDF2B0 /* temp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B1A183616225DE400EDF2B0 /* temp.jpg */; };
+		8B1A184116225E5700EDF2B0 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B1A183E16225E5700EDF2B0 /* Default-568h@2x.png */; };
+		8B1A184216225E5700EDF2B0 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B1A183F16225E5700EDF2B0 /* Default.png */; };
+		8B1A184316225E5700EDF2B0 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B1A184016225E5700EDF2B0 /* Default@2x.png */; };
+		8B41C9731551561200413B5A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B41C9721551561200413B5A /* UIKit.framework */; };
+		8B41C9751551561200413B5A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B41C9741551561200413B5A /* Foundation.framework */; };
+		8B41C9771551561200413B5A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B41C9761551561200413B5A /* CoreGraphics.framework */; };
+		8B41C97D1551561200413B5A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8B41C97B1551561200413B5A /* InfoPlist.strings */; };
+		8B41C97F1551561200413B5A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B41C97E1551561200413B5A /* main.m */; };
+		8B41C9831551561200413B5A /* KNAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B41C9821551561200413B5A /* KNAppDelegate.m */; };
+		8B41C9861551561200413B5A /* KNFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B41C9851551561200413B5A /* KNFirstViewController.m */; };
+		8B41C98D1551561200413B5A /* KNSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B41C98C1551561200413B5A /* KNSecondViewController.m */; };
+		8B41C9941551561200413B5A /* KNFirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B41C9921551561200413B5A /* KNFirstViewController.xib */; };
+		8B41C99A1551561200413B5A /* KNSecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B41C9981551561200413B5A /* KNSecondViewController.xib */; };
+		8B41C9A61551564800413B5A /* UIViewController+KNSemiModal.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B41C9A51551564800413B5A /* UIViewController+KNSemiModal.m */; };
+		8B41C9A81551566400413B5A /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B41C9A71551566400413B5A /* QuartzCore.framework */; };
+		8B41C9B215515A2E00413B5A /* KNThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B41C9B115515A2E00413B5A /* KNThirdViewController.m */; };
+		8B6A4ADE15535E5600613D80 /* KNTableDemoController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B6A4ADD15535E5600613D80 /* KNTableDemoController.m */; };
+		8B8767E81552155300BA2A8E /* KNAboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B8767E61552155300BA2A8E /* KNAboutViewController.m */; };
+		8B8767E91552155300BA2A8E /* KNAboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B8767E71552155300BA2A8E /* KNAboutViewController.xib */; };
+		8B9E0B541553664F00BE3A69 /* KNModalTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B9E0B531553664F00BE3A69 /* KNModalTableViewController.m */; };
+		8BD1CEB1158C6C4F00F6956E /* KNThirdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8BD1CEB0158C6C4F00F6956E /* KNThirdViewController.xib */; };
+		EF994A551D477D6600619DFF /* KNSemiModalViewController-iOS.h in Headers */ = {isa = PBXBuildFile; fileRef = EF994A541D477D6600619DFF /* KNSemiModalViewController-iOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EF994A5C1D477D6600619DFF /* KNSemiModalViewController-iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF994A521D477D6500619DFF /* KNSemiModalViewController-iOS.framework */; };
+		EF994A611D477D6600619DFF /* KNSemiModalViewController_iOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF994A601D477D6600619DFF /* KNSemiModalViewController_iOSTests.m */; };
+		EF994A6A1D477D9300619DFF /* UIViewController+KNSemiModal.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B41C9A51551564800413B5A /* UIViewController+KNSemiModal.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EF994A5D1D477D6600619DFF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8B41C9651551561200413B5A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EF994A511D477D6500619DFF;
+			remoteInfo = "KNSemiModalViewController-iOS";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1616D85B181696FA009DF81C /* background_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background_01.png; sourceTree = "<group>"; };
+		1616D85C181696FA009DF81C /* background_01@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background_01@2x.png"; sourceTree = "<group>"; };
+		8B1A183016225DE400EDF2B0 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
+		8B1A183116225DE400EDF2B0 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
+		8B1A183216225DE400EDF2B0 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		8B1A183316225DE400EDF2B0 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		8B1A183416225DE400EDF2B0 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
+		8B1A183516225DE400EDF2B0 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		8B1A183616225DE400EDF2B0 /* temp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = temp.jpg; sourceTree = "<group>"; };
+		8B1A183E16225E5700EDF2B0 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8B1A183F16225E5700EDF2B0 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		8B1A184016225E5700EDF2B0 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		8B41C96E1551561200413B5A /* KNSemiModalViewControllerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KNSemiModalViewControllerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B41C9721551561200413B5A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8B41C9741551561200413B5A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8B41C9761551561200413B5A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		8B41C97A1551561200413B5A /* KNSemiModalViewControllerDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "KNSemiModalViewControllerDemo-Info.plist"; sourceTree = "<group>"; };
+		8B41C97C1551561200413B5A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8B41C97E1551561200413B5A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8B41C9801551561200413B5A /* KNSemiModalViewControllerDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KNSemiModalViewControllerDemo-Prefix.pch"; sourceTree = "<group>"; };
+		8B41C9811551561200413B5A /* KNAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KNAppDelegate.h; sourceTree = "<group>"; };
+		8B41C9821551561200413B5A /* KNAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KNAppDelegate.m; sourceTree = "<group>"; };
+		8B41C9841551561200413B5A /* KNFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KNFirstViewController.h; sourceTree = "<group>"; };
+		8B41C9851551561200413B5A /* KNFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KNFirstViewController.m; sourceTree = "<group>"; };
+		8B41C98B1551561200413B5A /* KNSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KNSecondViewController.h; sourceTree = "<group>"; };
+		8B41C98C1551561200413B5A /* KNSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KNSecondViewController.m; sourceTree = "<group>"; };
+		8B41C9931551561200413B5A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/KNFirstViewController.xib; sourceTree = "<group>"; };
+		8B41C9991551561200413B5A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/KNSecondViewController.xib; sourceTree = "<group>"; };
+		8B41C9A41551564800413B5A /* UIViewController+KNSemiModal.h */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+KNSemiModal.h"; sourceTree = "<group>"; tabWidth = 4; };
+		8B41C9A51551564800413B5A /* UIViewController+KNSemiModal.m */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+KNSemiModal.m"; sourceTree = "<group>"; tabWidth = 4; };
+		8B41C9A71551566400413B5A /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		8B41C9B015515A2E00413B5A /* KNThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KNThirdViewController.h; sourceTree = "<group>"; };
+		8B41C9B115515A2E00413B5A /* KNThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KNThirdViewController.m; sourceTree = "<group>"; };
+		8B6A4ADC15535E5600613D80 /* KNTableDemoController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KNTableDemoController.h; sourceTree = "<group>"; };
+		8B6A4ADD15535E5600613D80 /* KNTableDemoController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KNTableDemoController.m; sourceTree = "<group>"; };
+		8B8767E51552155300BA2A8E /* KNAboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KNAboutViewController.h; sourceTree = "<group>"; };
+		8B8767E61552155300BA2A8E /* KNAboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KNAboutViewController.m; sourceTree = "<group>"; };
+		8B8767E71552155300BA2A8E /* KNAboutViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = KNAboutViewController.xib; sourceTree = "<group>"; };
+		8B9E0B521553664F00BE3A69 /* KNModalTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KNModalTableViewController.h; sourceTree = "<group>"; };
+		8B9E0B531553664F00BE3A69 /* KNModalTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KNModalTableViewController.m; sourceTree = "<group>"; };
+		8BD1CEB0158C6C4F00F6956E /* KNThirdViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = KNThirdViewController.xib; sourceTree = "<group>"; };
+		EF994A521D477D6500619DFF /* KNSemiModalViewController-iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = "KNSemiModalViewController-iOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF994A541D477D6600619DFF /* KNSemiModalViewController-iOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KNSemiModalViewController-iOS.h"; sourceTree = "<group>"; };
+		EF994A561D477D6600619DFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF994A5B1D477D6600619DFF /* KNSemiModalViewController-iOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "KNSemiModalViewController-iOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF994A601D477D6600619DFF /* KNSemiModalViewController_iOSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KNSemiModalViewController_iOSTests.m; sourceTree = "<group>"; };
+		EF994A621D477D6600619DFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8B41C96B1551561200413B5A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B41C9A81551566400413B5A /* QuartzCore.framework in Frameworks */,
+				8B41C9731551561200413B5A /* UIKit.framework in Frameworks */,
+				8B41C9751551561200413B5A /* Foundation.framework in Frameworks */,
+				8B41C9771551561200413B5A /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF994A4E1D477D6500619DFF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF994A581D477D6600619DFF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF994A5C1D477D6600619DFF /* KNSemiModalViewController-iOS.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8B1A182F16225DE400EDF2B0 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				1616D85B181696FA009DF81C /* background_01.png */,
+				1616D85C181696FA009DF81C /* background_01@2x.png */,
+				8B1A183016225DE400EDF2B0 /* first.png */,
+				8B1A183116225DE400EDF2B0 /* first@2x.png */,
+				8B1A183216225DE400EDF2B0 /* Icon.png */,
+				8B1A183316225DE400EDF2B0 /* Icon@2x.png */,
+				8B1A183416225DE400EDF2B0 /* second.png */,
+				8B1A183516225DE400EDF2B0 /* second@2x.png */,
+				8B1A183616225DE400EDF2B0 /* temp.jpg */,
+				8B1A183E16225E5700EDF2B0 /* Default-568h@2x.png */,
+				8B1A183F16225E5700EDF2B0 /* Default.png */,
+				8B1A184016225E5700EDF2B0 /* Default@2x.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		8B41C9631551561200413B5A = {
+			isa = PBXGroup;
+			children = (
+				8B41C9A31551564800413B5A /* Source */,
+				8B41C9781551561200413B5A /* KNSemiModalViewControllerDemo */,
+				EF994A531D477D6600619DFF /* KNSemiModalViewController-iOS */,
+				EF994A5F1D477D6600619DFF /* KNSemiModalViewController-iOSTests */,
+				8B41C9711551561200413B5A /* Frameworks */,
+				8B41C96F1551561200413B5A /* Products */,
+			);
+			indentWidth = 2;
+			sourceTree = "<group>";
+			tabWidth = 2;
+		};
+		8B41C96F1551561200413B5A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8B41C96E1551561200413B5A /* KNSemiModalViewControllerDemo.app */,
+				EF994A521D477D6500619DFF /* KNSemiModalViewController-iOS.framework */,
+				EF994A5B1D477D6600619DFF /* KNSemiModalViewController-iOSTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8B41C9711551561200413B5A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8B41C9A71551566400413B5A /* QuartzCore.framework */,
+				8B41C9721551561200413B5A /* UIKit.framework */,
+				8B41C9741551561200413B5A /* Foundation.framework */,
+				8B41C9761551561200413B5A /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8B41C9781551561200413B5A /* KNSemiModalViewControllerDemo */ = {
+			isa = PBXGroup;
+			children = (
+				8B41C9811551561200413B5A /* KNAppDelegate.h */,
+				8B41C9821551561200413B5A /* KNAppDelegate.m */,
+				8B6A4ADB15535E0300613D80 /* About */,
+				8B6A4AD815535DF800613D80 /* Demo 1 */,
+				8B6A4ADA15535DFE00613D80 /* Demo 2 */,
+				8B6A4ADF15535E5A00613D80 /* Demo 3 */,
+				8B41C9791551561200413B5A /* Supporting Files */,
+			);
+			path = KNSemiModalViewControllerDemo;
+			sourceTree = "<group>";
+		};
+		8B41C9791551561200413B5A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8B1A182F16225DE400EDF2B0 /* Images */,
+				8B41C97E1551561200413B5A /* main.m */,
+				8B41C97B1551561200413B5A /* InfoPlist.strings */,
+				8B41C97A1551561200413B5A /* KNSemiModalViewControllerDemo-Info.plist */,
+				8B41C9801551561200413B5A /* KNSemiModalViewControllerDemo-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8B41C9A31551564800413B5A /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				8B41C9A41551564800413B5A /* UIViewController+KNSemiModal.h */,
+				8B41C9A51551564800413B5A /* UIViewController+KNSemiModal.m */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		8B6A4AD815535DF800613D80 /* Demo 1 */ = {
+			isa = PBXGroup;
+			children = (
+				8B41C9841551561200413B5A /* KNFirstViewController.h */,
+				8B41C9851551561200413B5A /* KNFirstViewController.m */,
+				8B41C9921551561200413B5A /* KNFirstViewController.xib */,
+			);
+			name = "Demo 1";
+			sourceTree = "<group>";
+		};
+		8B6A4ADA15535DFE00613D80 /* Demo 2 */ = {
+			isa = PBXGroup;
+			children = (
+				8B41C98B1551561200413B5A /* KNSecondViewController.h */,
+				8B41C98C1551561200413B5A /* KNSecondViewController.m */,
+				8B41C9981551561200413B5A /* KNSecondViewController.xib */,
+				8B41C9B015515A2E00413B5A /* KNThirdViewController.h */,
+				8B41C9B115515A2E00413B5A /* KNThirdViewController.m */,
+				8BD1CEB0158C6C4F00F6956E /* KNThirdViewController.xib */,
+			);
+			name = "Demo 2";
+			sourceTree = "<group>";
+		};
+		8B6A4ADB15535E0300613D80 /* About */ = {
+			isa = PBXGroup;
+			children = (
+				8B8767E71552155300BA2A8E /* KNAboutViewController.xib */,
+				8B8767E51552155300BA2A8E /* KNAboutViewController.h */,
+				8B8767E61552155300BA2A8E /* KNAboutViewController.m */,
+			);
+			name = About;
+			sourceTree = "<group>";
+		};
+		8B6A4ADF15535E5A00613D80 /* Demo 3 */ = {
+			isa = PBXGroup;
+			children = (
+				8B6A4ADC15535E5600613D80 /* KNTableDemoController.h */,
+				8B6A4ADD15535E5600613D80 /* KNTableDemoController.m */,
+				8B9E0B521553664F00BE3A69 /* KNModalTableViewController.h */,
+				8B9E0B531553664F00BE3A69 /* KNModalTableViewController.m */,
+			);
+			name = "Demo 3";
+			sourceTree = "<group>";
+		};
+		EF994A531D477D6600619DFF /* KNSemiModalViewController-iOS */ = {
+			isa = PBXGroup;
+			children = (
+				EF994A541D477D6600619DFF /* KNSemiModalViewController-iOS.h */,
+				EF994A561D477D6600619DFF /* Info.plist */,
+			);
+			path = "KNSemiModalViewController-iOS";
+			sourceTree = "<group>";
+		};
+		EF994A5F1D477D6600619DFF /* KNSemiModalViewController-iOSTests */ = {
+			isa = PBXGroup;
+			children = (
+				EF994A601D477D6600619DFF /* KNSemiModalViewController_iOSTests.m */,
+				EF994A621D477D6600619DFF /* Info.plist */,
+			);
+			path = "KNSemiModalViewController-iOSTests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		EF994A4F1D477D6500619DFF /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF994A551D477D6600619DFF /* KNSemiModalViewController-iOS.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		8B41C96D1551561200413B5A /* KNSemiModalViewControllerDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8B41C9A01551561200413B5A /* Build configuration list for PBXNativeTarget "KNSemiModalViewControllerDemo" */;
+			buildPhases = (
+				8B41C96A1551561200413B5A /* Sources */,
+				8B41C96B1551561200413B5A /* Frameworks */,
+				8B41C96C1551561200413B5A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KNSemiModalViewControllerDemo;
+			productName = KNSemiModalViewControllerDemo;
+			productReference = 8B41C96E1551561200413B5A /* KNSemiModalViewControllerDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EF994A511D477D6500619DFF /* KNSemiModalViewController-iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF994A671D477D6600619DFF /* Build configuration list for PBXNativeTarget "KNSemiModalViewController-iOS" */;
+			buildPhases = (
+				EF994A4D1D477D6500619DFF /* Sources */,
+				EF994A4E1D477D6500619DFF /* Frameworks */,
+				EF994A4F1D477D6500619DFF /* Headers */,
+				EF994A501D477D6500619DFF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "KNSemiModalViewController-iOS";
+			productName = "KNSemiModalViewController-iOS";
+			productReference = EF994A521D477D6500619DFF /* KNSemiModalViewController-iOS.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		EF994A5A1D477D6600619DFF /* KNSemiModalViewController-iOSTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF994A681D477D6600619DFF /* Build configuration list for PBXNativeTarget "KNSemiModalViewController-iOSTests" */;
+			buildPhases = (
+				EF994A571D477D6600619DFF /* Sources */,
+				EF994A581D477D6600619DFF /* Frameworks */,
+				EF994A591D477D6600619DFF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EF994A5E1D477D6600619DFF /* PBXTargetDependency */,
+			);
+			name = "KNSemiModalViewController-iOSTests";
+			productName = "KNSemiModalViewController-iOSTests";
+			productReference = EF994A5B1D477D6600619DFF /* KNSemiModalViewController-iOSTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8B41C9651551561200413B5A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = KN;
+				LastUpgradeCheck = 0430;
+				TargetAttributes = {
+					EF994A511D477D6500619DFF = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					EF994A5A1D477D6600619DFF = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 8B41C9681551561200413B5A /* Build configuration list for PBXProject "KNSemiModalViewControllerDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8B41C9631551561200413B5A;
+			productRefGroup = 8B41C96F1551561200413B5A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8B41C96D1551561200413B5A /* KNSemiModalViewControllerDemo */,
+				EF994A511D477D6500619DFF /* KNSemiModalViewController-iOS */,
+				EF994A5A1D477D6600619DFF /* KNSemiModalViewController-iOSTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8B41C96C1551561200413B5A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B41C97D1551561200413B5A /* InfoPlist.strings in Resources */,
+				8B41C9941551561200413B5A /* KNFirstViewController.xib in Resources */,
+				8B41C99A1551561200413B5A /* KNSecondViewController.xib in Resources */,
+				8B8767E91552155300BA2A8E /* KNAboutViewController.xib in Resources */,
+				1616D85D181696FA009DF81C /* background_01.png in Resources */,
+				1616D85E181696FA009DF81C /* background_01@2x.png in Resources */,
+				8BD1CEB1158C6C4F00F6956E /* KNThirdViewController.xib in Resources */,
+				8B1A183716225DE400EDF2B0 /* first.png in Resources */,
+				8B1A183816225DE400EDF2B0 /* first@2x.png in Resources */,
+				8B1A183916225DE400EDF2B0 /* Icon.png in Resources */,
+				8B1A183A16225DE400EDF2B0 /* Icon@2x.png in Resources */,
+				8B1A183B16225DE400EDF2B0 /* second.png in Resources */,
+				8B1A183C16225DE400EDF2B0 /* second@2x.png in Resources */,
+				8B1A183D16225DE400EDF2B0 /* temp.jpg in Resources */,
+				8B1A184116225E5700EDF2B0 /* Default-568h@2x.png in Resources */,
+				8B1A184216225E5700EDF2B0 /* Default.png in Resources */,
+				8B1A184316225E5700EDF2B0 /* Default@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF994A501D477D6500619DFF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF994A591D477D6600619DFF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8B41C96A1551561200413B5A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B41C97F1551561200413B5A /* main.m in Sources */,
+				8B41C9831551561200413B5A /* KNAppDelegate.m in Sources */,
+				8B41C9861551561200413B5A /* KNFirstViewController.m in Sources */,
+				8B41C98D1551561200413B5A /* KNSecondViewController.m in Sources */,
+				8B41C9A61551564800413B5A /* UIViewController+KNSemiModal.m in Sources */,
+				8B41C9B215515A2E00413B5A /* KNThirdViewController.m in Sources */,
+				8B8767E81552155300BA2A8E /* KNAboutViewController.m in Sources */,
+				8B6A4ADE15535E5600613D80 /* KNTableDemoController.m in Sources */,
+				8B9E0B541553664F00BE3A69 /* KNModalTableViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF994A4D1D477D6500619DFF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF994A6A1D477D9300619DFF /* UIViewController+KNSemiModal.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF994A571D477D6600619DFF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF994A611D477D6600619DFF /* KNSemiModalViewController_iOSTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EF994A5E1D477D6600619DFF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EF994A511D477D6500619DFF /* KNSemiModalViewController-iOS */;
+			targetProxy = EF994A5D1D477D6600619DFF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8B41C97B1551561200413B5A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B41C97C1551561200413B5A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		8B41C9921551561200413B5A /* KNFirstViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B41C9931551561200413B5A /* en */,
+			);
+			name = KNFirstViewController.xib;
+			sourceTree = "<group>";
+		};
+		8B41C9981551561200413B5A /* KNSecondViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B41C9991551561200413B5A /* en */,
+			);
+			name = KNSecondViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8B41C99E1551561200413B5A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8B41C99F1551561200413B5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8B41C9A11551561200413B5A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "KNSemiModalViewControllerDemo/KNSemiModalViewControllerDemo-Prefix.pch";
+				INFOPLIST_FILE = "KNSemiModalViewControllerDemo/KNSemiModalViewControllerDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		8B41C9A21551561200413B5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "KNSemiModalViewControllerDemo/KNSemiModalViewControllerDemo-Prefix.pch";
+				INFOPLIST_FILE = "KNSemiModalViewControllerDemo/KNSemiModalViewControllerDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		EF994A631D477D6600619DFF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				INFOPLIST_FILE = "KNSemiModalViewController-iOS/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.techery.KNSemiModalViewController-iOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		EF994A641D477D6600619DFF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				INFOPLIST_FILE = "KNSemiModalViewController-iOS/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.techery.KNSemiModalViewController-iOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		EF994A651D477D6600619DFF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				INFOPLIST_FILE = "KNSemiModalViewController-iOSTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.techery.KNSemiModalViewController-iOSTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EF994A661D477D6600619DFF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				INFOPLIST_FILE = "KNSemiModalViewController-iOSTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.techery.KNSemiModalViewController-iOSTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8B41C9681551561200413B5A /* Build configuration list for PBXProject "KNSemiModalViewControllerDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B41C99E1551561200413B5A /* Debug */,
+				8B41C99F1551561200413B5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8B41C9A01551561200413B5A /* Build configuration list for PBXNativeTarget "KNSemiModalViewControllerDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B41C9A11551561200413B5A /* Debug */,
+				8B41C9A21551561200413B5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF994A671D477D6600619DFF /* Build configuration list for PBXNativeTarget "KNSemiModalViewController-iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF994A631D477D6600619DFF /* Debug */,
+				EF994A641D477D6600619DFF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		EF994A681D477D6600619DFF /* Build configuration list for PBXNativeTarget "KNSemiModalViewController-iOSTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF994A651D477D6600619DFF /* Debug */,
+				EF994A661D477D6600619DFF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8B41C9651551561200413B5A /* Project object */;
+}

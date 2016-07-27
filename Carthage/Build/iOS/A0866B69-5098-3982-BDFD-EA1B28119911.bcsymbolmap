@@ -1,0 +1,1261 @@
+BCSymbolMap Version: 1.0
+-[AMPopTip(Animation) setShouldBounce:]
+-[AMPopTip(Animation) shouldBounce]
+-[AMPopTip(Animation) performActionAnimation]
+-[AMPopTip(Animation) floatAnimation]
+__37-[AMPopTip(Animation) floatAnimation]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+-[AMPopTip(Animation) bounceAnimation]
+__38-[AMPopTip(Animation) bounceAnimation]_block_invoke
+__copy_helper_block_30
+__destroy_helper_block_31
+__38-[AMPopTip(Animation) bounceAnimation]_block_invoke33
+__38-[AMPopTip(Animation) bounceAnimation]_block_invoke_2
+__copy_helper_block_34
+__destroy_helper_block_35
+__38-[AMPopTip(Animation) bounceAnimation]_block_invoke37
+__copy_helper_block_38
+__destroy_helper_block_39
+__copy_helper_block_44
+__destroy_helper_block_45
+-[AMPopTip(Animation) pulseAnimation]
+__37-[AMPopTip(Animation) pulseAnimation]_block_invoke
+__copy_helper_block_49
+__destroy_helper_block_50
+-[AMPopTip(Animation) dismissActionAnimation]
+__45-[AMPopTip(Animation) dismissActionAnimation]_block_invoke
+__copy_helper_block_56
+__destroy_helper_block_57
+__45-[AMPopTip(Animation) dismissActionAnimation]_block_invoke59
+__copy_helper_block_64
+__destroy_helper_block_65
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_1
+OBJC_SELECTOR_REFERENCES_2
+OBJC_METH_VAR_NAME_3
+OBJC_SELECTOR_REFERENCES_4
+OBJC_METH_VAR_NAME_5
+OBJC_SELECTOR_REFERENCES_6
+OBJC_METH_VAR_NAME_7
+OBJC_SELECTOR_REFERENCES_8
+OBJC_METH_VAR_NAME_9
+OBJC_SELECTOR_REFERENCES_10
+OBJC_METH_VAR_NAME_11
+OBJC_SELECTOR_REFERENCES_12
+OBJC_METH_VAR_NAME_13
+OBJC_SELECTOR_REFERENCES_14
+OBJC_METH_VAR_NAME_15
+OBJC_SELECTOR_REFERENCES_16
+OBJC_METH_VAR_NAME_17
+OBJC_SELECTOR_REFERENCES_18
+OBJC_CLASSLIST_REFERENCES_$_19
+OBJC_METH_VAR_NAME_20
+OBJC_SELECTOR_REFERENCES_21
+OBJC_METH_VAR_NAME_22
+OBJC_SELECTOR_REFERENCES_23
+OBJC_METH_VAR_NAME_24
+OBJC_SELECTOR_REFERENCES_25
+.str
+__block_descriptor_tmp
+OBJC_METH_VAR_NAME_26
+OBJC_SELECTOR_REFERENCES_27
+OBJC_METH_VAR_NAME_28
+OBJC_SELECTOR_REFERENCES_29
+__block_descriptor_tmp32
+__block_descriptor_tmp36
+.str40
+__block_descriptor_tmp41
+OBJC_METH_VAR_NAME_42
+OBJC_SELECTOR_REFERENCES_43
+__block_descriptor_tmp46
+OBJC_METH_VAR_NAME_47
+OBJC_SELECTOR_REFERENCES_48
+__block_descriptor_tmp51
+OBJC_METH_VAR_NAME_52
+OBJC_SELECTOR_REFERENCES_53
+OBJC_METH_VAR_NAME_54
+OBJC_SELECTOR_REFERENCES_55
+__block_descriptor_tmp58
+OBJC_METH_VAR_NAME_60
+OBJC_SELECTOR_REFERENCES_61
+OBJC_METH_VAR_NAME_62
+OBJC_SELECTOR_REFERENCES_63
+__block_descriptor_tmp66
+OBJC_CLASS_NAME_
+OBJC_METH_VAR_TYPE_
+OBJC_METH_VAR_TYPE_67
+OBJC_METH_VAR_NAME_68
+OBJC_METH_VAR_TYPE_69
+OBJC_METH_VAR_NAME_70
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_AMPopTip_$_Animation
+l_OBJC_$_CATEGORY_AMPopTip_$_Animation
+OBJC_LABEL_CATEGORY_$
+Apple LLVM version 7.0.0 (clang-700.1.76)
+/Users/Andrea/Library/Developer/Xcode/DerivedData/ModuleCache/22SEMQBHQFYQ8/CoreGraphics-1YQ59ILDR3NYI.pcm
+CoreGraphics
+/Users/Andrea/Library/Developer/Xcode/DerivedData/ModuleCache/22SEMQBHQFYQ8/ObjectiveC-2CD0WTQVXITO7.pcm
+ObjectiveC
+/Users/Andrea/Library/Developer/Xcode/DerivedData/ModuleCache/22SEMQBHQFYQ8/UIKit-2LM3EQU7VVY4O.pcm
+UIKit
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.sdk/System/Library/Frameworks/UIKit.framework
+/Users/Andrea/code/AMPopTip/Source/AMPopTip+Animation.m
+/Users/Andrea/code/AMPopTip/PopTipDemo/Pods
+-[AMPopTip(Animation) dismissActionAnimation]
+-[AMPopTip(Animation) pulseAnimation]
+-[AMPopTip(Animation) bounceAnimation]
+-[AMPopTip(Animation) floatAnimation]
+-[AMPopTip(Animation) performActionAnimation]
+-[AMPopTip(Animation) shouldBounce]
+-[AMPopTip(Animation) setShouldBounce:]
+-[AMPopTip(Draw) pathWithRect:direction:]
+OBJC_METH_VAR_NAME_19
+OBJC_SELECTOR_REFERENCES_20
+OBJC_METH_VAR_NAME_21
+OBJC_SELECTOR_REFERENCES_22
+OBJC_METH_VAR_NAME_23
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_AMPopTip_$_Draw
+l_OBJC_$_CATEGORY_AMPopTip_$_Draw
+CGSizeMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+-[AMPopTip(Draw) pathWithRect:direction:]
+/Users/Andrea/code/AMPopTip/Source/AMPopTip+Draw.m
+-[AMPopTip(Entrance) performEntranceAnimation:]
+__47-[AMPopTip(Entrance) performEntranceAnimation:]_block_invoke
+-[AMPopTip(Entrance) entranceTransition:]
+__41-[AMPopTip(Entrance) entranceTransition:]_block_invoke
+__copy_helper_block_25
+__destroy_helper_block_26
+__41-[AMPopTip(Entrance) entranceTransition:]_block_invoke28
+__copy_helper_block_29
+__destroy_helper_block_30
+-[AMPopTip(Entrance) entranceScale:]
+__36-[AMPopTip(Entrance) entranceScale:]_block_invoke
+__copy_helper_block_35
+__destroy_helper_block_36
+__36-[AMPopTip(Entrance) entranceScale:]_block_invoke38
+__copy_helper_block_39
+__destroy_helper_block_40
+OBJC_SELECTOR_REFERENCES_24
+__block_descriptor_tmp27
+.str31
+OBJC_METH_VAR_NAME_33
+OBJC_SELECTOR_REFERENCES_34
+__block_descriptor_tmp37
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_AMPopTip_$_Entrance
+l_OBJC_$_CATEGORY_AMPopTip_$_Entrance
+/Users/Andrea/code/AMPopTip/Source/AMPopTip+Entrance.m
+-[AMPopTip(Entrance) entranceScale:]
+-[AMPopTip(Entrance) entranceTransition:]
+-[AMPopTip(Entrance) performEntranceAnimation:]
+l_OBJC_METACLASS_RO_$_PodsDummy_AMPopTip
+l_OBJC_CLASS_RO_$_PodsDummy_AMPopTip
+OBJC_LABEL_CLASS_$
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.sdk/usr/include/objc
+/Users/Andrea/Library/Developer/Xcode/DerivedData/ModuleCache/22SEMQBHQFYQ8/Foundation-A3SOD99KJ0S9.pcm
+Foundation
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.sdk/System/Library/Frameworks/Foundation.framework
+/Users/Andrea/code/AMPopTip/PopTipDemo/Pods/Target Support Files/AMPopTip/AMPopTip-dummy.m
++[AMPopTip popTip]
+-[AMPopTip initWithCoder:]
+-[AMPopTip initWithFrame:]
+-[AMPopTip init]
+-[AMPopTip commonInit]
+-[AMPopTip layoutSubviews]
+-[AMPopTip setup]
+-[AMPopTip handleTap:]
+-[AMPopTip tapRemoveGestureHandler]
+-[AMPopTip swipeRemoveGestureHandler]
+-[AMPopTip drawRect:]
+-[AMPopTip show]
+__16-[AMPopTip show]_block_invoke
+-[AMPopTip showText:direction:maxWidth:inView:fromFrame:]
+-[AMPopTip showAttributedText:direction:maxWidth:inView:fromFrame:]
+-[AMPopTip showCustomView:direction:inView:fromFrame:]
+-[AMPopTip setFromFrame:]
+-[AMPopTip showText:direction:maxWidth:inView:fromFrame:duration:]
+-[AMPopTip showAttributedText:direction:maxWidth:inView:fromFrame:duration:]
+-[AMPopTip showCustomView:direction:inView:fromFrame:duration:]
+-[AMPopTip hide]
+__16-[AMPopTip hide]_block_invoke
+__copy_helper_block_213
+__destroy_helper_block_214
+__16-[AMPopTip hide]_block_invoke216
+__copy_helper_block_225
+__destroy_helper_block_226
+-[AMPopTip updateText:]
+-[AMPopTip startActionAnimation]
+-[AMPopTip stopActionAnimation]
+-[AMPopTip setShouldDismissOnTapOutside:]
+-[AMPopTip setShouldDismissOnSwipeOutside:]
+-[AMPopTip setSwipeRemoveGestureDirection:]
+-[AMPopTip dealloc]
+-[AMPopTip font]
+-[AMPopTip setFont:]
+-[AMPopTip textColor]
+-[AMPopTip setTextColor:]
+-[AMPopTip textAlignment]
+-[AMPopTip setTextAlignment:]
+-[AMPopTip popoverColor]
+-[AMPopTip setPopoverColor:]
+-[AMPopTip borderColor]
+-[AMPopTip setBorderColor:]
+-[AMPopTip borderWidth]
+-[AMPopTip setBorderWidth:]
+-[AMPopTip radius]
+-[AMPopTip setRadius:]
+-[AMPopTip isRounded]
+-[AMPopTip setRounded:]
+-[AMPopTip offset]
+-[AMPopTip setOffset:]
+-[AMPopTip padding]
+-[AMPopTip setPadding:]
+-[AMPopTip edgeInsets]
+-[AMPopTip setEdgeInsets:]
+-[AMPopTip arrowSize]
+-[AMPopTip setArrowSize:]
+-[AMPopTip animationIn]
+-[AMPopTip setAnimationIn:]
+-[AMPopTip animationOut]
+-[AMPopTip setAnimationOut:]
+-[AMPopTip delayIn]
+-[AMPopTip setDelayIn:]
+-[AMPopTip delayOut]
+-[AMPopTip setDelayOut:]
+-[AMPopTip entranceAnimation]
+-[AMPopTip setEntranceAnimation:]
+-[AMPopTip actionAnimation]
+-[AMPopTip setActionAnimation:]
+-[AMPopTip actionFloatOffset]
+-[AMPopTip setActionFloatOffset:]
+-[AMPopTip actionBounceOffset]
+-[AMPopTip setActionBounceOffset:]
+-[AMPopTip actionPulseOffset]
+-[AMPopTip setActionPulseOffset:]
+-[AMPopTip actionAnimationIn]
+-[AMPopTip setActionAnimationIn:]
+-[AMPopTip actionAnimationOut]
+-[AMPopTip setActionAnimationOut:]
+-[AMPopTip actionDelayIn]
+-[AMPopTip setActionDelayIn:]
+-[AMPopTip actionDelayOut]
+-[AMPopTip setActionDelayOut:]
+-[AMPopTip edgeMargin]
+-[AMPopTip setEdgeMargin:]
+-[AMPopTip fromFrame]
+-[AMPopTip isVisible]
+-[AMPopTip setIsVisible:]
+-[AMPopTip isAnimating]
+-[AMPopTip setIsAnimating:]
+-[AMPopTip shouldDismissOnTap]
+-[AMPopTip setShouldDismissOnTap:]
+-[AMPopTip shouldDismissOnTapOutside]
+-[AMPopTip shouldDismissOnSwipeOutside]
+-[AMPopTip swipeRemoveGestureDirection]
+-[AMPopTip tapHandler]
+-[AMPopTip setTapHandler:]
+-[AMPopTip appearHandler]
+-[AMPopTip setAppearHandler:]
+-[AMPopTip dismissHandler]
+-[AMPopTip setDismissHandler:]
+-[AMPopTip entranceAnimationHandler]
+-[AMPopTip setEntranceAnimationHandler:]
+-[AMPopTip arrowPosition]
+-[AMPopTip setArrowPosition:]
+-[AMPopTip containerView]
+-[AMPopTip setContainerView:]
+-[AMPopTip direction]
+-[AMPopTip setDirection:]
+-[AMPopTip text]
+-[AMPopTip setText:]
+-[AMPopTip attributedText]
+-[AMPopTip setAttributedText:]
+-[AMPopTip paragraphStyle]
+-[AMPopTip setParagraphStyle:]
+-[AMPopTip gestureRecognizer]
+-[AMPopTip setGestureRecognizer:]
+-[AMPopTip tapRemoveGesture]
+-[AMPopTip setTapRemoveGesture:]
+-[AMPopTip swipeRemoveGesture]
+-[AMPopTip setSwipeRemoveGesture:]
+-[AMPopTip dismissTimer]
+-[AMPopTip setDismissTimer:]
+-[AMPopTip textBounds]
+-[AMPopTip setTextBounds:]
+-[AMPopTip maxWidth]
+-[AMPopTip setMaxWidth:]
+-[AMPopTip customView]
+-[AMPopTip setCustomView:]
+-[AMPopTip .cxx_destruct]
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_CLASSLIST_REFERENCES_$_9
+OBJC_IVAR_$_AMPopTip._paragraphStyle
+OBJC_IVAR_$_AMPopTip._textAlignment
+OBJC_CLASSLIST_REFERENCES_$_10
+OBJC_IVAR_$_AMPopTip._font
+OBJC_CLASSLIST_REFERENCES_$_15
+OBJC_METH_VAR_NAME_16
+OBJC_SELECTOR_REFERENCES_17
+OBJC_IVAR_$_AMPopTip._textColor
+OBJC_METH_VAR_NAME_18
+OBJC_SELECTOR_REFERENCES_19
+OBJC_IVAR_$_AMPopTip._popoverColor
+OBJC_IVAR_$_AMPopTip._borderColor
+OBJC_IVAR_$_AMPopTip._borderWidth
+OBJC_IVAR_$_AMPopTip._radius
+OBJC_IVAR_$_AMPopTip._padding
+OBJC_IVAR_$_AMPopTip._arrowSize
+OBJC_IVAR_$_AMPopTip._animationIn
+OBJC_IVAR_$_AMPopTip._animationOut
+OBJC_IVAR_$_AMPopTip._isVisible
+OBJC_IVAR_$_AMPopTip._shouldDismissOnTapOutside
+OBJC_IVAR_$_AMPopTip._edgeMargin
+OBJC_IVAR_$_AMPopTip._edgeInsets
+OBJC_IVAR_$_AMPopTip._rounded
+OBJC_IVAR_$_AMPopTip._offset
+OBJC_IVAR_$_AMPopTip._entranceAnimation
+OBJC_IVAR_$_AMPopTip._actionAnimation
+OBJC_IVAR_$_AMPopTip._actionFloatOffset
+OBJC_IVAR_$_AMPopTip._actionBounceOffset
+OBJC_IVAR_$_AMPopTip._actionPulseOffset
+OBJC_IVAR_$_AMPopTip._actionAnimationIn
+OBJC_IVAR_$_AMPopTip._actionAnimationOut
+OBJC_CLASSLIST_REFERENCES_$_22
+OBJC_METH_VAR_NAME_25
+OBJC_SELECTOR_REFERENCES_26
+OBJC_IVAR_$_AMPopTip._tapRemoveGesture
+OBJC_CLASSLIST_REFERENCES_$_27
+OBJC_IVAR_$_AMPopTip._swipeRemoveGesture
+OBJC_METH_VAR_NAME_30
+OBJC_SELECTOR_REFERENCES_31
+OBJC_METH_VAR_NAME_32
+OBJC_SELECTOR_REFERENCES_33
+OBJC_METH_VAR_NAME_34
+OBJC_SELECTOR_REFERENCES_35
+OBJC_METH_VAR_NAME_36
+OBJC_SELECTOR_REFERENCES_37
+OBJC_METH_VAR_NAME_38
+OBJC_SELECTOR_REFERENCES_39
+OBJC_METH_VAR_NAME_40
+OBJC_SELECTOR_REFERENCES_41
+OBJC_METH_VAR_NAME_44
+OBJC_SELECTOR_REFERENCES_45
+OBJC_METH_VAR_NAME_46
+OBJC_SELECTOR_REFERENCES_47
+OBJC_METH_VAR_NAME_48
+OBJC_SELECTOR_REFERENCES_49
+OBJC_METH_VAR_NAME_50
+OBJC_SELECTOR_REFERENCES_51
+OBJC_CLASSLIST_REFERENCES_$_54
+OBJC_METH_VAR_NAME_55
+OBJC_SELECTOR_REFERENCES_56
+OBJC_METH_VAR_NAME_57
+OBJC_SELECTOR_REFERENCES_58
+OBJC_METH_VAR_NAME_59
+OBJC_SELECTOR_REFERENCES_60
+OBJC_METH_VAR_NAME_61
+OBJC_SELECTOR_REFERENCES_62
+OBJC_METH_VAR_NAME_63
+OBJC_SELECTOR_REFERENCES_64
+OBJC_METH_VAR_NAME_65
+OBJC_SELECTOR_REFERENCES_66
+OBJC_METH_VAR_NAME_67
+OBJC_SELECTOR_REFERENCES_68
+OBJC_IVAR_$_AMPopTip._textBounds
+OBJC_METH_VAR_NAME_69
+OBJC_SELECTOR_REFERENCES_70
+OBJC_METH_VAR_NAME_71
+OBJC_SELECTOR_REFERENCES_72
+OBJC_METH_VAR_NAME_73
+OBJC_SELECTOR_REFERENCES_74
+OBJC_METH_VAR_NAME_75
+OBJC_SELECTOR_REFERENCES_76
+OBJC_METH_VAR_NAME_77
+OBJC_SELECTOR_REFERENCES_78
+OBJC_METH_VAR_NAME_79
+OBJC_SELECTOR_REFERENCES_80
+OBJC_METH_VAR_NAME_81
+OBJC_SELECTOR_REFERENCES_82
+OBJC_METH_VAR_NAME_83
+OBJC_SELECTOR_REFERENCES_84
+OBJC_METH_VAR_NAME_85
+OBJC_SELECTOR_REFERENCES_86
+OBJC_METH_VAR_NAME_87
+OBJC_SELECTOR_REFERENCES_88
+OBJC_METH_VAR_NAME_89
+OBJC_SELECTOR_REFERENCES_90
+OBJC_METH_VAR_NAME_91
+OBJC_SELECTOR_REFERENCES_92
+OBJC_METH_VAR_NAME_93
+OBJC_SELECTOR_REFERENCES_94
+OBJC_METH_VAR_NAME_95
+OBJC_SELECTOR_REFERENCES_96
+OBJC_METH_VAR_NAME_97
+OBJC_SELECTOR_REFERENCES_98
+OBJC_METH_VAR_NAME_99
+OBJC_SELECTOR_REFERENCES_100
+OBJC_METH_VAR_NAME_101
+OBJC_SELECTOR_REFERENCES_102
+OBJC_METH_VAR_NAME_103
+OBJC_SELECTOR_REFERENCES_104
+OBJC_METH_VAR_NAME_105
+OBJC_SELECTOR_REFERENCES_106
+OBJC_METH_VAR_NAME_107
+OBJC_SELECTOR_REFERENCES_108
+OBJC_METH_VAR_NAME_109
+OBJC_SELECTOR_REFERENCES_110
+OBJC_METH_VAR_NAME_111
+OBJC_SELECTOR_REFERENCES_112
+OBJC_METH_VAR_NAME_113
+OBJC_SELECTOR_REFERENCES_114
+OBJC_METH_VAR_NAME_115
+OBJC_SELECTOR_REFERENCES_116
+OBJC_METH_VAR_NAME_117
+OBJC_SELECTOR_REFERENCES_118
+OBJC_METH_VAR_NAME_119
+OBJC_SELECTOR_REFERENCES_120
+OBJC_METH_VAR_NAME_121
+OBJC_SELECTOR_REFERENCES_122
+OBJC_METH_VAR_NAME_123
+OBJC_SELECTOR_REFERENCES_124
+OBJC_METH_VAR_NAME_125
+OBJC_SELECTOR_REFERENCES_126
+OBJC_METH_VAR_NAME_127
+OBJC_SELECTOR_REFERENCES_128
+OBJC_METH_VAR_NAME_129
+OBJC_SELECTOR_REFERENCES_130
+OBJC_METH_VAR_NAME_131
+OBJC_SELECTOR_REFERENCES_132
+OBJC_METH_VAR_NAME_133
+OBJC_SELECTOR_REFERENCES_134
+OBJC_METH_VAR_NAME_135
+OBJC_SELECTOR_REFERENCES_136
+OBJC_METH_VAR_NAME_137
+OBJC_SELECTOR_REFERENCES_138
+OBJC_METH_VAR_NAME_139
+OBJC_SELECTOR_REFERENCES_140
+OBJC_METH_VAR_NAME_141
+OBJC_SELECTOR_REFERENCES_142
+OBJC_METH_VAR_NAME_143
+OBJC_SELECTOR_REFERENCES_144
+OBJC_METH_VAR_NAME_145
+OBJC_SELECTOR_REFERENCES_146
+OBJC_METH_VAR_NAME_147
+OBJC_SELECTOR_REFERENCES_148
+OBJC_METH_VAR_NAME_149
+OBJC_SELECTOR_REFERENCES_150
+OBJC_METH_VAR_NAME_151
+OBJC_SELECTOR_REFERENCES_152
+OBJC_METH_VAR_NAME_153
+OBJC_SELECTOR_REFERENCES_154
+OBJC_METH_VAR_NAME_155
+OBJC_SELECTOR_REFERENCES_156
+OBJC_METH_VAR_NAME_157
+OBJC_SELECTOR_REFERENCES_158
+OBJC_METH_VAR_NAME_159
+OBJC_SELECTOR_REFERENCES_160
+OBJC_METH_VAR_NAME_161
+OBJC_SELECTOR_REFERENCES_162
+OBJC_METH_VAR_NAME_163
+OBJC_SELECTOR_REFERENCES_164
+OBJC_METH_VAR_NAME_165
+OBJC_SELECTOR_REFERENCES_166
+OBJC_METH_VAR_NAME_167
+OBJC_SELECTOR_REFERENCES_168
+OBJC_METH_VAR_NAME_169
+OBJC_SELECTOR_REFERENCES_170
+OBJC_METH_VAR_NAME_171
+OBJC_SELECTOR_REFERENCES_172
+OBJC_METH_VAR_NAME_173
+OBJC_SELECTOR_REFERENCES_174
+OBJC_METH_VAR_NAME_175
+OBJC_SELECTOR_REFERENCES_176
+OBJC_METH_VAR_NAME_177
+OBJC_SELECTOR_REFERENCES_178
+OBJC_IVAR_$_AMPopTip._fromFrame
+OBJC_METH_VAR_NAME_179
+OBJC_SELECTOR_REFERENCES_180
+OBJC_METH_VAR_NAME_181
+OBJC_SELECTOR_REFERENCES_182
+OBJC_METH_VAR_NAME_183
+OBJC_SELECTOR_REFERENCES_184
+OBJC_METH_VAR_NAME_185
+OBJC_SELECTOR_REFERENCES_186
+OBJC_METH_VAR_NAME_187
+OBJC_SELECTOR_REFERENCES_188
+OBJC_METH_VAR_NAME_189
+OBJC_SELECTOR_REFERENCES_190
+OBJC_METH_VAR_NAME_191
+OBJC_SELECTOR_REFERENCES_192
+OBJC_CLASSLIST_REFERENCES_$_193
+OBJC_METH_VAR_NAME_194
+OBJC_SELECTOR_REFERENCES_195
+OBJC_METH_VAR_NAME_196
+OBJC_SELECTOR_REFERENCES_197
+OBJC_METH_VAR_NAME_198
+OBJC_SELECTOR_REFERENCES_199
+OBJC_METH_VAR_NAME_200
+OBJC_SELECTOR_REFERENCES_201
+OBJC_METH_VAR_NAME_202
+OBJC_SELECTOR_REFERENCES_203
+OBJC_METH_VAR_NAME_204
+OBJC_SELECTOR_REFERENCES_205
+OBJC_METH_VAR_NAME_206
+OBJC_SELECTOR_REFERENCES_207
+OBJC_CLASSLIST_REFERENCES_$_208
+OBJC_METH_VAR_NAME_209
+OBJC_SELECTOR_REFERENCES_210
+OBJC_METH_VAR_NAME_211
+OBJC_SELECTOR_REFERENCES_212
+__block_descriptor_tmp215
+OBJC_METH_VAR_NAME_217
+OBJC_SELECTOR_REFERENCES_218
+OBJC_METH_VAR_NAME_219
+OBJC_SELECTOR_REFERENCES_220
+OBJC_METH_VAR_NAME_221
+OBJC_SELECTOR_REFERENCES_222
+OBJC_IVAR_$_AMPopTip._isAnimating
+OBJC_METH_VAR_NAME_223
+OBJC_SELECTOR_REFERENCES_224
+.str227
+__block_descriptor_tmp228
+OBJC_METH_VAR_NAME_229
+OBJC_SELECTOR_REFERENCES_230
+OBJC_METH_VAR_NAME_231
+OBJC_SELECTOR_REFERENCES_232
+OBJC_METH_VAR_NAME_233
+OBJC_SELECTOR_REFERENCES_234
+OBJC_METH_VAR_NAME_235
+OBJC_SELECTOR_REFERENCES_236
+OBJC_IVAR_$_AMPopTip._shouldDismissOnSwipeOutside
+OBJC_IVAR_$_AMPopTip._swipeRemoveGestureDirection
+OBJC_METH_VAR_NAME_237
+OBJC_SELECTOR_REFERENCES_238
+OBJC_METH_VAR_NAME_239
+OBJC_SELECTOR_REFERENCES_240
+OBJC_IVAR_$_AMPopTip._delayIn
+OBJC_IVAR_$_AMPopTip._delayOut
+OBJC_IVAR_$_AMPopTip._actionDelayIn
+OBJC_IVAR_$_AMPopTip._actionDelayOut
+OBJC_IVAR_$_AMPopTip._shouldDismissOnTap
+OBJC_IVAR_$_AMPopTip._tapHandler
+OBJC_IVAR_$_AMPopTip._appearHandler
+OBJC_IVAR_$_AMPopTip._dismissHandler
+OBJC_IVAR_$_AMPopTip._entranceAnimationHandler
+OBJC_IVAR_$_AMPopTip._arrowPosition
+OBJC_IVAR_$_AMPopTip._containerView
+OBJC_IVAR_$_AMPopTip._direction
+OBJC_IVAR_$_AMPopTip._text
+OBJC_IVAR_$_AMPopTip._attributedText
+OBJC_IVAR_$_AMPopTip._gestureRecognizer
+OBJC_IVAR_$_AMPopTip._dismissTimer
+OBJC_IVAR_$_AMPopTip._maxWidth
+OBJC_IVAR_$_AMPopTip._customView
+OBJC_METH_VAR_NAME_241
+l_OBJC_$_CLASS_METHODS_AMPopTip
+l_OBJC_METACLASS_RO_$_AMPopTip
+OBJC_CLASS_NAME_242
+OBJC_METH_VAR_TYPE_243
+OBJC_METH_VAR_TYPE_244
+OBJC_METH_VAR_TYPE_245
+OBJC_METH_VAR_NAME_246
+OBJC_METH_VAR_TYPE_247
+OBJC_METH_VAR_NAME_248
+OBJC_METH_VAR_TYPE_249
+OBJC_METH_VAR_TYPE_250
+OBJC_METH_VAR_TYPE_251
+OBJC_METH_VAR_NAME_252
+OBJC_METH_VAR_NAME_253
+OBJC_METH_VAR_TYPE_254
+OBJC_METH_VAR_NAME_255
+OBJC_METH_VAR_NAME_256
+OBJC_METH_VAR_TYPE_257
+OBJC_METH_VAR_NAME_258
+OBJC_METH_VAR_NAME_259
+OBJC_METH_VAR_TYPE_260
+OBJC_METH_VAR_NAME_261
+OBJC_METH_VAR_NAME_262
+OBJC_METH_VAR_TYPE_263
+OBJC_METH_VAR_NAME_264
+OBJC_METH_VAR_NAME_265
+OBJC_METH_VAR_NAME_266
+OBJC_METH_VAR_TYPE_267
+OBJC_METH_VAR_NAME_268
+OBJC_METH_VAR_TYPE_269
+OBJC_METH_VAR_NAME_270
+OBJC_METH_VAR_NAME_271
+OBJC_METH_VAR_TYPE_272
+OBJC_METH_VAR_NAME_273
+OBJC_METH_VAR_TYPE_274
+OBJC_METH_VAR_NAME_275
+OBJC_METH_VAR_TYPE_276
+OBJC_METH_VAR_NAME_277
+OBJC_METH_VAR_NAME_278
+OBJC_METH_VAR_NAME_279
+OBJC_METH_VAR_TYPE_280
+OBJC_METH_VAR_NAME_281
+OBJC_METH_VAR_TYPE_282
+OBJC_METH_VAR_TYPE_283
+OBJC_METH_VAR_NAME_284
+OBJC_METH_VAR_TYPE_285
+OBJC_METH_VAR_NAME_286
+OBJC_METH_VAR_TYPE_287
+OBJC_METH_VAR_NAME_288
+OBJC_METH_VAR_TYPE_289
+OBJC_METH_VAR_NAME_290
+OBJC_METH_VAR_NAME_291
+OBJC_METH_VAR_NAME_292
+OBJC_METH_VAR_NAME_293
+OBJC_METH_VAR_NAME_294
+OBJC_METH_VAR_NAME_295
+OBJC_METH_VAR_NAME_296
+OBJC_METH_VAR_NAME_297
+OBJC_METH_VAR_NAME_298
+OBJC_METH_VAR_NAME_299
+OBJC_METH_VAR_NAME_300
+OBJC_METH_VAR_NAME_301
+OBJC_METH_VAR_NAME_302
+OBJC_METH_VAR_NAME_303
+OBJC_METH_VAR_NAME_304
+OBJC_METH_VAR_NAME_305
+OBJC_METH_VAR_NAME_306
+OBJC_METH_VAR_NAME_307
+OBJC_METH_VAR_NAME_308
+OBJC_METH_VAR_NAME_309
+OBJC_METH_VAR_NAME_310
+OBJC_METH_VAR_NAME_311
+OBJC_METH_VAR_TYPE_312
+OBJC_METH_VAR_NAME_313
+OBJC_METH_VAR_NAME_314
+OBJC_METH_VAR_TYPE_315
+OBJC_METH_VAR_TYPE_316
+OBJC_METH_VAR_NAME_317
+OBJC_METH_VAR_TYPE_318
+OBJC_METH_VAR_NAME_319
+OBJC_METH_VAR_NAME_320
+OBJC_METH_VAR_NAME_321
+OBJC_METH_VAR_NAME_322
+OBJC_METH_VAR_TYPE_323
+OBJC_METH_VAR_TYPE_324
+OBJC_METH_VAR_NAME_325
+OBJC_METH_VAR_NAME_326
+OBJC_METH_VAR_NAME_327
+l_OBJC_$_INSTANCE_METHODS_AMPopTip
+OBJC_METH_VAR_NAME_328
+OBJC_METH_VAR_TYPE_329
+OBJC_METH_VAR_NAME_330
+OBJC_METH_VAR_NAME_331
+OBJC_METH_VAR_NAME_332
+OBJC_METH_VAR_NAME_333
+OBJC_METH_VAR_NAME_334
+OBJC_METH_VAR_NAME_335
+OBJC_METH_VAR_TYPE_336
+OBJC_METH_VAR_NAME_337
+OBJC_METH_VAR_TYPE_338
+OBJC_METH_VAR_NAME_339
+OBJC_METH_VAR_TYPE_340
+OBJC_METH_VAR_NAME_341
+OBJC_METH_VAR_NAME_342
+OBJC_METH_VAR_NAME_343
+OBJC_METH_VAR_TYPE_344
+OBJC_METH_VAR_NAME_345
+OBJC_METH_VAR_NAME_346
+OBJC_METH_VAR_NAME_347
+OBJC_METH_VAR_NAME_348
+OBJC_METH_VAR_NAME_349
+OBJC_METH_VAR_NAME_350
+OBJC_METH_VAR_NAME_351
+OBJC_METH_VAR_NAME_352
+OBJC_METH_VAR_NAME_353
+OBJC_METH_VAR_NAME_354
+OBJC_METH_VAR_TYPE_355
+OBJC_METH_VAR_NAME_356
+OBJC_METH_VAR_TYPE_357
+OBJC_METH_VAR_NAME_358
+OBJC_METH_VAR_NAME_359
+OBJC_METH_VAR_NAME_360
+OBJC_METH_VAR_NAME_361
+OBJC_METH_VAR_TYPE_362
+OBJC_METH_VAR_NAME_363
+OBJC_METH_VAR_NAME_364
+OBJC_METH_VAR_TYPE_365
+OBJC_METH_VAR_NAME_366
+OBJC_METH_VAR_TYPE_367
+OBJC_METH_VAR_NAME_368
+OBJC_METH_VAR_TYPE_369
+OBJC_METH_VAR_NAME_370
+OBJC_METH_VAR_TYPE_371
+OBJC_METH_VAR_NAME_372
+OBJC_METH_VAR_NAME_373
+OBJC_METH_VAR_TYPE_374
+OBJC_METH_VAR_NAME_375
+OBJC_METH_VAR_TYPE_376
+OBJC_METH_VAR_NAME_377
+OBJC_METH_VAR_NAME_378
+OBJC_METH_VAR_NAME_379
+OBJC_METH_VAR_TYPE_380
+OBJC_METH_VAR_NAME_381
+OBJC_METH_VAR_TYPE_382
+OBJC_METH_VAR_NAME_383
+OBJC_METH_VAR_NAME_384
+OBJC_METH_VAR_NAME_385
+OBJC_METH_VAR_NAME_386
+OBJC_METH_VAR_NAME_387
+OBJC_METH_VAR_NAME_388
+OBJC_METH_VAR_NAME_389
+OBJC_METH_VAR_NAME_390
+OBJC_METH_VAR_TYPE_391
+OBJC_METH_VAR_NAME_392
+OBJC_METH_VAR_TYPE_393
+OBJC_METH_VAR_NAME_394
+OBJC_METH_VAR_TYPE_395
+OBJC_METH_VAR_NAME_396
+l_OBJC_$_INSTANCE_VARIABLES_AMPopTip
+OBJC_CLASS_NAME_397
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_398
+OBJC_PROP_NAME_ATTR_399
+OBJC_PROP_NAME_ATTR_400
+OBJC_PROP_NAME_ATTR_401
+OBJC_PROP_NAME_ATTR_402
+OBJC_PROP_NAME_ATTR_403
+OBJC_PROP_NAME_ATTR_404
+OBJC_PROP_NAME_ATTR_405
+OBJC_PROP_NAME_ATTR_406
+OBJC_PROP_NAME_ATTR_407
+OBJC_PROP_NAME_ATTR_408
+OBJC_PROP_NAME_ATTR_409
+OBJC_PROP_NAME_ATTR_410
+OBJC_PROP_NAME_ATTR_411
+OBJC_PROP_NAME_ATTR_412
+OBJC_PROP_NAME_ATTR_413
+OBJC_PROP_NAME_ATTR_414
+OBJC_PROP_NAME_ATTR_415
+OBJC_PROP_NAME_ATTR_416
+OBJC_PROP_NAME_ATTR_417
+OBJC_PROP_NAME_ATTR_418
+OBJC_PROP_NAME_ATTR_419
+OBJC_PROP_NAME_ATTR_420
+OBJC_PROP_NAME_ATTR_421
+OBJC_PROP_NAME_ATTR_422
+OBJC_PROP_NAME_ATTR_423
+OBJC_PROP_NAME_ATTR_424
+OBJC_PROP_NAME_ATTR_425
+OBJC_PROP_NAME_ATTR_426
+OBJC_PROP_NAME_ATTR_427
+OBJC_PROP_NAME_ATTR_428
+OBJC_PROP_NAME_ATTR_429
+OBJC_PROP_NAME_ATTR_430
+OBJC_PROP_NAME_ATTR_431
+OBJC_PROP_NAME_ATTR_432
+OBJC_PROP_NAME_ATTR_433
+OBJC_PROP_NAME_ATTR_434
+OBJC_PROP_NAME_ATTR_435
+OBJC_PROP_NAME_ATTR_436
+OBJC_PROP_NAME_ATTR_437
+OBJC_PROP_NAME_ATTR_438
+OBJC_PROP_NAME_ATTR_439
+OBJC_PROP_NAME_ATTR_440
+OBJC_PROP_NAME_ATTR_441
+OBJC_PROP_NAME_ATTR_442
+OBJC_PROP_NAME_ATTR_443
+OBJC_PROP_NAME_ATTR_444
+OBJC_PROP_NAME_ATTR_445
+OBJC_PROP_NAME_ATTR_446
+OBJC_PROP_NAME_ATTR_447
+OBJC_PROP_NAME_ATTR_448
+OBJC_PROP_NAME_ATTR_449
+OBJC_PROP_NAME_ATTR_450
+OBJC_PROP_NAME_ATTR_451
+OBJC_PROP_NAME_ATTR_452
+OBJC_PROP_NAME_ATTR_453
+OBJC_PROP_NAME_ATTR_454
+OBJC_PROP_NAME_ATTR_455
+OBJC_PROP_NAME_ATTR_456
+OBJC_PROP_NAME_ATTR_457
+OBJC_PROP_NAME_ATTR_458
+OBJC_PROP_NAME_ATTR_459
+OBJC_PROP_NAME_ATTR_460
+OBJC_PROP_NAME_ATTR_461
+OBJC_PROP_NAME_ATTR_462
+OBJC_PROP_NAME_ATTR_463
+OBJC_PROP_NAME_ATTR_464
+OBJC_PROP_NAME_ATTR_465
+OBJC_PROP_NAME_ATTR_466
+OBJC_PROP_NAME_ATTR_467
+OBJC_PROP_NAME_ATTR_468
+OBJC_PROP_NAME_ATTR_469
+OBJC_PROP_NAME_ATTR_470
+OBJC_PROP_NAME_ATTR_471
+OBJC_PROP_NAME_ATTR_472
+OBJC_PROP_NAME_ATTR_473
+OBJC_PROP_NAME_ATTR_474
+OBJC_PROP_NAME_ATTR_475
+OBJC_PROP_NAME_ATTR_476
+OBJC_PROP_NAME_ATTR_477
+OBJC_PROP_NAME_ATTR_478
+OBJC_PROP_NAME_ATTR_479
+OBJC_PROP_NAME_ATTR_480
+OBJC_PROP_NAME_ATTR_481
+OBJC_PROP_NAME_ATTR_482
+OBJC_PROP_NAME_ATTR_483
+OBJC_PROP_NAME_ATTR_484
+OBJC_PROP_NAME_ATTR_485
+OBJC_PROP_NAME_ATTR_486
+OBJC_PROP_NAME_ATTR_487
+OBJC_PROP_NAME_ATTR_488
+OBJC_PROP_NAME_ATTR_489
+OBJC_PROP_NAME_ATTR_490
+OBJC_PROP_NAME_ATTR_491
+OBJC_PROP_NAME_ATTR_492
+OBJC_PROP_NAME_ATTR_493
+OBJC_PROP_NAME_ATTR_494
+OBJC_PROP_NAME_ATTR_495
+OBJC_PROP_NAME_ATTR_496
+l_OBJC_$_PROP_LIST_AMPopTip
+l_OBJC_CLASS_RO_$_AMPopTip
+-[AMPopTip .cxx_destruct]
+/Users/Andrea/code/AMPopTip/Source/AMPopTip.m
+-[AMPopTip setCustomView:]
+-[AMPopTip customView]
+-[AMPopTip setMaxWidth:]
+-[AMPopTip maxWidth]
+-[AMPopTip setTextBounds:]
+-[AMPopTip textBounds]
+-[AMPopTip setDismissTimer:]
+-[AMPopTip dismissTimer]
+-[AMPopTip setSwipeRemoveGesture:]
+-[AMPopTip swipeRemoveGesture]
+-[AMPopTip setTapRemoveGesture:]
+-[AMPopTip tapRemoveGesture]
+-[AMPopTip setGestureRecognizer:]
+-[AMPopTip gestureRecognizer]
+-[AMPopTip setParagraphStyle:]
+-[AMPopTip paragraphStyle]
+-[AMPopTip setAttributedText:]
+-[AMPopTip attributedText]
+-[AMPopTip setText:]
+-[AMPopTip text]
+-[AMPopTip setDirection:]
+-[AMPopTip direction]
+/Users/Andrea/code/AMPopTip/Source/AMPopTip.h
+-[AMPopTip setContainerView:]
+-[AMPopTip containerView]
+-[AMPopTip setArrowPosition:]
+-[AMPopTip arrowPosition]
+-[AMPopTip setEntranceAnimationHandler:]
+-[AMPopTip entranceAnimationHandler]
+-[AMPopTip setDismissHandler:]
+-[AMPopTip dismissHandler]
+-[AMPopTip setAppearHandler:]
+-[AMPopTip appearHandler]
+-[AMPopTip setTapHandler:]
+-[AMPopTip tapHandler]
+-[AMPopTip swipeRemoveGestureDirection]
+-[AMPopTip shouldDismissOnSwipeOutside]
+-[AMPopTip shouldDismissOnTapOutside]
+-[AMPopTip setShouldDismissOnTap:]
+-[AMPopTip shouldDismissOnTap]
+-[AMPopTip setIsAnimating:]
+-[AMPopTip isAnimating]
+-[AMPopTip setIsVisible:]
+-[AMPopTip isVisible]
+-[AMPopTip fromFrame]
+-[AMPopTip setEdgeMargin:]
+-[AMPopTip edgeMargin]
+-[AMPopTip setActionDelayOut:]
+-[AMPopTip actionDelayOut]
+-[AMPopTip setActionDelayIn:]
+-[AMPopTip actionDelayIn]
+-[AMPopTip setActionAnimationOut:]
+-[AMPopTip actionAnimationOut]
+-[AMPopTip setActionAnimationIn:]
+-[AMPopTip actionAnimationIn]
+-[AMPopTip setActionPulseOffset:]
+-[AMPopTip actionPulseOffset]
+-[AMPopTip setActionBounceOffset:]
+-[AMPopTip actionBounceOffset]
+-[AMPopTip setActionFloatOffset:]
+-[AMPopTip actionFloatOffset]
+-[AMPopTip setActionAnimation:]
+-[AMPopTip actionAnimation]
+-[AMPopTip setEntranceAnimation:]
+-[AMPopTip entranceAnimation]
+-[AMPopTip setDelayOut:]
+-[AMPopTip delayOut]
+-[AMPopTip setDelayIn:]
+-[AMPopTip delayIn]
+-[AMPopTip setAnimationOut:]
+-[AMPopTip animationOut]
+-[AMPopTip setAnimationIn:]
+-[AMPopTip animationIn]
+-[AMPopTip setArrowSize:]
+-[AMPopTip arrowSize]
+-[AMPopTip setEdgeInsets:]
+-[AMPopTip edgeInsets]
+-[AMPopTip setPadding:]
+-[AMPopTip padding]
+-[AMPopTip setOffset:]
+-[AMPopTip offset]
+-[AMPopTip setRounded:]
+-[AMPopTip isRounded]
+-[AMPopTip setRadius:]
+-[AMPopTip radius]
+-[AMPopTip setBorderWidth:]
+-[AMPopTip borderWidth]
+-[AMPopTip setBorderColor:]
+-[AMPopTip borderColor]
+-[AMPopTip setPopoverColor:]
+-[AMPopTip popoverColor]
+-[AMPopTip setTextAlignment:]
+-[AMPopTip textAlignment]
+-[AMPopTip setTextColor:]
+-[AMPopTip textColor]
+-[AMPopTip setFont:]
+-[AMPopTip font]
+-[AMPopTip dealloc]
+-[AMPopTip setSwipeRemoveGestureDirection:]
+-[AMPopTip setShouldDismissOnSwipeOutside:]
+-[AMPopTip setShouldDismissOnTapOutside:]
+-[AMPopTip stopActionAnimation]
+-[AMPopTip startActionAnimation]
+-[AMPopTip updateText:]
+-[AMPopTip hide]
+-[AMPopTip showCustomView:direction:inView:fromFrame:duration:]
+-[AMPopTip showAttributedText:direction:maxWidth:inView:fromFrame:duration:]
+-[AMPopTip showText:direction:maxWidth:inView:fromFrame:duration:]
+-[AMPopTip setFromFrame:]
+-[AMPopTip showCustomView:direction:inView:fromFrame:]
+-[AMPopTip showAttributedText:direction:maxWidth:inView:fromFrame:]
+-[AMPopTip showText:direction:maxWidth:inView:fromFrame:]
+-[AMPopTip show]
+-[AMPopTip drawRect:]
+-[AMPopTip swipeRemoveGestureHandler]
+-[AMPopTip tapRemoveGestureHandler]
+-[AMPopTip handleTap:]
+-[AMPopTip setup]
+-[AMPopTip layoutSubviews]
+-[AMPopTip commonInit]
+-[AMPopTip init]
+-[AMPopTip initWithFrame:]
+-[AMPopTip initWithCoder:]
++[AMPopTip popTip]
+/Users/Andrea/Library/Developer/Xcode/DerivedData/PopTipDemo-bupvlrnocydojpbkbsxlblshawcs/Build/Intermediates/Pods.build/Release-iphoneos/AMPopTip.build/DerivedSources/AMPopTip_vers.c
+Apple LLVM version 7.0.0 (clang-700.1.75)
+/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/org.llvm.clang.root/ModuleCache/3HWQP4MR9YK1U/Foundation-E7AIY98HG4IO.pcm
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.Internal.sdk/System/Library/Frameworks/Foundation.framework
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -D NDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -miphoneos-version-min=4.3 -g -Wno-sign-conversion -fembed-bitcode -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/DerivedSources/armv7 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Symbols/BuiltProducts -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -fgnu-inline-asm -fmodules -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/cf.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/cf.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-63/source/cf.m -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/cf.o -mlinker-version=253.3.2 -march=armv7a
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-63/source/cf.m
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-63
+_ZL15__ARCLite__loadv
+_ZL30add_image_hook_autoreleasepoolPK11mach_headerl
+_ZL34__arclite_objc_autoreleasePoolPushv
+_ZL33__arclite_objc_autoreleasePoolPopPv
+_ZL19patch_lazy_pointersPK11mach_headerP7patch_tm
+_ZL42__arclite_NSArray_objectAtIndexedSubscriptP7NSArrayP13objc_selectorj
+_ZL53__arclite_NSMutableArray_setObject_atIndexedSubscriptP14NSMutableArrayP13objc_selectorP11objc_objectj
+_ZL46__arclite_NSDictionary_objectForKeyedSubscriptP12NSDictionaryP13objc_selectorP11objc_object
+_ZL47__arclite_NSOrderedSet_objectAtIndexedSubscriptP12NSOrderedSetP13objc_selectorj
+_ZL58__arclite_NSMutableOrderedSet_setObject_atIndexedSubscriptP19NSMutableOrderedSetP13objc_selectorP11objc_objectj
+_ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
+_ZL18add_image_hook_ARCPK11mach_headerl
+_ZL36__arclite_object_setInstanceVariableP11objc_objectPKcPv
+_ZL24__arclite_object_setIvarP11objc_objectP9objc_ivarS0_
+_ZL21__arclite_object_copyP11objc_objectm
+_ZL21__arclite_objc_retainP11objc_object
+_ZL26__arclite_objc_retainBlockP11objc_object
+_ZL22__arclite_objc_releaseP11objc_object
+_ZL26__arclite_objc_autoreleaseP11objc_object
+_ZL32__arclite_objc_retainAutoreleaseP11objc_object
+_ZL37__arclite_objc_autoreleaseReturnValueP11objc_object
+_ZL43__arclite_objc_retainAutoreleaseReturnValueP11objc_object
+_ZL44__arclite_objc_retainAutoreleasedReturnValueP11objc_object
+_ZL26__arclite_objc_storeStrongPP11objc_objectS0_
+_ZL22add_image_hook_swiftV1PK11mach_headerl
+_ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
+_ZL13replaceMethodP10objc_classP13objc_selectorPFP11objc_objectS4_S2_zEPS6_
+_ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
+_ZL41__arclite_NSManagedObject_allocWithEntityP11objc_objectP13objc_selectorS0_
+_ZL36__arclite_NSManagedObject_allocBatchP11objc_objectP13objc_selectorPS0_S0_j
+_ZL37__arclite_NSKKMS_fastIndexForKnownKeyP11objc_objectP13objc_selectorS0_
+_ZL28__arclite_NSKKMS_indexForKeyP11objc_objectP13objc_selectorS0_
+_ZL29__arclite_NSKKsD_objectForKeyP11objc_objectP13objc_selectorS0_
+_ZL35__arclite_NSKKsD_removeObjectForKeyP11objc_objectP13objc_selectorS0_
+_ZL33__arclite_NSKKsD_setObject_forKeyP11objc_objectP13objc_selectorS0_S0_
+_ZL41__arclite_NSKKsD_addEntriesFromDictionaryP11objc_objectP13objc_selectorP12NSDictionary
+_ZL28__arclite_objc_readClassPairP10objc_classPK15objc_image_info
+_ZL32__arclite_objc_allocateClassPairP10objc_classPKcm
+_ZL32__arclite_object_getIndexedIvarsP11objc_object
+_ZL23__arclite_objc_getClassPKc
+_ZL27__arclite_objc_getMetaClassPKc
+_ZL31__arclite_objc_getRequiredClassPKc
+_ZL26__arclite_objc_lookUpClassPKc
+_ZL26__arclite_objc_getProtocolPKc
+_ZL23__arclite_class_getNameP10objc_class
+_ZL26__arclite_protocol_getNameP8Protocol
+_ZL37__arclite_objc_copyClassNamesForImagePKcPj
+_ZL17transcribeMethodsP10objc_classP15glue_class_ro_t
+_ZL19transcribeProtocolsP10objc_classP15glue_class_ro_t
+_ZL20transcribePropertiesP10objc_classP15glue_class_ro_t
+_ZL14initialize_impP11objc_objectP13objc_selector
+_ZL18allocateMaybeSwiftP18glue_swift_class_tm
+_ZL22copySwiftV1MangledNamePKcb
+_ZL13demangledNamePKcb
+_ZL16scanMangledFieldRPKcS0_S1_Ri
+_ZL30arclite_uninitialized_functionv
+_ZL12cxxConstructP11objc_object
+_ZL20fixStringForCoreDataP11objc_object
+OBJC_METACLASS_$___ARCLite__
+_ZL24OBJC_CLASS_$___ARCLite__
+_ZL31OBJC_METACLASS_RO_$___ARCLite__
+_non_lazy_classes
+_ZL27OBJC_CLASS_RO_$___ARCLite__
+_ZL11_class_name
+_ZL32OBJC_$_CLASS_METHODS___ARCLite__
+_ZL17_load_method_name
+_ZL17_load_method_type
+_ZL23NSAutoreleasePool_class
+_ZZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
+_ZGVZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
+.str1
+.str2
+.str5
+.str6
+.str7
+OBJC_METH_VAR_NAME_8
+OBJC_SELECTOR_REFERENCES_9
+.str10
+.str13
+OBJC_METH_VAR_NAME_14
+OBJC_SELECTOR_REFERENCES_15
+.str16
+.str17
+OBJC_METH_VAR_TYPE_20
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteIndexedSubscripting__
+l_OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteIndexedSubscripting__
+l_OBJC_PROTOCOL_$___ARCLiteIndexedSubscripting__
+l_OBJC_LABEL_PROTOCOL_$___ARCLiteIndexedSubscripting__
+l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteIndexedSubscripting__
+OBJC_METH_VAR_NAME_27
+OBJC_SELECTOR_REFERENCES_28
+OBJC_METH_VAR_TYPE_29
+OBJC_METH_VAR_TYPE_31
+OBJC_CLASS_NAME_32
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteKeyedSubscripting__
+l_OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
+.str35
+OBJC_SELECTOR_REFERENCES_36
+OBJC_METH_VAR_NAME_37
+OBJC_SELECTOR_REFERENCES_38
+OBJC_METH_VAR_NAME_39
+OBJC_SELECTOR_REFERENCES_40
+_ZZL18add_image_hook_ARCPK11mach_headerlE7patches
+_ZGVZL18add_image_hook_ARCPK11mach_headerlE7patches
+.str41
+.str42
+.str43
+.str44
+.str45
+.str46
+.str47
+.str48
+.str49
+.str50
+.str51
+.str52
+OBJC_METH_VAR_NAME_53
+OBJC_SELECTOR_REFERENCES_54
+.str59
+.str60
+_ZL30NSUndoManagerProxy_targetClass
+.str63
+.str64
+_ZL29original_NSManagedObject_init
+_ZL40original_NSManagedObject_allocWithEntity
+_ZL35original_NSManagedObject_allocBatch
+_ZL25NSMutableDictionary_class
+.str71
+_ZL22NSConstantString_class
+.str72
+_ZL14NSString_class
+.str73
+OBJC_METH_VAR_NAME_74
+OBJC_SELECTOR_REFERENCES_75
+_ZL36original_NSKKMS_fastIndexForKnownKey
+OBJC_METH_VAR_NAME_76
+OBJC_SELECTOR_REFERENCES_77
+_ZL27original_NSKKMS_indexForKey
+.str78
+_ZL28original_NSKKsD_objectForKey
+_ZL34original_NSKKsD_removeObjectForKey
+_ZL32original_NSKKsD_setObject_forKey
+_ZL40original_NSKKsD_addEntriesFromDictionary
+_ZZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+_ZGVZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+.str81
+.str82
+_ZL31original_objc_allocateClassPair
+.str83
+_ZL31original_object_getIndexedIvars
+.str84
+_ZL22original_objc_getClass
+.str85
+_ZL26original_objc_getMetaClass
+.str86
+_ZL30original_objc_getRequiredClass
+.str87
+_ZL25original_objc_lookUpClass
+.str88
+_ZL25original_objc_getProtocol
+.str89
+_ZL22original_class_getName
+.str90
+_ZL25original_protocol_getName
+.str91
+_ZL36original_objc_copyClassNamesForImage
+OBJC_METH_VAR_NAME_92
+OBJC_SELECTOR_REFERENCES_93
+OBJC_METH_VAR_NAME_94
+OBJC_SELECTOR_REFERENCES_95
+.str96
+.str97
+.str98
+.str99
+.str100
+.str101
+.str102
+.str103
+_ZL12demangleLock
+_ZL9Demangled
+.str104
+.str105
+OBJC_METH_VAR_NAME_106
+OBJC_SELECTOR_REFERENCES_107
+OBJC_METH_VAR_NAME_108
+OBJC_SELECTOR_REFERENCES_109
+OBJC_METH_VAR_NAME_110
+OBJC_SELECTOR_REFERENCES_111
+OBJC_METH_VAR_NAME_112
+OBJC_SELECTOR_REFERENCES_113
+OBJC_METH_VAR_NAME_114
+OBJC_SELECTOR_REFERENCES_115
+OBJC_METH_VAR_NAME_116
+OBJC_SELECTOR_REFERENCES_117
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -miphoneos-version-min=4.3 -g -fno-threadsafe-statics -Wno-sign-conversion -fembed-bitcode -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/DerivedSources/armv7 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Symbols/BuiltProducts -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -fgnu-inline-asm -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-63/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-63~53/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.o -mlinker-version=253.3.2 -march=armv7a
+__arclite_NSKKsD_addEntriesFromDictionary
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-63/source/arclite.mm
+__arclite_NSKKsD_setObject_forKey
+__arclite_NSKKsD_removeObjectForKey
+__arclite_NSKKsD_objectForKey
+__arclite_NSKKMS_indexForKey
+fixStringForCoreData
+__arclite_NSKKMS_fastIndexForKnownKey
+__arclite_NSManagedObject_allocBatch
+__arclite_NSManagedObject_allocWithEntity
+cxxConstruct
+__arclite_NSManagedObject_init
+arclite_uninitialized_function
+replaceMethod
+__arclite_NSUndoManagerProxy_isKindOfClass
+patch_t<const char **(const char *, unsigned int *)>
+__arclite_objc_copyClassNamesForImage
+patch_t<const char *(Protocol *)>
+__arclite_protocol_getName
+patch_t<const char *(Class)>
+__isctype
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.Internal.sdk/usr/include/ctype.h
+isdigit
+scanMangledField
+copySwiftV1DemangledName
+demangledName
+__arclite_class_getName
+patch_t<Protocol *(const char *)>
+__arclite_objc_getProtocol
+__arclite_objc_lookUpClass
+__arclite_objc_getRequiredClass
+__arclite_objc_getMetaClass
+patch_t<Class (const char *)>
+copySwiftV1MangledName
+__arclite_objc_getClass
+patch_t<void *(id)>
+word_align
+__arclite_object_getIndexedIvars
+patch_t<Class (Class, const char *, unsigned long)>
+allocateMaybeSwift
+isSwift
+metaclass
+__arclite_objc_allocateClassPair
+patch_t<Class (Class, const objc_image_info *)>
+initialize_imp
+property_list_nth
+transcribeProperties
+transcribeProtocols
+method_list_nth
+transcribeMethods
+alignment
+max
+ivar_list_nth
+transcribeIvars
+fastFlags
+ro
+__arclite_objc_readClassPair
+add_image_hook_swiftV1
+install_swiftV1
+patch_t<void (id *, id)>
+__arclite_objc_storeStrong
+__arclite_objc_retainAutoreleasedReturnValue
+__arclite_objc_retainAutoreleaseReturnValue
+__arclite_objc_autoreleaseReturnValue
+__arclite_objc_retainAutorelease
+__arclite_objc_autorelease
+patch_t<void (id)>
+__arclite_objc_release
+__arclite_objc_retainBlock
+patch_t<id (id)>
+__arclite_objc_retain
+patch_t<id (id, unsigned long)>
+fixupCopiedReferences
+classOrSuperClassesUseARR
+__arclite_object_copy
+patch_t<void (id, objc_ivar *, id)>
+isScannedOffset
+alignedInstanceStart
+_class_getInstanceStart
+data
+__arclite_class_usesAutomaticRetainRelease
+_ivar_getClass
+__arclite_object_setIvar
+patch_t<objc_ivar *(id, const char *, void *)>
+__arclite_object_setInstanceVariable
+add_image_hook_ARC
+install_ARC
+objc_collectingEnabled
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.1.Internal.sdk/usr/include/objc/objc-auto.h
+__arclite_NSMutableDictionary__setObject_forKeyedSubscript
+addOrReplaceMethod
+install_dict_nil_value
+__arclite_NSMutableOrderedSet_setObject_atIndexedSubscript
+__arclite_NSOrderedSet_objectAtIndexedSubscript
+keyedGetter
+__arclite_NSDictionary_objectForKeyedSubscript
+__arclite_NSMutableArray_setObject_atIndexedSubscript
+indexedGetter
+__arclite_NSArray_objectAtIndexedSubscript
+addMethod
+install_subscripting
+patch_lazy_pointers
+patch_t<void (void *)>
+__arclite_objc_autoreleasePoolPop
+patch_t<void *()>
+__arclite_objc_autoreleasePoolPush
+add_image_hook_autoreleasepool
+install_autoreleasepool
+__ARCLite__load
+objc_unretainedPointer
+objc_unretainedObject
+objc_retainedObject

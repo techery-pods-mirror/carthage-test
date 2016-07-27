@@ -1,0 +1,48 @@
+github "techery/Overcoat" "master"
+github "nicklockwood/FXKeychain" == 1.5.3
+
+github "CocoaLumberjack/CocoaLumberjack" == 2.2.0
+
+github "rs/SDWebImage" == 3.7.5
+
+github "MagicalPanda/MagicalRecord" == 2.3.2
+
+github "SnapKit/Masonry" == 0.6.4
+github "jdg/MBProgressHUD" == 0.9.2
+github "oarrabi/OAStackView" == 1.0.1
+
+github "TTTAttributedLabel/TTTAttributedLabel" == 1.13.4
+
+github "slackhq/SlackTextViewController" == 1.9
+github "facebook/AsyncDisplayKit" == 1.9.7.2
+github "facebook/pop" == 1.0.9
+
+github "wtmoose/TLLayoutTransitioning" == 1.0.9
+github "andreamazz/AMPopTip" == 0.10.1.1
+github "glaszig/SZTextView" == 1.2.2
+
+github "techery-pods-mirror/HMSegmentedControl" == 1.4.0.1
+github "techery-pods-mirror/CSLinearLayoutView" == 1.0.1
+github "techery-pods-mirror/UAProgressView" == 0.1.3.1
+github "techery-pods-mirror/NYSegmentedControl" == 1.0.7.1
+github "techery-pods-mirror/CustomBadge" == 3.0.0.1
+github "techery-pods-mirror/JNWSpringAnimation" == 0.7.2
+github "techery-pods-mirror/KNSemiModalViewController" == 0.5
+github "techery-pods-mirror/WYPopoverController" == 0.3
+github "techery-pods-mirror/CCHMapClusterController" == 1.7.1
+github "techery-pods-mirror/RATreeView" == 2.1.1
+github "techery-pods-mirror/SCLAlertView"
+github "techery-pods-mirror/BABCropperView"
+
+github "techery-pods-mirror/SSDataSources" == 0.8.5.1
+
+github "CriolloKit/DI" "carthage-support"
+github "techery/FLUX" "carthage-support"
+github "techery/TEArrayDiffCalculator" "feature/carthage-support"
+github "techery/Oscar" "feature/carthage-support"
+
+github "techery/MTDates" == 1.0.3.2
+
+github "techery/apptentive-ios" == 2.1.2.0
+
+github "AliSoftware/OHHTTPStubs"

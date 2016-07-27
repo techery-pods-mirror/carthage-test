@@ -1,0 +1,6 @@
+framework module OvercoatCoreData {
+  umbrella header "OvercoatCoreData.h"
+
+  export *
+  module * { export * }
+}

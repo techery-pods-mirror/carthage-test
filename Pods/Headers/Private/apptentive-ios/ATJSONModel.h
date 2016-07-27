@@ -1,0 +1,1 @@
+../../../apptentive-ios/ApptentiveConnect/source/Message Center/Protocols/ATJSONModel.h

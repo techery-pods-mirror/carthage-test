@@ -1,0 +1,6 @@
+framework module BABCropperView {
+  umbrella header "BABCropperView-umbrella.h"
+
+  export *
+  module * { export * }
+}

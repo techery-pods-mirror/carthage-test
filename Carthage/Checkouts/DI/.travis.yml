@@ -1,0 +1,2 @@
+language: objective-c
+script:  xctool -workspace CRDI.xcworkspace -scheme CRDI build test -sdk iphonesimulator

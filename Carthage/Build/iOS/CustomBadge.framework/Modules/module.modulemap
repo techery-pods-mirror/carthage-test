@@ -1,0 +1,6 @@
+framework module CustomBadge {
+  umbrella header "CustomBadge.h"
+
+  export *
+  module * { export * }
+}

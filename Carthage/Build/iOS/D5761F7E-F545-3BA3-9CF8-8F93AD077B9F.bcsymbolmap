@@ -1,0 +1,919 @@
+BCSymbolMap Version: 1.0
+OBJC_CLASS_NAME_
+l_OBJC_METACLASS_RO_$_TEBaseAction
+l_OBJC_CLASS_RO_$_TEBaseAction
+OBJC_LABEL_CLASS_$
+Apple LLVM version 7.3.0 (clang-703.0.31)
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/Actions/TEBaseAction.m
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example
+-[TEActionsDispatcher init]
+-[TEActionsDispatcher registerStore:]
+-[TEActionsDispatcher dispatchAction:]
+-[TEActionsDispatcher subDispatchers]
+-[TEActionsDispatcher setSubDispatchers:]
+-[TEActionsDispatcher .cxx_destruct]
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+OBJC_METH_VAR_NAME_.1
+OBJC_SELECTOR_REFERENCES_.2
+OBJC_IVAR_$_TEActionsDispatcher._subDispatchers
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_.3
+OBJC_SELECTOR_REFERENCES_.4
+OBJC_METH_VAR_NAME_.5
+OBJC_SELECTOR_REFERENCES_.6
+OBJC_METH_VAR_NAME_.7
+OBJC_SELECTOR_REFERENCES_.8
+OBJC_METH_VAR_NAME_.9
+OBJC_SELECTOR_REFERENCES_.10
+OBJC_METH_VAR_NAME_.11
+OBJC_SELECTOR_REFERENCES_.12
+OBJC_METH_VAR_TYPE_
+OBJC_METH_VAR_TYPE_.13
+OBJC_CLASS_NAME_.14
+OBJC_METH_VAR_NAME_.15
+OBJC_METH_VAR_TYPE_.16
+OBJC_METH_VAR_NAME_.17
+OBJC_METH_VAR_TYPE_.18
+OBJC_METH_VAR_NAME_.19
+OBJC_METH_VAR_TYPE_.20
+OBJC_METH_VAR_NAME_.21
+OBJC_METH_VAR_TYPE_.22
+OBJC_METH_VAR_NAME_.23
+OBJC_METH_VAR_TYPE_.24
+OBJC_METH_VAR_NAME_.25
+OBJC_METH_VAR_TYPE_.26
+OBJC_METH_VAR_NAME_.27
+OBJC_METH_VAR_TYPE_.28
+OBJC_METH_VAR_NAME_.29
+OBJC_METH_VAR_TYPE_.30
+OBJC_METH_VAR_NAME_.31
+OBJC_METH_VAR_NAME_.32
+OBJC_METH_VAR_TYPE_.33
+OBJC_METH_VAR_NAME_.34
+OBJC_METH_VAR_TYPE_.35
+OBJC_METH_VAR_NAME_.36
+OBJC_METH_VAR_NAME_.37
+OBJC_METH_VAR_TYPE_.38
+OBJC_METH_VAR_NAME_.39
+OBJC_METH_VAR_NAME_.40
+OBJC_METH_VAR_TYPE_.41
+OBJC_METH_VAR_NAME_.42
+OBJC_METH_VAR_TYPE_.43
+OBJC_METH_VAR_NAME_.44
+OBJC_METH_VAR_NAME_.45
+OBJC_METH_VAR_NAME_.46
+OBJC_METH_VAR_TYPE_.47
+OBJC_METH_VAR_NAME_.48
+OBJC_CLASS_NAME_.49
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_.50
+OBJC_PROP_NAME_ATTR_.51
+OBJC_PROP_NAME_ATTR_.52
+OBJC_PROP_NAME_ATTR_.53
+OBJC_PROP_NAME_ATTR_.54
+OBJC_PROP_NAME_ATTR_.55
+l_OBJC_$_PROP_LIST_NSObject
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_$_PROTOCOL_REFS_TEDispatcherProtocol
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_TEDispatcherProtocol
+l_OBJC_$_PROTOCOL_METHOD_TYPES_TEDispatcherProtocol
+l_OBJC_PROTOCOL_$_TEDispatcherProtocol
+l_OBJC_LABEL_PROTOCOL_$_TEDispatcherProtocol
+l_OBJC_CLASS_PROTOCOLS_$_TEActionsDispatcher
+l_OBJC_METACLASS_RO_$_TEActionsDispatcher
+OBJC_CLASS_NAME_.56
+OBJC_METH_VAR_NAME_.57
+OBJC_METH_VAR_NAME_.58
+OBJC_METH_VAR_TYPE_.59
+OBJC_METH_VAR_NAME_.60
+l_OBJC_$_INSTANCE_METHODS_TEActionsDispatcher
+OBJC_METH_VAR_NAME_.61
+OBJC_METH_VAR_TYPE_.62
+l_OBJC_$_INSTANCE_VARIABLES_TEActionsDispatcher
+OBJC_PROP_NAME_ATTR_.63
+OBJC_PROP_NAME_ATTR_.64
+l_OBJC_$_PROP_LIST_TEActionsDispatcher
+l_OBJC_CLASS_RO_$_TEActionsDispatcher
+-[TEActionsDispatcher .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/Dispatcher/TEActionsDispatcher.m
+-[TEActionsDispatcher setSubDispatchers:]
+-[TEActionsDispatcher subDispatchers]
+-[TEActionsDispatcher dispatchAction:]
+-[TEActionsDispatcher registerStore:]
+-[TEActionsDispatcher init]
+-[TEActionsTracer init]
+-[TEActionsTracer onActionDispatching:]
+-[TEActionsTracer nodeFromAction:]
+__34-[TEActionsTracer nodeFromAction:]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+-[TEActionsTracer trace]
+-[TEActionsTracer setTrace:]
+-[TEActionsTracer .cxx_destruct]
+OBJC_CLASSLIST_REFERENCES_$_.11
+OBJC_METH_VAR_NAME_.12
+OBJC_SELECTOR_REFERENCES_.13
+OBJC_METH_VAR_NAME_.14
+OBJC_SELECTOR_REFERENCES_.15
+OBJC_METH_VAR_NAME_.16
+OBJC_SELECTOR_REFERENCES_.17
+.str
+__block_descriptor_tmp
+OBJC_METH_VAR_NAME_.18
+OBJC_SELECTOR_REFERENCES_.19
+OBJC_IVAR_$_TEActionsTracer._trace
+OBJC_METH_VAR_NAME_.20
+OBJC_METH_VAR_TYPE_.21
+OBJC_METH_VAR_NAME_.22
+OBJC_METH_VAR_TYPE_.23
+OBJC_CLASS_NAME_.24
+OBJC_METH_VAR_TYPE_.32
+OBJC_METH_VAR_NAME_.33
+OBJC_METH_VAR_TYPE_.34
+OBJC_METH_VAR_NAME_.35
+OBJC_METH_VAR_TYPE_.36
+OBJC_METH_VAR_TYPE_.40
+OBJC_METH_VAR_NAME_.41
+OBJC_METH_VAR_TYPE_.45
+OBJC_METH_VAR_NAME_.47
+OBJC_METH_VAR_TYPE_.48
+OBJC_METH_VAR_NAME_.49
+OBJC_METH_VAR_NAME_.50
+OBJC_METH_VAR_TYPE_.51
+OBJC_METH_VAR_NAME_.52
+OBJC_METH_VAR_TYPE_.53
+OBJC_METH_VAR_NAME_.54
+OBJC_METH_VAR_NAME_.55
+OBJC_METH_VAR_NAME_.56
+OBJC_METH_VAR_TYPE_.57
+OBJC_CLASS_NAME_.59
+OBJC_PROP_NAME_ATTR_.60
+OBJC_PROP_NAME_ATTR_.61
+OBJC_PROP_NAME_ATTR_.62
+OBJC_PROP_NAME_ATTR_.65
+l_OBJC_$_PROTOCOL_REFS_TEDomainMiddleware
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_TEDomainMiddleware
+l_OBJC_$_PROTOCOL_METHOD_TYPES_TEDomainMiddleware
+l_OBJC_PROTOCOL_$_TEDomainMiddleware
+l_OBJC_LABEL_PROTOCOL_$_TEDomainMiddleware
+l_OBJC_CLASS_PROTOCOLS_$_TEActionsTracer
+l_OBJC_METACLASS_RO_$_TEActionsTracer
+OBJC_CLASS_NAME_.66
+OBJC_METH_VAR_TYPE_.67
+OBJC_METH_VAR_NAME_.68
+OBJC_METH_VAR_TYPE_.69
+l_OBJC_$_INSTANCE_METHODS_TEActionsTracer
+OBJC_METH_VAR_NAME_.70
+OBJC_METH_VAR_TYPE_.71
+l_OBJC_$_INSTANCE_VARIABLES_TEActionsTracer
+OBJC_PROP_NAME_ATTR_.72
+OBJC_PROP_NAME_ATTR_.73
+l_OBJC_$_PROP_LIST_TEActionsTracer
+l_OBJC_CLASS_RO_$_TEActionsTracer
+-[TEActionsTracer .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/Middleware/TEActionsTracer.m
+-[TEActionsTracer setTrace:]
+-[TEActionsTracer trace]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/Middleware/TEActionsTracer.h
+-[TEActionsTracer nodeFromAction:]
+-[TEActionsTracer onActionDispatching:]
+-[TEActionsTracer init]
+-[TEStatesTracer init]
+-[TEStatesTracer store:didChangeState:]
+-[TEStatesTracer obtainOrCreateTracesStackForStore:]
+-[TEStatesTracer nodeWithStore:state:]
+__38-[TEStatesTracer nodeWithStore:state:]_block_invoke
+-[TEStatesTracer statesTraceForStoreClass:]
+-[TEStatesTracer statesTraceForStore:]
+-[TEStatesTracer shouldObserveStore:]
+-[TEStatesTracer traces]
+-[TEStatesTracer setTraces:]
+-[TEStatesTracer .cxx_destruct]
+OBJC_METH_VAR_NAME_.13
+OBJC_SELECTOR_REFERENCES_.14
+OBJC_SELECTOR_REFERENCES_.16
+OBJC_SELECTOR_REFERENCES_.18
+OBJC_CLASSLIST_REFERENCES_$_.19
+OBJC_SELECTOR_REFERENCES_.21
+OBJC_SELECTOR_REFERENCES_.23
+OBJC_METH_VAR_NAME_.24
+OBJC_SELECTOR_REFERENCES_.25
+OBJC_METH_VAR_NAME_.26
+OBJC_SELECTOR_REFERENCES_.27
+OBJC_METH_VAR_NAME_.28
+OBJC_SELECTOR_REFERENCES_.29
+OBJC_METH_VAR_NAME_.30
+OBJC_SELECTOR_REFERENCES_.31
+OBJC_IVAR_$_TEStatesTracer._traces
+OBJC_CLASS_NAME_.36
+OBJC_METH_VAR_TYPE_.39
+OBJC_METH_VAR_TYPE_.49
+OBJC_METH_VAR_NAME_.53
+OBJC_METH_VAR_TYPE_.54
+OBJC_METH_VAR_TYPE_.56
+OBJC_METH_VAR_NAME_.63
+OBJC_METH_VAR_TYPE_.64
+OBJC_METH_VAR_NAME_.65
+OBJC_METH_VAR_NAME_.66
+OBJC_METH_VAR_NAME_.67
+OBJC_METH_VAR_TYPE_.68
+OBJC_METH_VAR_NAME_.69
+OBJC_CLASS_NAME_.70
+OBJC_PROP_NAME_ATTR_.71
+OBJC_PROP_NAME_ATTR_.74
+OBJC_PROP_NAME_ATTR_.75
+OBJC_PROP_NAME_ATTR_.76
+l_OBJC_CLASS_PROTOCOLS_$_TEStatesTracer
+l_OBJC_METACLASS_RO_$_TEStatesTracer
+OBJC_CLASS_NAME_.77
+OBJC_METH_VAR_NAME_.78
+OBJC_METH_VAR_TYPE_.79
+OBJC_METH_VAR_TYPE_.80
+OBJC_METH_VAR_TYPE_.81
+OBJC_METH_VAR_TYPE_.82
+OBJC_METH_VAR_NAME_.83
+OBJC_METH_VAR_NAME_.84
+OBJC_METH_VAR_NAME_.85
+OBJC_METH_VAR_TYPE_.86
+l_OBJC_$_INSTANCE_METHODS_TEStatesTracer
+OBJC_METH_VAR_NAME_.87
+OBJC_METH_VAR_TYPE_.88
+l_OBJC_$_INSTANCE_VARIABLES_TEStatesTracer
+OBJC_PROP_NAME_ATTR_.89
+OBJC_PROP_NAME_ATTR_.90
+l_OBJC_$_PROP_LIST_TEStatesTracer
+l_OBJC_CLASS_RO_$_TEStatesTracer
+-[TEStatesTracer .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/Middleware/TEStatesTracer.m
+-[TEStatesTracer setTraces:]
+-[TEStatesTracer traces]
+-[TEStatesTracer shouldObserveStore:]
+-[TEStatesTracer statesTraceForStore:]
+-[TEStatesTracer statesTraceForStoreClass:]
+-[TEStatesTracer nodeWithStore:state:]
+-[TEStatesTracer obtainOrCreateTracesStackForStore:]
+-[TEStatesTracer store:didChangeState:]
+-[TEStatesTracer init]
+-[TEStoreStateObserver init]
+-[TEStoreStateObserver onStoreRegistration:]
+-[TEStoreStateObserver setupStore:]
+-[TEStoreStateObserver setupStateObservingOfStore:]
+__51-[TEStoreStateObserver setupStateObservingOfStore:]_block_invoke
+-[TEStoreStateObserver shouldObserveStore:]
+-[TEStoreStateObserver store:didChangeState:]
+-[TEStoreStateObserver observer]
+-[TEStoreStateObserver setObserver:]
+-[TEStoreStateObserver .cxx_destruct]
+OBJC_CLASSLIST_REFERENCES_$_.13
+.str.20
+OBJC_SELECTOR_REFERENCES_.22
+OBJC_CLASSLIST_REFERENCES_$_.23
+.str.24
+_unnamed_cfstring_
+.str.25
+_unnamed_cfstring_.26
+OBJC_SELECTOR_REFERENCES_.28
+.str.29
+_unnamed_cfstring_.30
+OBJC_IVAR_$_TEStoreStateObserver._observer
+OBJC_CLASS_NAME_.35
+OBJC_METH_VAR_TYPE_.37
+OBJC_METH_VAR_NAME_.38
+l_OBJC_CLASS_PROTOCOLS_$_TEStoreStateObserver
+l_OBJC_METACLASS_RO_$_TEStoreStateObserver
+OBJC_METH_VAR_TYPE_.78
+OBJC_METH_VAR_NAME_.79
+l_OBJC_$_INSTANCE_METHODS_TEStoreStateObserver
+OBJC_METH_VAR_NAME_.81
+l_OBJC_$_INSTANCE_VARIABLES_TEStoreStateObserver
+OBJC_PROP_NAME_ATTR_.83
+OBJC_PROP_NAME_ATTR_.84
+l_OBJC_$_PROP_LIST_TEStoreStateObserver
+l_OBJC_CLASS_RO_$_TEStoreStateObserver
+-[TEStoreStateObserver .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/Middleware/TEStoreStateObserver.m
+-[TEStoreStateObserver setObserver:]
+-[TEStoreStateObserver observer]
+-[TEStoreStateObserver store:didChangeState:]
+-[TEStoreStateObserver shouldObserveStore:]
+-[TEStoreStateObserver setupStateObservingOfStore:]
+-[TEStoreStateObserver setupStore:]
+-[TEStoreStateObserver onStoreRegistration:]
+-[TEStoreStateObserver init]
+-[TESerialExecutor init]
+-[TESerialExecutor setupExecutionQueue]
+-[TESerialExecutor execute:]
+-[TESerialExecutor executeAndWait:]
+-[TESerialExecutor serviceId]
+-[TESerialExecutor executionQueue]
+-[TESerialExecutor setExecutionQueue:]
+-[TESerialExecutor .cxx_destruct]
+.str.14
+_unnamed_cfstring_.15
+OBJC_IVAR_$_TESerialExecutor._executionQueue
+OBJC_CLASS_NAME_.25
+OBJC_METH_VAR_TYPE_.27
+l_OBJC_$_PROTOCOL_REFS_TEExecutor
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_TEExecutor
+l_OBJC_$_PROTOCOL_METHOD_TYPES_TEExecutor
+l_OBJC_PROTOCOL_$_TEExecutor
+l_OBJC_LABEL_PROTOCOL_$_TEExecutor
+l_OBJC_CLASS_PROTOCOLS_$_TESerialExecutor
+l_OBJC_METACLASS_RO_$_TESerialExecutor
+l_OBJC_$_INSTANCE_METHODS_TESerialExecutor
+l_OBJC_$_INSTANCE_VARIABLES_TESerialExecutor
+l_OBJC_$_PROP_LIST_TESerialExecutor
+l_OBJC_CLASS_RO_$_TESerialExecutor
+-[TESerialExecutor .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/Executors/TESerialExecutor.m
+-[TESerialExecutor setExecutionQueue:]
+-[TESerialExecutor executionQueue]
+-[TESerialExecutor serviceId]
+-[TESerialExecutor executeAndWait:]
+-[TESerialExecutor execute:]
+-[TESerialExecutor setupExecutionQueue]
+-[TESerialExecutor init]
+-[NSArray(Functional) map:]
+__27-[NSArray(Functional) map:]_block_invoke
+-[NSArray(Functional) filter:]
+__30-[NSArray(Functional) filter:]_block_invoke
+__copy_helper_block_.7
+__destroy_helper_block_.8
+__block_descriptor_tmp.9
+OBJC_METH_VAR_NAME_.10
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSArray_$_Functional
+l_OBJC_$_CATEGORY_NSArray_$_Functional
+OBJC_LABEL_CATEGORY_$
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/NSArray+Functional.m
+-[NSArray(Functional) filter:]
+-[NSArray(Functional) map:]
+-[TEBaseStore init]
+-[TEBaseStore defaultState]
+-[TEBaseStore registerWithLocalDispatcher:]
+-[TEBaseStore isLoaded]
+-[TEBaseStore setIsLoaded:]
++[TEBaseStore automaticallyNotifiesObserversOfIsLoaded]
+-[TEBaseStore state]
+-[TEBaseStore setState:]
+-[TEBaseStore .cxx_destruct]
+.str.5
+_unnamed_cfstring_.6
+.str.9
+_unnamed_cfstring_.10
+OBJC_IVAR_$_TEBaseStore._isLoaded
+.str.11
+_unnamed_cfstring_.12
+OBJC_IVAR_$_TEBaseStore._state
+l_OBJC_$_CLASS_METHODS_TEBaseStore
+l_OBJC_METACLASS_RO_$_TEBaseStore
+OBJC_CLASS_NAME_.18
+OBJC_METH_VAR_TYPE_.19
+l_OBJC_$_INSTANCE_METHODS_TEBaseStore
+OBJC_METH_VAR_TYPE_.29
+OBJC_METH_VAR_TYPE_.31
+l_OBJC_$_INSTANCE_VARIABLES_TEBaseStore
+OBJC_PROP_NAME_ATTR_.32
+OBJC_PROP_NAME_ATTR_.33
+OBJC_PROP_NAME_ATTR_.34
+l_OBJC_$_PROP_LIST_TEBaseStore
+l_OBJC_CLASS_RO_$_TEBaseStore
+-[TEBaseStore .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/Stores/Base/TEBaseStore.m
+-[TEBaseStore setState:]
+-[TEBaseStore state]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/Stores/Base/TEBaseStore.h
++[TEBaseStore automaticallyNotifiesObserversOfIsLoaded]
+-[TEBaseStore setIsLoaded:]
+-[TEBaseStore isLoaded]
+-[TEBaseStore registerWithLocalDispatcher:]
+-[TEBaseStore defaultState]
+-[TEBaseStore init]
+l_OBJC_METACLASS_RO_$_TEBaseState
+l_OBJC_CLASS_RO_$_TEBaseState
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/States/Base/TEBaseState.m
++[TEActionStackNode create:]
+-[TEActionStackNode init]
+-[TEActionStackNode initWithBuilder:modelVersion:]
+-[TEActionStackNode mutate:]
+-[TEActionStackNode isEqual:]
+-[TEActionStackNode isEqualToOther:]
+-[TEActionStackNode hash]
+-[TEActionStackNode description]
+-[TEActionStackNode initWithCoder:]
+-[TEActionStackNode encodeWithCoder:]
+-[TEActionStackNode copyWithZone:]
+-[TEActionStackNode createdAt]
+-[TEActionStackNode action]
+-[TEActionStackNode .cxx_destruct]
++[TEActionStackNodeBuilder JSONKeyPathsByPropertyKey]
+-[TEActionStackNodeBuilder createdAt]
+-[TEActionStackNodeBuilder setCreatedAt:]
+-[TEActionStackNodeBuilder action]
+-[TEActionStackNodeBuilder setAction:]
+-[TEActionStackNodeBuilder .cxx_destruct]
++[TEStoreStateNode create:]
+-[TEStoreStateNode init]
+-[TEStoreStateNode initWithBuilder:modelVersion:]
+-[TEStoreStateNode mutate:]
+-[TEStoreStateNode isEqual:]
+-[TEStoreStateNode isEqualToOther:]
+-[TEStoreStateNode hash]
+-[TEStoreStateNode description]
+-[TEStoreStateNode initWithCoder:]
+-[TEStoreStateNode encodeWithCoder:]
+-[TEStoreStateNode copyWithZone:]
+-[TEStoreStateNode createdAt]
+-[TEStoreStateNode storeClassString]
+-[TEStoreStateNode state]
+-[TEStoreStateNode .cxx_destruct]
++[TEStoreStateNodeBuilder JSONKeyPathsByPropertyKey]
+-[TEStoreStateNodeBuilder createdAt]
+-[TEStoreStateNodeBuilder setCreatedAt:]
+-[TEStoreStateNodeBuilder storeClassString]
+-[TEStoreStateNodeBuilder setStoreClassString:]
+-[TEStoreStateNodeBuilder state]
+-[TEStoreStateNodeBuilder setState:]
+-[TEStoreStateNodeBuilder .cxx_destruct]
+OBJC_IVAR_$_TEActionStackNode.__modelVersion
+OBJC_IVAR_$_TEActionStackNode._createdAt
+OBJC_IVAR_$_TEActionStackNode._action
+OBJC_SELECTOR_REFERENCES_.20
+.str.26
+_unnamed_cfstring_.27
+.str.30
+_unnamed_cfstring_.31
+.str.32
+_unnamed_cfstring_.33
+.str.34
+_unnamed_cfstring_.35
+OBJC_SELECTOR_REFERENCES_.37
+.str.38
+_unnamed_cfstring_.39
+OBJC_SELECTOR_REFERENCES_.41
+.str.42
+_unnamed_cfstring_.43
+.str.44
+_unnamed_cfstring_.45
+OBJC_SELECTOR_REFERENCES_.47
+OBJC_SELECTOR_REFERENCES_.49
+OBJC_SELECTOR_REFERENCES_.51
+OBJC_SELECTOR_REFERENCES_.53
+l_OBJC_$_CLASS_METHODS_TEActionStackNode
+l_OBJC_METACLASS_RO_$_TEActionStackNode
+OBJC_CLASS_NAME_.55
+OBJC_METH_VAR_TYPE_.60
+OBJC_METH_VAR_NAME_.62
+OBJC_METH_VAR_TYPE_.63
+OBJC_METH_VAR_NAME_.64
+OBJC_METH_VAR_TYPE_.65
+l_OBJC_$_INSTANCE_METHODS_TEActionStackNode
+OBJC_METH_VAR_NAME_.72
+OBJC_METH_VAR_TYPE_.73
+OBJC_METH_VAR_NAME_.74
+OBJC_METH_VAR_TYPE_.75
+l_OBJC_$_INSTANCE_VARIABLES_TEActionStackNode
+OBJC_PROP_NAME_ATTR_.77
+OBJC_PROP_NAME_ATTR_.78
+l_OBJC_$_PROP_LIST_TEActionStackNode
+l_OBJC_CLASS_RO_$_TEActionStackNode
+OBJC_IVAR_$_TEActionStackNodeBuilder._createdAt
+OBJC_IVAR_$_TEActionStackNodeBuilder._action
+OBJC_CLASS_NAME_.79
+OBJC_METH_VAR_NAME_.80
+l_OBJC_$_CLASS_METHODS_TEActionStackNodeBuilder
+l_OBJC_METACLASS_RO_$_TEActionStackNodeBuilder
+OBJC_CLASS_NAME_.81
+l_OBJC_$_INSTANCE_METHODS_TEActionStackNodeBuilder
+l_OBJC_$_INSTANCE_VARIABLES_TEActionStackNodeBuilder
+OBJC_PROP_NAME_ATTR_.82
+l_OBJC_$_PROP_LIST_TEActionStackNodeBuilder
+l_OBJC_CLASS_RO_$_TEActionStackNodeBuilder
+OBJC_CLASSLIST_REFERENCES_$_.84
+OBJC_CLASSLIST_SUP_REFS_$_.85
+OBJC_IVAR_$_TEStoreStateNode.__modelVersion
+OBJC_IVAR_$_TEStoreStateNode._createdAt
+OBJC_METH_VAR_NAME_.86
+OBJC_SELECTOR_REFERENCES_.87
+OBJC_IVAR_$_TEStoreStateNode._storeClassString
+OBJC_METH_VAR_NAME_.88
+OBJC_SELECTOR_REFERENCES_.89
+OBJC_IVAR_$_TEStoreStateNode._state
+OBJC_METH_VAR_NAME_.90
+OBJC_SELECTOR_REFERENCES_.91
+OBJC_METH_VAR_NAME_.92
+OBJC_SELECTOR_REFERENCES_.93
+.str.94
+_unnamed_cfstring_.95
+.str.96
+_unnamed_cfstring_.97
+.str.98
+_unnamed_cfstring_.99
+.str.100
+_unnamed_cfstring_.101
+OBJC_CLASS_NAME_.102
+l_OBJC_$_CLASS_METHODS_TEStoreStateNode
+l_OBJC_METACLASS_RO_$_TEStoreStateNode
+OBJC_CLASS_NAME_.103
+l_OBJC_$_INSTANCE_METHODS_TEStoreStateNode
+OBJC_METH_VAR_NAME_.104
+OBJC_METH_VAR_TYPE_.105
+OBJC_METH_VAR_NAME_.106
+OBJC_METH_VAR_TYPE_.107
+l_OBJC_$_INSTANCE_VARIABLES_TEStoreStateNode
+OBJC_PROP_NAME_ATTR_.108
+OBJC_PROP_NAME_ATTR_.109
+OBJC_PROP_NAME_ATTR_.110
+OBJC_PROP_NAME_ATTR_.111
+l_OBJC_$_PROP_LIST_TEStoreStateNode
+l_OBJC_CLASS_RO_$_TEStoreStateNode
+OBJC_IVAR_$_TEStoreStateNodeBuilder._createdAt
+OBJC_IVAR_$_TEStoreStateNodeBuilder._storeClassString
+OBJC_IVAR_$_TEStoreStateNodeBuilder._state
+OBJC_CLASS_NAME_.112
+l_OBJC_$_CLASS_METHODS_TEStoreStateNodeBuilder
+l_OBJC_METACLASS_RO_$_TEStoreStateNodeBuilder
+OBJC_CLASS_NAME_.113
+l_OBJC_$_INSTANCE_METHODS_TEStoreStateNodeBuilder
+l_OBJC_$_INSTANCE_VARIABLES_TEStoreStateNodeBuilder
+OBJC_PROP_NAME_ATTR_.114
+OBJC_PROP_NAME_ATTR_.115
+l_OBJC_$_PROP_LIST_TEStoreStateNodeBuilder
+l_OBJC_CLASS_RO_$_TEStoreStateNodeBuilder
+-[TEStoreStateNodeBuilder .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/TEMiddlewareModels.m
+-[TEStoreStateNodeBuilder setState:]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/TEMiddlewareModels.h
+-[TEStoreStateNodeBuilder state]
+-[TEStoreStateNodeBuilder setStoreClassString:]
+-[TEStoreStateNodeBuilder storeClassString]
+-[TEStoreStateNodeBuilder setCreatedAt:]
+-[TEStoreStateNodeBuilder createdAt]
++[TEStoreStateNodeBuilder JSONKeyPathsByPropertyKey]
+-[TEStoreStateNode .cxx_destruct]
+-[TEStoreStateNode state]
+-[TEStoreStateNode storeClassString]
+-[TEStoreStateNode createdAt]
+-[TEStoreStateNode copyWithZone:]
+-[TEStoreStateNode encodeWithCoder:]
+-[TEStoreStateNode initWithCoder:]
+-[TEStoreStateNode description]
+-[TEStoreStateNode hash]
+-[TEStoreStateNode isEqualToOther:]
+-[TEStoreStateNode isEqual:]
+-[TEStoreStateNode mutate:]
+-[TEStoreStateNode initWithBuilder:modelVersion:]
+-[TEStoreStateNode init]
++[TEStoreStateNode create:]
+-[TEActionStackNodeBuilder .cxx_destruct]
+-[TEActionStackNodeBuilder setAction:]
+-[TEActionStackNodeBuilder action]
+-[TEActionStackNodeBuilder setCreatedAt:]
+-[TEActionStackNodeBuilder createdAt]
++[TEActionStackNodeBuilder JSONKeyPathsByPropertyKey]
+-[TEActionStackNode .cxx_destruct]
+-[TEActionStackNode action]
+-[TEActionStackNode createdAt]
+-[TEActionStackNode copyWithZone:]
+-[TEActionStackNode encodeWithCoder:]
+-[TEActionStackNode initWithCoder:]
+-[TEActionStackNode description]
+-[TEActionStackNode hash]
+-[TEActionStackNode isEqualToOther:]
+-[TEActionStackNode isEqual:]
+-[TEActionStackNode mutate:]
+-[TEActionStackNode initWithBuilder:modelVersion:]
+-[TEActionStackNode init]
++[TEActionStackNode create:]
+-[TEDomain init]
+-[TEDomain createExecutor]
+-[TEDomain createDispatcher]
+-[TEDomain createMiddlewares]
+-[TEDomain setup]
+-[TEDomain dispatchAction:]
+__27-[TEDomain dispatchAction:]_block_invoke
+-[TEDomain dispatchActionAndWait:]
+__34-[TEDomain dispatchActionAndWait:]_block_invoke
+__copy_helper_block_.34
+__destroy_helper_block_.35
+-[TEDomain sendActionToHandlers:]
+-[TEDomain sendActionToDispatcher:]
+-[TEDomain sendActionToMiddlewares:]
+__36-[TEDomain sendActionToMiddlewares:]_block_invoke
+__copy_helper_block_.53
+__destroy_helper_block_.54
+-[TEDomain registerStore:]
+__26-[TEDomain registerStore:]_block_invoke
+__copy_helper_block_.69
+__destroy_helper_block_.70
+-[TEDomain registerStoreInDispatcher:]
+-[TEDomain registerStoreInMiddlewares:]
+__39-[TEDomain registerStoreInMiddlewares:]_block_invoke
+__copy_helper_block_.76
+__destroy_helper_block_.77
+-[TEDomain getStoreByClass:]
+-[TEDomain dispatcher]
+-[TEDomain setDispatcher:]
+-[TEDomain executor]
+-[TEDomain setExecutor:]
+-[TEDomain stores]
+-[TEDomain setStores:]
+-[TEDomain middlewares]
+-[TEDomain setMiddlewares:]
+-[TEDomain .cxx_destruct]
+OBJC_CLASSLIST_REFERENCES_$_.21
+OBJC_CLASSLIST_REFERENCES_$_.22
+.str.23
+_unnamed_cfstring_.24
+OBJC_SELECTOR_REFERENCES_.26
+OBJC_SELECTOR_REFERENCES_.30
+.str.31
+OBJC_SELECTOR_REFERENCES_.33
+__block_descriptor_tmp.36
+OBJC_SELECTOR_REFERENCES_.38
+OBJC_SELECTOR_REFERENCES_.40
+OBJC_SELECTOR_REFERENCES_.42
+OBJC_METH_VAR_NAME_.43
+OBJC_SELECTOR_REFERENCES_.44
+OBJC_SELECTOR_REFERENCES_.46
+OBJC_SELECTOR_REFERENCES_.48
+OBJC_SELECTOR_REFERENCES_.50
+OBJC_METH_VAR_NAME_.51
+OBJC_SELECTOR_REFERENCES_.52
+.str.55
+__block_descriptor_tmp.56
+OBJC_SELECTOR_REFERENCES_.58
+OBJC_METH_VAR_NAME_.59
+OBJC_SELECTOR_REFERENCES_.60
+OBJC_SELECTOR_REFERENCES_.62
+OBJC_SELECTOR_REFERENCES_.64
+OBJC_SELECTOR_REFERENCES_.66
+OBJC_SELECTOR_REFERENCES_.68
+__block_descriptor_tmp.71
+OBJC_SELECTOR_REFERENCES_.73
+OBJC_SELECTOR_REFERENCES_.75
+__block_descriptor_tmp.78
+OBJC_SELECTOR_REFERENCES_.80
+OBJC_IVAR_$_TEDomain._dispatcher
+OBJC_IVAR_$_TEDomain._executor
+OBJC_IVAR_$_TEDomain._stores
+OBJC_IVAR_$_TEDomain._middlewares
+OBJC_METH_VAR_TYPE_.83
+OBJC_METH_VAR_TYPE_.84
+OBJC_METH_VAR_TYPE_.85
+OBJC_CLASS_NAME_.87
+OBJC_METH_VAR_TYPE_.89
+OBJC_METH_VAR_TYPE_.90
+OBJC_METH_VAR_NAME_.91
+OBJC_METH_VAR_TYPE_.92
+OBJC_METH_VAR_NAME_.93
+OBJC_METH_VAR_TYPE_.94
+OBJC_METH_VAR_NAME_.95
+OBJC_METH_VAR_TYPE_.96
+OBJC_METH_VAR_NAME_.97
+OBJC_METH_VAR_TYPE_.98
+OBJC_METH_VAR_NAME_.99
+OBJC_METH_VAR_TYPE_.100
+OBJC_METH_VAR_NAME_.101
+OBJC_METH_VAR_TYPE_.102
+OBJC_METH_VAR_NAME_.103
+OBJC_METH_VAR_TYPE_.106
+OBJC_METH_VAR_NAME_.107
+OBJC_METH_VAR_NAME_.108
+OBJC_METH_VAR_TYPE_.109
+OBJC_METH_VAR_NAME_.110
+OBJC_METH_VAR_NAME_.111
+OBJC_METH_VAR_TYPE_.112
+OBJC_METH_VAR_NAME_.113
+OBJC_METH_VAR_TYPE_.114
+OBJC_METH_VAR_NAME_.115
+OBJC_METH_VAR_NAME_.116
+OBJC_METH_VAR_NAME_.117
+OBJC_METH_VAR_TYPE_.118
+OBJC_METH_VAR_NAME_.119
+OBJC_CLASS_NAME_.120
+OBJC_PROP_NAME_ATTR_.121
+OBJC_PROP_NAME_ATTR_.122
+OBJC_PROP_NAME_ATTR_.123
+OBJC_PROP_NAME_ATTR_.124
+OBJC_PROP_NAME_ATTR_.125
+OBJC_PROP_NAME_ATTR_.126
+l_OBJC_$_PROTOCOL_REFS_TEDomainProtocol
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_TEDomainProtocol
+l_OBJC_$_PROTOCOL_METHOD_TYPES_TEDomainProtocol
+l_OBJC_PROTOCOL_$_TEDomainProtocol
+l_OBJC_LABEL_PROTOCOL_$_TEDomainProtocol
+l_OBJC_CLASS_PROTOCOLS_$_TEDomain
+l_OBJC_METACLASS_RO_$_TEDomain
+OBJC_CLASS_NAME_.127
+OBJC_METH_VAR_TYPE_.128
+OBJC_METH_VAR_NAME_.129
+l_OBJC_$_INSTANCE_METHODS_TEDomain
+OBJC_METH_VAR_NAME_.130
+OBJC_METH_VAR_TYPE_.131
+OBJC_METH_VAR_NAME_.132
+OBJC_METH_VAR_TYPE_.133
+OBJC_METH_VAR_NAME_.134
+OBJC_METH_VAR_TYPE_.135
+OBJC_METH_VAR_NAME_.136
+OBJC_METH_VAR_TYPE_.137
+l_OBJC_$_INSTANCE_VARIABLES_TEDomain
+OBJC_PROP_NAME_ATTR_.138
+OBJC_PROP_NAME_ATTR_.139
+OBJC_PROP_NAME_ATTR_.140
+OBJC_PROP_NAME_ATTR_.141
+OBJC_PROP_NAME_ATTR_.142
+OBJC_PROP_NAME_ATTR_.143
+OBJC_PROP_NAME_ATTR_.144
+OBJC_PROP_NAME_ATTR_.145
+l_OBJC_$_PROP_LIST_TEDomain
+l_OBJC_CLASS_RO_$_TEDomain
+-[TEDomain .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/TEDomain.m
+-[TEDomain setMiddlewares:]
+-[TEDomain middlewares]
+-[TEDomain setStores:]
+-[TEDomain stores]
+-[TEDomain setExecutor:]
+-[TEDomain executor]
+-[TEDomain setDispatcher:]
+-[TEDomain dispatcher]
+-[TEDomain getStoreByClass:]
+-[TEDomain registerStoreInMiddlewares:]
+-[TEDomain registerStoreInDispatcher:]
+-[TEDomain registerStore:]
+-[TEDomain sendActionToMiddlewares:]
+-[TEDomain sendActionToDispatcher:]
+-[TEDomain sendActionToHandlers:]
+-[TEDomain dispatchActionAndWait:]
+-[TEDomain dispatchAction:]
+-[TEDomain setup]
+-[TEDomain createMiddlewares]
+-[TEDomain createDispatcher]
+-[TEDomain createExecutor]
+-[TEDomain init]
+-[TEFileSystemPersistentProvider initWithFileManager:]
+-[TEFileSystemPersistentProvider saveState:forStore:]
+__53-[TEFileSystemPersistentProvider saveState:forStore:]_block_invoke
+-[TEFileSystemPersistentProvider pathForStore:]
+-[TEFileSystemPersistentProvider createWorkingDirectoryIfNeeded]
+-[TEFileSystemPersistentProvider pathToWorkingDirectory]
+-[TEFileSystemPersistentProvider stateForStore:]
+-[TEFileSystemPersistentProvider serviceId]
+-[TEFileSystemPersistentProvider storeQueue]
+-[TEFileSystemPersistentProvider setStoreQueue:]
+-[TEFileSystemPersistentProvider fileManager]
+-[TEFileSystemPersistentProvider setFileManager:]
+-[TEFileSystemPersistentProvider .cxx_destruct]
+OBJC_SELECTOR_REFERENCES_.24
+OBJC_SELECTOR_REFERENCES_.32
+.str.33
+_unnamed_cfstring_.34
+OBJC_SELECTOR_REFERENCES_.36
+OBJC_CLASSLIST_REFERENCES_$_.37
+OBJC_SELECTOR_REFERENCES_.39
+OBJC_CLASSLIST_REFERENCES_$_.44
+.str.47
+_unnamed_cfstring_.48
+OBJC_IVAR_$_TEFileSystemPersistentProvider._storeQueue
+OBJC_IVAR_$_TEFileSystemPersistentProvider._fileManager
+OBJC_METH_VAR_TYPE_.52
+OBJC_METH_VAR_TYPE_.55
+OBJC_METH_VAR_TYPE_.58
+OBJC_METH_VAR_TYPE_.61
+OBJC_METH_VAR_NAME_.73
+OBJC_METH_VAR_TYPE_.74
+OBJC_METH_VAR_NAME_.75
+OBJC_METH_VAR_TYPE_.76
+OBJC_METH_VAR_NAME_.77
+OBJC_METH_VAR_NAME_.89
+OBJC_CLASS_NAME_.90
+OBJC_PROP_NAME_ATTR_.91
+OBJC_PROP_NAME_ATTR_.92
+OBJC_PROP_NAME_ATTR_.93
+OBJC_PROP_NAME_ATTR_.94
+OBJC_PROP_NAME_ATTR_.95
+OBJC_PROP_NAME_ATTR_.96
+l_OBJC_$_PROTOCOL_REFS_TEPersistenceProtocol
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_TEPersistenceProtocol
+l_OBJC_$_PROTOCOL_METHOD_TYPES_TEPersistenceProtocol
+l_OBJC_PROTOCOL_$_TEPersistenceProtocol
+l_OBJC_LABEL_PROTOCOL_$_TEPersistenceProtocol
+l_OBJC_CLASS_PROTOCOLS_$_TEFileSystemPersistentProvider
+l_OBJC_METACLASS_RO_$_TEFileSystemPersistentProvider
+OBJC_CLASS_NAME_.97
+OBJC_METH_VAR_NAME_.98
+OBJC_METH_VAR_TYPE_.99
+OBJC_METH_VAR_NAME_.100
+OBJC_METH_VAR_TYPE_.101
+l_OBJC_$_INSTANCE_METHODS_TEFileSystemPersistentProvider
+OBJC_METH_VAR_NAME_.102
+OBJC_METH_VAR_TYPE_.103
+l_OBJC_$_INSTANCE_VARIABLES_TEFileSystemPersistentProvider
+OBJC_PROP_NAME_ATTR_.106
+OBJC_PROP_NAME_ATTR_.107
+l_OBJC_$_PROP_LIST_TEFileSystemPersistentProvider
+l_OBJC_CLASS_RO_$_TEFileSystemPersistentProvider
+-[TEFileSystemPersistentProvider .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/Stores/TEFileSystemPersistentProvider.m
+-[TEFileSystemPersistentProvider setFileManager:]
+-[TEFileSystemPersistentProvider fileManager]
+-[TEFileSystemPersistentProvider setStoreQueue:]
+-[TEFileSystemPersistentProvider storeQueue]
+-[TEFileSystemPersistentProvider serviceId]
+-[TEFileSystemPersistentProvider stateForStore:]
+-[TEFileSystemPersistentProvider pathToWorkingDirectory]
+-[TEFileSystemPersistentProvider createWorkingDirectoryIfNeeded]
+-[TEFileSystemPersistentProvider pathForStore:]
+-[TEFileSystemPersistentProvider saveState:forStore:]
+-[TEFileSystemPersistentProvider initWithFileManager:]
+-[TEStatePersistence init]
+-[TEStatePersistence restoreState:ofStore:]
+-[TEStatePersistence setupStore:]
+-[TEStatePersistence shouldObserveStore:]
+-[TEStatePersistence store:didChangeState:]
+-[TEStatePersistence persistence]
+-[TEStatePersistence setPersistence:]
+-[TEStatePersistence .cxx_destruct]
+OBJC_CLASSLIST_REFERENCES_$_.3
+OBJC_METH_VAR_NAME_.4
+OBJC_SELECTOR_REFERENCES_.5
+OBJC_METH_VAR_NAME_.6
+OBJC_SELECTOR_REFERENCES_.7
+OBJC_METH_VAR_NAME_.8
+OBJC_SELECTOR_REFERENCES_.9
+OBJC_SELECTOR_REFERENCES_.11
+OBJC_CLASSLIST_REFERENCES_$_.14
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_TEPersistentStoreProtocol
+l_OBJC_$_PROTOCOL_METHOD_TYPES_TEPersistentStoreProtocol
+l_OBJC_PROTOCOL_$_TEPersistentStoreProtocol
+l_OBJC_LABEL_PROTOCOL_$_TEPersistentStoreProtocol
+l_OBJC_PROTOCOL_REFERENCE_$_TEPersistentStoreProtocol
+OBJC_SELECTOR_REFERENCES_.34
+OBJC_IVAR_$_TEStatePersistence._persistence
+l_OBJC_METACLASS_RO_$_TEStatePersistence
+OBJC_METH_VAR_TYPE_.44
+l_OBJC_$_INSTANCE_METHODS_TEStatePersistence
+OBJC_METH_VAR_TYPE_.46
+l_OBJC_$_INSTANCE_VARIABLES_TEStatePersistence
+OBJC_PROP_NAME_ATTR_.47
+l_OBJC_$_PROP_LIST_TEStatePersistence
+l_OBJC_CLASS_RO_$_TEStatePersistence
+-[TEStatePersistence .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/TEStatePersistence.m
+-[TEStatePersistence setPersistence:]
+-[TEStatePersistence persistence]
+-[TEStatePersistence store:didChangeState:]
+-[TEStatePersistence shouldObserveStore:]
+-[TEStatePersistence setupStore:]
+-[TEStatePersistence restoreState:ofStore:]
+-[TEStatePersistence init]
++[TEStoreDispatcher dispatcherWithStore:]
+-[TEStoreDispatcher initWithStore:]
+-[TEStoreDispatcher registerStore:]
+-[TEStoreDispatcher onAction:callback:]
+-[TEStoreDispatcher dispatchAction:]
+-[TEStoreDispatcher callbacks]
+-[TEStoreDispatcher setCallbacks:]
+-[TEStoreDispatcher store]
+-[TEStoreDispatcher setStore:]
+-[TEStoreDispatcher .cxx_destruct]
+OBJC_IVAR_$_TEStoreDispatcher._callbacks
+OBJC_IVAR_$_TEStoreDispatcher._store
+l_OBJC_$_CLASS_METHODS_TEStoreDispatcher
+OBJC_CLASS_NAME_.32
+OBJC_METH_VAR_TYPE_.50
+OBJC_PROP_NAME_ATTR_.67
+OBJC_PROP_NAME_ATTR_.68
+OBJC_PROP_NAME_ATTR_.69
+OBJC_PROP_NAME_ATTR_.70
+l_OBJC_CLASS_PROTOCOLS_$_TEStoreDispatcher
+l_OBJC_METACLASS_RO_$_TEStoreDispatcher
+OBJC_CLASS_NAME_.73
+OBJC_METH_VAR_NAME_.76
+OBJC_METH_VAR_TYPE_.77
+l_OBJC_$_INSTANCE_METHODS_TEStoreDispatcher
+l_OBJC_$_INSTANCE_VARIABLES_TEStoreDispatcher
+OBJC_CLASS_NAME_.83
+OBJC_PROP_NAME_ATTR_.85
+OBJC_PROP_NAME_ATTR_.86
+OBJC_PROP_NAME_ATTR_.87
+l_OBJC_$_PROP_LIST_TEStoreDispatcher
+l_OBJC_CLASS_RO_$_TEStoreDispatcher
+-[TEStoreDispatcher .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/FLUX/Example/Dispatcher/TEStoreDispatcher.m
+-[TEStoreDispatcher setStore:]
+-[TEStoreDispatcher store]
+-[TEStoreDispatcher setCallbacks:]
+-[TEStoreDispatcher callbacks]
+-[TEStoreDispatcher dispatchAction:]
+-[TEStoreDispatcher onAction:callback:]
+-[TEStoreDispatcher registerStore:]
+-[TEStoreDispatcher initWithStore:]
++[TEStoreDispatcher dispatcherWithStore:]
+/Users/zhenia/Library/Caches/AppCode2016.2/DerivedData/FLUX-eypdsguoaficadgfzgonvozidvol/Build/Intermediates/FLUX.build/Release-iphoneos/FLUX.build/DerivedSources/FLUX_vers.c
