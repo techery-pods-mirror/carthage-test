@@ -1,0 +1,6 @@
+framework module Oscar {
+  umbrella header "Oscar.h"
+
+  export *
+  module * { export * }
+}

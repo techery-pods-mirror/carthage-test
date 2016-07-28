@@ -1,0 +1,6 @@
+framework module TEArrayDiffCalculatorFramework {
+  umbrella header "TEArrayDiffCalculatorFramework.h"
+
+  export *
+  module * { export * }
+}

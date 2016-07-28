@@ -1,0 +1,1925 @@
+BCSymbolMap Version: 1.0
+-[WYStoryboardPopoverSegue perform]
+-[WYStoryboardPopoverSegue popoverControllerWithSender:permittedArrowDirections:animated:]
+-[WYStoryboardPopoverSegue popoverControllerWithSender:permittedArrowDirections:animated:options:]
+-[WYStoryboardPopoverSegue dealloc]
+-[WYStoryboardPopoverSegue .cxx_destruct]
+OBJC_IVAR_$_WYStoryboardPopoverSegue.sender
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+OBJC_METH_VAR_NAME_.1
+OBJC_SELECTOR_REFERENCES_.2
+OBJC_IVAR_$_WYStoryboardPopoverSegue.popoverController
+OBJC_IVAR_$_WYStoryboardPopoverSegue.arrowDirections
+OBJC_IVAR_$_WYStoryboardPopoverSegue.animated
+OBJC_IVAR_$_WYStoryboardPopoverSegue.options
+OBJC_METH_VAR_NAME_.3
+OBJC_SELECTOR_REFERENCES_.4
+OBJC_METH_VAR_NAME_.5
+OBJC_SELECTOR_REFERENCES_.6
+OBJC_METH_VAR_NAME_.7
+OBJC_SELECTOR_REFERENCES_.8
+OBJC_METH_VAR_NAME_.9
+OBJC_SELECTOR_REFERENCES_.10
+OBJC_CLASSLIST_REFERENCES_$_.11
+OBJC_METH_VAR_NAME_.12
+OBJC_SELECTOR_REFERENCES_.13
+OBJC_METH_VAR_NAME_.14
+OBJC_SELECTOR_REFERENCES_.15
+OBJC_METH_VAR_NAME_.16
+OBJC_SELECTOR_REFERENCES_.17
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_METH_VAR_NAME_.18
+OBJC_SELECTOR_REFERENCES_.19
+OBJC_CLASS_NAME_
+l_OBJC_METACLASS_RO_$_WYStoryboardPopoverSegue
+OBJC_CLASS_NAME_.20
+OBJC_METH_VAR_NAME_.21
+OBJC_METH_VAR_TYPE_
+OBJC_METH_VAR_NAME_.22
+OBJC_METH_VAR_TYPE_.23
+OBJC_METH_VAR_TYPE_.24
+OBJC_METH_VAR_NAME_.25
+l_OBJC_$_INSTANCE_METHODS_WYStoryboardPopoverSegue
+OBJC_METH_VAR_NAME_.26
+OBJC_METH_VAR_TYPE_.27
+OBJC_METH_VAR_NAME_.28
+OBJC_METH_VAR_TYPE_.29
+OBJC_METH_VAR_NAME_.30
+OBJC_METH_VAR_TYPE_.31
+OBJC_METH_VAR_NAME_.32
+OBJC_METH_VAR_NAME_.33
+OBJC_METH_VAR_TYPE_.34
+l_OBJC_$_INSTANCE_VARIABLES_WYStoryboardPopoverSegue
+l_OBJC_CLASS_RO_$_WYStoryboardPopoverSegue
+OBJC_LABEL_CLASS_$
+Apple LLVM version 7.3.0 (clang-703.0.31)
+-[WYStoryboardPopoverSegue .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/WYPopoverController/WYPopoverController/WYStoryboardPopoverSegue.m
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/WYPopoverController
+-[WYStoryboardPopoverSegue dealloc]
+-[WYStoryboardPopoverSegue popoverControllerWithSender:permittedArrowDirections:animated:options:]
+-[WYStoryboardPopoverSegue popoverControllerWithSender:permittedArrowDirections:animated:]
+-[WYStoryboardPopoverSegue perform]
+-[UIColor(WYPopover) getValueOfRed:green:blue:alpha:]
+-[UIColor(WYPopover) hexString]
+-[UIColor(WYPopover) colorByLighten:]
+-[UIColor(WYPopover) colorByDarken:]
++[UINavigationController(WYPopover) load]
+-[UINavigationController(WYPopover) isEmbedInPopover]
+-[UINavigationController(WYPopover) setEmbedInPopover:]
+-[UINavigationController(WYPopover) contentSize:]
+-[UINavigationController(WYPopover) setContentSize:]
+-[UINavigationController(WYPopover) sizzled_pushViewController:animated:]
+-[UINavigationController(WYPopover) sizzled_setViewControllers:animated:]
++[UIViewController(WYPopover) load]
+-[UIViewController(WYPopover) sizzled_setContentSizeForViewInPopover:]
+-[UIViewController(WYPopover) sizzled_setPreferredContentSize:]
+-[WYPopoverArea description]
+-[WYPopoverArea value]
+-[WYPopoverArea arrowDirection]
+-[WYPopoverArea setArrowDirection:]
+-[WYPopoverArea areaSize]
+-[WYPopoverArea setAreaSize:]
++[WYPopoverTheme theme]
++[WYPopoverTheme themeForIOS6]
++[WYPopoverTheme themeForIOS7]
+-[WYPopoverTheme innerCornerRadius]
+-[WYPopoverTheme outerShadowOffset]
+-[WYPopoverTheme innerStrokeColor]
+-[WYPopoverTheme outerStrokeColor]
+-[WYPopoverTheme glossShadowColor]
+-[WYPopoverTheme fillTopColor]
+-[WYPopoverTheme fillBottomColor]
+-[WYPopoverTheme observableKeypaths]
+-[WYPopoverTheme tintColor]
+-[WYPopoverTheme setTintColor:]
+-[WYPopoverTheme setFillTopColor:]
+-[WYPopoverTheme setFillBottomColor:]
+-[WYPopoverTheme setGlossShadowColor:]
+-[WYPopoverTheme glossShadowOffset]
+-[WYPopoverTheme setGlossShadowOffset:]
+-[WYPopoverTheme glossShadowBlurRadius]
+-[WYPopoverTheme setGlossShadowBlurRadius:]
+-[WYPopoverTheme borderWidth]
+-[WYPopoverTheme setBorderWidth:]
+-[WYPopoverTheme arrowBase]
+-[WYPopoverTheme setArrowBase:]
+-[WYPopoverTheme arrowHeight]
+-[WYPopoverTheme setArrowHeight:]
+-[WYPopoverTheme outerShadowColor]
+-[WYPopoverTheme setOuterShadowColor:]
+-[WYPopoverTheme setOuterStrokeColor:]
+-[WYPopoverTheme outerShadowBlurRadius]
+-[WYPopoverTheme setOuterShadowBlurRadius:]
+-[WYPopoverTheme setOuterShadowOffset:]
+-[WYPopoverTheme outerCornerRadius]
+-[WYPopoverTheme setOuterCornerRadius:]
+-[WYPopoverTheme minOuterCornerRadius]
+-[WYPopoverTheme setMinOuterCornerRadius:]
+-[WYPopoverTheme innerShadowColor]
+-[WYPopoverTheme setInnerShadowColor:]
+-[WYPopoverTheme setInnerStrokeColor:]
+-[WYPopoverTheme innerShadowBlurRadius]
+-[WYPopoverTheme setInnerShadowBlurRadius:]
+-[WYPopoverTheme innerShadowOffset]
+-[WYPopoverTheme setInnerShadowOffset:]
+-[WYPopoverTheme setInnerCornerRadius:]
+-[WYPopoverTheme viewContentInsets]
+-[WYPopoverTheme setViewContentInsets:]
+-[WYPopoverTheme overlayColor]
+-[WYPopoverTheme setOverlayColor:]
+-[WYPopoverTheme .cxx_destruct]
++[UIImage(WYPopover) imageWithColor:]
++[UIImage(WYPopover) imageWithColor:cornerRadius:]
++[UIImage(WYPopover) imageWithColor:size:cornerRadius:]
+-[WYPopoverBackgroundInnerView initWithFrame:]
+-[WYPopoverBackgroundInnerView drawRect:]
+-[WYPopoverBackgroundInnerView dealloc]
+-[WYPopoverBackgroundInnerView innerStrokeColor]
+-[WYPopoverBackgroundInnerView setInnerStrokeColor:]
+-[WYPopoverBackgroundInnerView gradientTopColor]
+-[WYPopoverBackgroundInnerView setGradientTopColor:]
+-[WYPopoverBackgroundInnerView gradientBottomColor]
+-[WYPopoverBackgroundInnerView setGradientBottomColor:]
+-[WYPopoverBackgroundInnerView gradientHeight]
+-[WYPopoverBackgroundInnerView setGradientHeight:]
+-[WYPopoverBackgroundInnerView gradientTopPosition]
+-[WYPopoverBackgroundInnerView setGradientTopPosition:]
+-[WYPopoverBackgroundInnerView innerShadowColor]
+-[WYPopoverBackgroundInnerView setInnerShadowColor:]
+-[WYPopoverBackgroundInnerView innerShadowOffset]
+-[WYPopoverBackgroundInnerView setInnerShadowOffset:]
+-[WYPopoverBackgroundInnerView innerShadowBlurRadius]
+-[WYPopoverBackgroundInnerView setInnerShadowBlurRadius:]
+-[WYPopoverBackgroundInnerView innerCornerRadius]
+-[WYPopoverBackgroundInnerView setInnerCornerRadius:]
+-[WYPopoverBackgroundInnerView navigationBarHeight]
+-[WYPopoverBackgroundInnerView setNavigationBarHeight:]
+-[WYPopoverBackgroundInnerView wantsDefaultContentAppearance]
+-[WYPopoverBackgroundInnerView setWantsDefaultContentAppearance:]
+-[WYPopoverBackgroundInnerView borderWidth]
+-[WYPopoverBackgroundInnerView setBorderWidth:]
+-[WYPopoverBackgroundInnerView .cxx_destruct]
+-[WYPopoverOverlayView touchesBegan:withEvent:]
+-[WYPopoverOverlayView hitTest:withEvent:]
+-[WYPopoverOverlayView isPassthroughView:]
+-[WYPopoverOverlayView accessibilityElementDidBecomeFocused]
+-[WYPopoverOverlayView delegate]
+-[WYPopoverOverlayView setDelegate:]
+-[WYPopoverOverlayView passthroughViews]
+-[WYPopoverOverlayView setPassthroughViews:]
+-[WYPopoverBackgroundView initWithContentSize:]
+-[WYPopoverBackgroundView touchesBegan:withEvent:]
+-[WYPopoverBackgroundView outerShadowInsets]
+-[WYPopoverBackgroundView setArrowOffset:]
+-[WYPopoverBackgroundView setViewController:]
+-[WYPopoverBackgroundView sizeThatFits:]
+-[WYPopoverBackgroundView sizeToFit]
+-[WYPopoverBackgroundView setNeedsDisplay]
+-[WYPopoverBackgroundView drawLayer:inContext:]
+-[WYPopoverBackgroundView outerRect]
+-[WYPopoverBackgroundView innerRect]
+-[WYPopoverBackgroundView arrowRect]
+-[WYPopoverBackgroundView outerRect:arrowDirection:]
+-[WYPopoverBackgroundView innerRect:arrowDirection:]
+-[WYPopoverBackgroundView arrowRect:arrowDirection:]
+-[WYPopoverBackgroundView isTouchedAtPoint:]
+-[WYPopoverBackgroundView dealloc]
+-[WYPopoverBackgroundView tintColor]
+-[WYPopoverBackgroundView setTintColor:]
+-[WYPopoverBackgroundView fillTopColor]
+-[WYPopoverBackgroundView setFillTopColor:]
+-[WYPopoverBackgroundView fillBottomColor]
+-[WYPopoverBackgroundView setFillBottomColor:]
+-[WYPopoverBackgroundView glossShadowColor]
+-[WYPopoverBackgroundView setGlossShadowColor:]
+-[WYPopoverBackgroundView glossShadowOffset]
+-[WYPopoverBackgroundView setGlossShadowOffset:]
+-[WYPopoverBackgroundView glossShadowBlurRadius]
+-[WYPopoverBackgroundView setGlossShadowBlurRadius:]
+-[WYPopoverBackgroundView borderWidth]
+-[WYPopoverBackgroundView setBorderWidth:]
+-[WYPopoverBackgroundView arrowBase]
+-[WYPopoverBackgroundView setArrowBase:]
+-[WYPopoverBackgroundView arrowHeight]
+-[WYPopoverBackgroundView setArrowHeight:]
+-[WYPopoverBackgroundView outerShadowColor]
+-[WYPopoverBackgroundView setOuterShadowColor:]
+-[WYPopoverBackgroundView outerStrokeColor]
+-[WYPopoverBackgroundView setOuterStrokeColor:]
+-[WYPopoverBackgroundView outerShadowBlurRadius]
+-[WYPopoverBackgroundView setOuterShadowBlurRadius:]
+-[WYPopoverBackgroundView outerShadowOffset]
+-[WYPopoverBackgroundView setOuterShadowOffset:]
+-[WYPopoverBackgroundView outerCornerRadius]
+-[WYPopoverBackgroundView setOuterCornerRadius:]
+-[WYPopoverBackgroundView minOuterCornerRadius]
+-[WYPopoverBackgroundView setMinOuterCornerRadius:]
+-[WYPopoverBackgroundView innerShadowColor]
+-[WYPopoverBackgroundView setInnerShadowColor:]
+-[WYPopoverBackgroundView innerStrokeColor]
+-[WYPopoverBackgroundView setInnerStrokeColor:]
+-[WYPopoverBackgroundView innerShadowBlurRadius]
+-[WYPopoverBackgroundView setInnerShadowBlurRadius:]
+-[WYPopoverBackgroundView innerShadowOffset]
+-[WYPopoverBackgroundView setInnerShadowOffset:]
+-[WYPopoverBackgroundView innerCornerRadius]
+-[WYPopoverBackgroundView setInnerCornerRadius:]
+-[WYPopoverBackgroundView viewContentInsets]
+-[WYPopoverBackgroundView setViewContentInsets:]
+-[WYPopoverBackgroundView arrowDirection]
+-[WYPopoverBackgroundView setArrowDirection:]
+-[WYPopoverBackgroundView contentView]
+-[WYPopoverBackgroundView arrowOffset]
+-[WYPopoverBackgroundView navigationBarHeight]
+-[WYPopoverBackgroundView wantsDefaultContentAppearance]
+-[WYPopoverBackgroundView setWantsDefaultContentAppearance:]
+-[WYPopoverBackgroundView overlayColor]
+-[WYPopoverBackgroundView setOverlayColor:]
+-[WYPopoverBackgroundView delegate]
+-[WYPopoverBackgroundView setDelegate:]
+-[WYPopoverBackgroundView isAppearing]
+-[WYPopoverBackgroundView setAppearing:]
+-[WYPopoverBackgroundView .cxx_destruct]
++[WYPopoverController setDefaultTheme:]
++[WYPopoverController defaultTheme]
++[WYPopoverController load]
+-[WYPopoverController init]
+-[WYPopoverController initWithContentViewController:]
+-[WYPopoverController setTheme:]
+-[WYPopoverController registerTheme]
+-[WYPopoverController unregisterTheme]
+-[WYPopoverController updateThemeUI]
+-[WYPopoverController beginThemeUpdates]
+-[WYPopoverController endThemeUpdates]
+-[WYPopoverController isPopoverVisible]
+-[WYPopoverController contentViewController]
+-[WYPopoverController topViewControllerContentSize]
+-[WYPopoverController popoverContentSize]
+-[WYPopoverController setPopoverContentSize:]
+-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:]
+-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:completion:]
+-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:options:]
+-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:options:completion:]
+__106-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:options:completion:]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+__106-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:options:completion:]_block_invoke.619
+__copy_helper_block_.624
+__destroy_helper_block_.625
+__106-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:options:completion:]_block_invoke.639
+__copy_helper_block_.640
+__destroy_helper_block_.641
+__106-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:options:completion:]_block_invoke.643
+__copy_helper_block_.644
+__destroy_helper_block_.645
+-[WYPopoverController presentPopoverFromBarButtonItem:permittedArrowDirections:animated:]
+-[WYPopoverController presentPopoverFromBarButtonItem:permittedArrowDirections:animated:completion:]
+-[WYPopoverController presentPopoverFromBarButtonItem:permittedArrowDirections:animated:options:]
+-[WYPopoverController presentPopoverFromBarButtonItem:permittedArrowDirections:animated:options:completion:]
+-[WYPopoverController presentPopoverAsDialogAnimated:]
+-[WYPopoverController presentPopoverAsDialogAnimated:completion:]
+-[WYPopoverController presentPopoverAsDialogAnimated:options:]
+-[WYPopoverController presentPopoverAsDialogAnimated:options:completion:]
+-[WYPopoverController transformForArrowDirection:]
+-[WYPopoverController setPopoverNavigationBarBackgroundImage]
+-[WYPopoverController positionPopover:]
+WYRectInWindowBounds
+__39-[WYPopoverController positionPopover:]_block_invoke
+__copy_helper_block_.697
+__destroy_helper_block_.698
+-[WYPopoverController dismissPopoverAnimated:]
+-[WYPopoverController dismissPopoverAnimated:completion:]
+-[WYPopoverController dismissPopoverAnimated:options:]
+-[WYPopoverController dismissPopoverAnimated:options:completion:]
+-[WYPopoverController dismissPopoverAnimated:options:completion:callDelegate:]
+__78-[WYPopoverController dismissPopoverAnimated:options:completion:callDelegate:]_block_invoke
+__copy_helper_block_.708
+__destroy_helper_block_.709
+__78-[WYPopoverController dismissPopoverAnimated:options:completion:callDelegate:]_block_invoke.711
+__copy_helper_block_.718
+__destroy_helper_block_.719
+__78-[WYPopoverController dismissPopoverAnimated:options:completion:callDelegate:]_block_invoke.727
+__copy_helper_block_.728
+__destroy_helper_block_.729
+__78-[WYPopoverController dismissPopoverAnimated:options:completion:callDelegate:]_block_invoke.731
+__copy_helper_block_.732
+__destroy_helper_block_.733
+-[WYPopoverController observeValueForKeyPath:ofObject:change:context:]
+-[WYPopoverController popoverOverlayViewDidTouch:]
+-[WYPopoverController popoverBackgroundViewDidTouchOutside:]
+-[WYPopoverController arrowDirectionForRect:inView:contentSize:arrowHeight:permittedArrowDirections:]
+__101-[WYPopoverController arrowDirectionForRect:inView:contentSize:arrowHeight:permittedArrowDirections:]_block_invoke
+__101-[WYPopoverController arrowDirectionForRect:inView:contentSize:arrowHeight:permittedArrowDirections:]_block_invoke_2
+-[WYPopoverController sizeForRect:inView:arrowHeight:arrowDirection:]
+-[WYPopoverController didChangeStatusBarOrientation:]
+-[WYPopoverController didChangeDeviceOrientation:]
+-[WYPopoverController keyboardWillShow:]
+-[WYPopoverController keyboardWillHide:]
+-[WYPopoverController dealloc]
+-[WYPopoverController delegate]
+-[WYPopoverController setDelegate:]
+-[WYPopoverController passthroughViews]
+-[WYPopoverController setPassthroughViews:]
+-[WYPopoverController wantsDefaultContentAppearance]
+-[WYPopoverController setWantsDefaultContentAppearance:]
+-[WYPopoverController popoverLayoutMargins]
+-[WYPopoverController setPopoverLayoutMargins:]
+-[WYPopoverController animationDuration]
+-[WYPopoverController setAnimationDuration:]
+-[WYPopoverController theme]
+-[WYPopoverController .cxx_destruct]
+WYStatusBarHeight
+.str
+_unnamed_cfstring_
+OBJC_CLASSLIST_REFERENCES_$_.9
+OBJC_METH_VAR_NAME_.10
+OBJC_SELECTOR_REFERENCES_.11
+OBJC_METH_VAR_TYPE_.13
+OBJC_METH_VAR_TYPE_.15
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_UIColor_$_WYPopover
+l_OBJC_$_CATEGORY_UIColor_$_WYPopover
+OBJC_METH_VAR_NAME_.17
+OBJC_SELECTOR_REFERENCES_.18
+OBJC_METH_VAR_NAME_.19
+OBJC_SELECTOR_REFERENCES_.20
+OBJC_SELECTOR_REFERENCES_.22
+OBJC_METH_VAR_NAME_.23
+OBJC_SELECTOR_REFERENCES_.24
+OBJC_SELECTOR_REFERENCES_.26
+OBJC_CLASSLIST_REFERENCES_$_.27
+OBJC_SELECTOR_REFERENCES_.29
+OBJC_SELECTOR_REFERENCES_.31
+OBJC_SELECTOR_REFERENCES_.33
+OBJC_METH_VAR_NAME_.34
+OBJC_SELECTOR_REFERENCES_.35
+OBJC_METH_VAR_NAME_.36
+OBJC_SELECTOR_REFERENCES_.37
+OBJC_METH_VAR_NAME_.38
+OBJC_SELECTOR_REFERENCES_.39
+OBJC_METH_VAR_NAME_.40
+OBJC_SELECTOR_REFERENCES_.41
+OBJC_METH_VAR_NAME_.42
+OBJC_SELECTOR_REFERENCES_.43
+OBJC_METH_VAR_NAME_.44
+OBJC_SELECTOR_REFERENCES_.45
+OBJC_METH_VAR_NAME_.46
+OBJC_SELECTOR_REFERENCES_.47
+OBJC_METH_VAR_NAME_.48
+OBJC_SELECTOR_REFERENCES_.49
+OBJC_METH_VAR_NAME_.50
+OBJC_SELECTOR_REFERENCES_.51
+OBJC_METH_VAR_NAME_.52
+OBJC_SELECTOR_REFERENCES_.53
+OBJC_METH_VAR_TYPE_.54
+OBJC_METH_VAR_NAME_.55
+OBJC_METH_VAR_TYPE_.56
+OBJC_METH_VAR_TYPE_.57
+OBJC_METH_VAR_TYPE_.58
+OBJC_METH_VAR_TYPE_.59
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_UINavigationController_$_WYPopover
+OBJC_METH_VAR_NAME_.60
+OBJC_METH_VAR_TYPE_.61
+l_OBJC_$_CATEGORY_CLASS_METHODS_UINavigationController_$_WYPopover
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_.62
+l_OBJC_$_PROP_LIST_UINavigationController_$_WYPopover
+l_OBJC_$_CATEGORY_UINavigationController_$_WYPopover
+OBJC_METH_VAR_NAME_.63
+OBJC_SELECTOR_REFERENCES_.64
+OBJC_METH_VAR_NAME_.65
+OBJC_SELECTOR_REFERENCES_.66
+OBJC_CLASSLIST_REFERENCES_$_.67
+OBJC_METH_VAR_NAME_.68
+OBJC_SELECTOR_REFERENCES_.69
+OBJC_METH_VAR_NAME_.70
+OBJC_SELECTOR_REFERENCES_.71
+OBJC_METH_VAR_NAME_.72
+OBJC_SELECTOR_REFERENCES_.73
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_UIViewController_$_WYPopover
+l_OBJC_$_CATEGORY_CLASS_METHODS_UIViewController_$_WYPopover
+l_OBJC_$_CATEGORY_UIViewController_$_WYPopover
+.str.74
+_unnamed_cfstring_.75
+OBJC_IVAR_$_WYPopoverArea.arrowDirection
+.str.76
+_unnamed_cfstring_.77
+.str.78
+_unnamed_cfstring_.79
+.str.80
+_unnamed_cfstring_.81
+.str.82
+_unnamed_cfstring_.83
+.str.84
+_unnamed_cfstring_.85
+.str.86
+_unnamed_cfstring_.87
+OBJC_IVAR_$_WYPopoverArea.areaSize
+OBJC_CLASS_NAME_.88
+l_OBJC_METACLASS_RO_$_WYPopoverArea
+OBJC_METH_VAR_NAME_.89
+OBJC_METH_VAR_NAME_.90
+OBJC_METH_VAR_TYPE_.91
+OBJC_METH_VAR_NAME_.92
+OBJC_METH_VAR_TYPE_.93
+OBJC_METH_VAR_NAME_.94
+OBJC_METH_VAR_TYPE_.95
+OBJC_METH_VAR_NAME_.96
+OBJC_METH_VAR_TYPE_.97
+OBJC_METH_VAR_NAME_.98
+l_OBJC_$_INSTANCE_METHODS_WYPopoverArea
+OBJC_METH_VAR_TYPE_.99
+OBJC_IVAR_$_WYPopoverArea.value
+OBJC_METH_VAR_TYPE_.100
+OBJC_METH_VAR_TYPE_.101
+l_OBJC_$_INSTANCE_VARIABLES_WYPopoverArea
+OBJC_PROP_NAME_ATTR_.102
+OBJC_PROP_NAME_ATTR_.103
+OBJC_PROP_NAME_ATTR_.104
+OBJC_PROP_NAME_ATTR_.105
+OBJC_PROP_NAME_ATTR_.106
+OBJC_PROP_NAME_ATTR_.107
+l_OBJC_$_PROP_LIST_WYPopoverArea
+l_OBJC_CLASS_RO_$_WYPopoverArea
+OBJC_CLASSLIST_REFERENCES_$_.108
+OBJC_METH_VAR_NAME_.109
+OBJC_SELECTOR_REFERENCES_.110
+OBJC_METH_VAR_NAME_.111
+OBJC_SELECTOR_REFERENCES_.112
+.str.113
+_unnamed_cfstring_.114
+OBJC_METH_VAR_NAME_.115
+OBJC_SELECTOR_REFERENCES_.116
+OBJC_CLASSLIST_REFERENCES_$_.117
+OBJC_METH_VAR_NAME_.118
+OBJC_SELECTOR_REFERENCES_.119
+OBJC_METH_VAR_NAME_.120
+OBJC_SELECTOR_REFERENCES_.121
+OBJC_METH_VAR_NAME_.122
+OBJC_SELECTOR_REFERENCES_.123
+OBJC_METH_VAR_NAME_.124
+OBJC_SELECTOR_REFERENCES_.125
+OBJC_METH_VAR_NAME_.126
+OBJC_SELECTOR_REFERENCES_.127
+OBJC_METH_VAR_NAME_.128
+OBJC_SELECTOR_REFERENCES_.129
+OBJC_METH_VAR_NAME_.130
+OBJC_SELECTOR_REFERENCES_.131
+OBJC_METH_VAR_NAME_.132
+OBJC_SELECTOR_REFERENCES_.133
+OBJC_METH_VAR_NAME_.134
+OBJC_SELECTOR_REFERENCES_.135
+OBJC_SELECTOR_REFERENCES_.136
+OBJC_METH_VAR_NAME_.137
+OBJC_SELECTOR_REFERENCES_.138
+OBJC_METH_VAR_NAME_.139
+OBJC_SELECTOR_REFERENCES_.140
+OBJC_METH_VAR_NAME_.141
+OBJC_SELECTOR_REFERENCES_.142
+OBJC_METH_VAR_NAME_.143
+OBJC_SELECTOR_REFERENCES_.144
+OBJC_METH_VAR_NAME_.145
+OBJC_SELECTOR_REFERENCES_.146
+OBJC_METH_VAR_NAME_.147
+OBJC_SELECTOR_REFERENCES_.148
+OBJC_METH_VAR_NAME_.149
+OBJC_SELECTOR_REFERENCES_.150
+OBJC_METH_VAR_NAME_.151
+OBJC_SELECTOR_REFERENCES_.152
+OBJC_METH_VAR_NAME_.153
+OBJC_SELECTOR_REFERENCES_.154
+OBJC_METH_VAR_NAME_.155
+OBJC_SELECTOR_REFERENCES_.156
+OBJC_METH_VAR_NAME_.157
+OBJC_SELECTOR_REFERENCES_.158
+OBJC_METH_VAR_NAME_.159
+OBJC_SELECTOR_REFERENCES_.160
+OBJC_METH_VAR_NAME_.161
+OBJC_SELECTOR_REFERENCES_.162
+OBJC_METH_VAR_NAME_.163
+OBJC_SELECTOR_REFERENCES_.164
+OBJC_METH_VAR_NAME_.165
+OBJC_SELECTOR_REFERENCES_.166
+OBJC_METH_VAR_NAME_.167
+OBJC_SELECTOR_REFERENCES_.168
+OBJC_METH_VAR_NAME_.169
+OBJC_SELECTOR_REFERENCES_.170
+OBJC_METH_VAR_NAME_.171
+OBJC_SELECTOR_REFERENCES_.172
+OBJC_METH_VAR_NAME_.173
+OBJC_SELECTOR_REFERENCES_.174
+OBJC_METH_VAR_NAME_.175
+OBJC_SELECTOR_REFERENCES_.176
+OBJC_IVAR_$_WYPopoverTheme.innerCornerRadius
+OBJC_IVAR_$_WYPopoverTheme.borderWidth
+OBJC_IVAR_$_WYPopoverTheme.outerCornerRadius
+OBJC_IVAR_$_WYPopoverTheme.outerShadowOffset
+OBJC_IVAR_$_WYPopoverTheme.outerShadowBlurRadius
+OBJC_IVAR_$_WYPopoverTheme.innerStrokeColor
+OBJC_METH_VAR_NAME_.177
+OBJC_SELECTOR_REFERENCES_.178
+OBJC_IVAR_$_WYPopoverTheme.outerStrokeColor
+OBJC_IVAR_$_WYPopoverTheme.glossShadowColor
+OBJC_SELECTOR_REFERENCES_.179
+OBJC_IVAR_$_WYPopoverTheme.fillTopColor
+OBJC_IVAR_$_WYPopoverTheme.tintColor
+OBJC_IVAR_$_WYPopoverTheme.fillBottomColor
+OBJC_CLASSLIST_REFERENCES_$_.180
+.str.181
+_unnamed_cfstring_.182
+.str.183
+_unnamed_cfstring_.184
+.str.185
+_unnamed_cfstring_.186
+.str.187
+_unnamed_cfstring_.188
+.str.189
+_unnamed_cfstring_.190
+.str.191
+_unnamed_cfstring_.192
+.str.193
+_unnamed_cfstring_.194
+.str.195
+_unnamed_cfstring_.196
+.str.197
+_unnamed_cfstring_.198
+.str.199
+_unnamed_cfstring_.200
+.str.201
+_unnamed_cfstring_.202
+.str.203
+_unnamed_cfstring_.204
+.str.205
+_unnamed_cfstring_.206
+.str.207
+_unnamed_cfstring_.208
+.str.209
+_unnamed_cfstring_.210
+.str.211
+_unnamed_cfstring_.212
+.str.213
+_unnamed_cfstring_.214
+.str.215
+_unnamed_cfstring_.216
+.str.217
+_unnamed_cfstring_.218
+.str.219
+_unnamed_cfstring_.220
+.str.221
+_unnamed_cfstring_.222
+OBJC_METH_VAR_NAME_.223
+OBJC_SELECTOR_REFERENCES_.224
+OBJC_IVAR_$_WYPopoverTheme.glossShadowOffset
+OBJC_IVAR_$_WYPopoverTheme.glossShadowBlurRadius
+OBJC_IVAR_$_WYPopoverTheme.arrowBase
+OBJC_IVAR_$_WYPopoverTheme.arrowHeight
+OBJC_IVAR_$_WYPopoverTheme.outerShadowColor
+OBJC_IVAR_$_WYPopoverTheme.minOuterCornerRadius
+OBJC_IVAR_$_WYPopoverTheme.innerShadowColor
+OBJC_IVAR_$_WYPopoverTheme.innerShadowBlurRadius
+OBJC_IVAR_$_WYPopoverTheme.innerShadowOffset
+OBJC_IVAR_$_WYPopoverTheme.viewContentInsets
+OBJC_IVAR_$_WYPopoverTheme.overlayColor
+OBJC_CLASS_NAME_.225
+OBJC_METH_VAR_NAME_.226
+l_OBJC_$_CLASS_METHODS_WYPopoverTheme
+l_OBJC_METACLASS_RO_$_WYPopoverTheme
+OBJC_CLASS_NAME_.227
+OBJC_METH_VAR_NAME_.228
+OBJC_METH_VAR_NAME_.229
+OBJC_METH_VAR_NAME_.230
+OBJC_METH_VAR_NAME_.231
+OBJC_METH_VAR_NAME_.232
+OBJC_METH_VAR_NAME_.233
+OBJC_METH_VAR_NAME_.234
+OBJC_METH_VAR_NAME_.235
+OBJC_METH_VAR_TYPE_.236
+OBJC_METH_VAR_NAME_.237
+OBJC_METH_VAR_NAME_.238
+OBJC_METH_VAR_NAME_.239
+OBJC_METH_VAR_NAME_.240
+OBJC_METH_VAR_NAME_.241
+OBJC_METH_VAR_NAME_.242
+OBJC_METH_VAR_NAME_.243
+OBJC_METH_VAR_NAME_.244
+OBJC_METH_VAR_NAME_.245
+OBJC_METH_VAR_NAME_.246
+OBJC_METH_VAR_NAME_.247
+OBJC_METH_VAR_NAME_.248
+OBJC_METH_VAR_NAME_.249
+OBJC_METH_VAR_TYPE_.250
+OBJC_METH_VAR_TYPE_.251
+OBJC_METH_VAR_NAME_.252
+l_OBJC_$_INSTANCE_METHODS_WYPopoverTheme
+OBJC_METH_VAR_TYPE_.253
+OBJC_METH_VAR_TYPE_.254
+l_OBJC_$_INSTANCE_VARIABLES_WYPopoverTheme
+OBJC_PROP_NAME_ATTR_.255
+OBJC_PROP_NAME_ATTR_.256
+OBJC_PROP_NAME_ATTR_.257
+OBJC_PROP_NAME_ATTR_.258
+OBJC_PROP_NAME_ATTR_.259
+OBJC_PROP_NAME_ATTR_.260
+OBJC_PROP_NAME_ATTR_.261
+OBJC_PROP_NAME_ATTR_.262
+OBJC_PROP_NAME_ATTR_.263
+OBJC_PROP_NAME_ATTR_.264
+OBJC_PROP_NAME_ATTR_.265
+OBJC_PROP_NAME_ATTR_.266
+OBJC_PROP_NAME_ATTR_.267
+OBJC_PROP_NAME_ATTR_.268
+OBJC_PROP_NAME_ATTR_.269
+OBJC_PROP_NAME_ATTR_.270
+OBJC_PROP_NAME_ATTR_.271
+OBJC_PROP_NAME_ATTR_.272
+OBJC_PROP_NAME_ATTR_.273
+OBJC_PROP_NAME_ATTR_.274
+OBJC_PROP_NAME_ATTR_.275
+OBJC_PROP_NAME_ATTR_.276
+OBJC_PROP_NAME_ATTR_.277
+OBJC_PROP_NAME_ATTR_.278
+OBJC_PROP_NAME_ATTR_.279
+OBJC_PROP_NAME_ATTR_.280
+OBJC_PROP_NAME_ATTR_.281
+OBJC_PROP_NAME_ATTR_.282
+OBJC_PROP_NAME_ATTR_.283
+OBJC_PROP_NAME_ATTR_.284
+OBJC_PROP_NAME_ATTR_.285
+OBJC_PROP_NAME_ATTR_.286
+OBJC_PROP_NAME_ATTR_.287
+OBJC_PROP_NAME_ATTR_.288
+OBJC_PROP_NAME_ATTR_.289
+OBJC_PROP_NAME_ATTR_.290
+OBJC_PROP_NAME_ATTR_.291
+OBJC_PROP_NAME_ATTR_.292
+OBJC_PROP_NAME_ATTR_.293
+OBJC_PROP_NAME_ATTR_.294
+OBJC_PROP_NAME_ATTR_.295
+OBJC_PROP_NAME_ATTR_.296
+OBJC_PROP_NAME_ATTR_.297
+OBJC_PROP_NAME_ATTR_.298
+l_OBJC_$_PROP_LIST_WYPopoverTheme
+l_OBJC_CLASS_RO_$_WYPopoverTheme
+OBJC_METH_VAR_NAME_.299
+OBJC_SELECTOR_REFERENCES_.300
+OBJC_CLASSLIST_REFERENCES_$_.301
+OBJC_METH_VAR_NAME_.302
+OBJC_SELECTOR_REFERENCES_.303
+OBJC_METH_VAR_NAME_.304
+OBJC_SELECTOR_REFERENCES_.305
+OBJC_METH_VAR_NAME_.306
+OBJC_SELECTOR_REFERENCES_.307
+OBJC_METH_VAR_NAME_.308
+OBJC_SELECTOR_REFERENCES_.309
+OBJC_METH_VAR_NAME_.310
+OBJC_SELECTOR_REFERENCES_.311
+OBJC_METH_VAR_NAME_.312
+OBJC_METH_VAR_TYPE_.313
+OBJC_METH_VAR_NAME_.314
+OBJC_METH_VAR_TYPE_.315
+OBJC_METH_VAR_TYPE_.316
+l_OBJC_$_CATEGORY_CLASS_METHODS_UIImage_$_WYPopover
+l_OBJC_$_CATEGORY_UIImage_$_WYPopover
+OBJC_METH_VAR_NAME_.317
+OBJC_SELECTOR_REFERENCES_.318
+OBJC_METH_VAR_NAME_.319
+OBJC_SELECTOR_REFERENCES_.320
+OBJC_METH_VAR_NAME_.321
+OBJC_SELECTOR_REFERENCES_.322
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.gradientTopColor
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.gradientBottomColor
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.wantsDefaultContentAppearance
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.navigationBarHeight
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.innerCornerRadius
+OBJC_METH_VAR_NAME_.323
+OBJC_SELECTOR_REFERENCES_.324
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.borderWidth
+OBJC_METH_VAR_NAME_.325
+OBJC_SELECTOR_REFERENCES_.326
+OBJC_METH_VAR_NAME_.327
+OBJC_SELECTOR_REFERENCES_.328
+OBJC_METH_VAR_NAME_.329
+OBJC_SELECTOR_REFERENCES_.330
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.gradientTopPosition
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.gradientHeight
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.innerShadowOffset
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.innerShadowBlurRadius
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.innerShadowColor
+OBJC_METH_VAR_NAME_.331
+OBJC_SELECTOR_REFERENCES_.332
+OBJC_SELECTOR_REFERENCES_.333
+OBJC_METH_VAR_NAME_.334
+OBJC_SELECTOR_REFERENCES_.335
+OBJC_METH_VAR_NAME_.336
+OBJC_SELECTOR_REFERENCES_.337
+OBJC_IVAR_$_WYPopoverBackgroundInnerView.innerStrokeColor
+OBJC_METH_VAR_NAME_.338
+OBJC_SELECTOR_REFERENCES_.339
+OBJC_CLASS_NAME_.340
+l_OBJC_METACLASS_RO_$_WYPopoverBackgroundInnerView
+OBJC_CLASS_NAME_.341
+OBJC_METH_VAR_TYPE_.342
+OBJC_METH_VAR_NAME_.343
+OBJC_METH_VAR_TYPE_.344
+OBJC_METH_VAR_NAME_.345
+OBJC_METH_VAR_NAME_.346
+OBJC_METH_VAR_NAME_.347
+OBJC_METH_VAR_NAME_.348
+OBJC_METH_VAR_NAME_.349
+OBJC_METH_VAR_NAME_.350
+OBJC_METH_VAR_TYPE_.351
+OBJC_METH_VAR_NAME_.352
+OBJC_METH_VAR_NAME_.353
+OBJC_METH_VAR_NAME_.354
+OBJC_METH_VAR_NAME_.355
+OBJC_METH_VAR_NAME_.356
+OBJC_METH_VAR_NAME_.357
+l_OBJC_$_INSTANCE_METHODS_WYPopoverBackgroundInnerView
+OBJC_METH_VAR_TYPE_.358
+l_OBJC_$_INSTANCE_VARIABLES_WYPopoverBackgroundInnerView
+OBJC_PROP_NAME_ATTR_.359
+OBJC_PROP_NAME_ATTR_.360
+OBJC_PROP_NAME_ATTR_.361
+OBJC_PROP_NAME_ATTR_.362
+OBJC_PROP_NAME_ATTR_.363
+OBJC_PROP_NAME_ATTR_.364
+OBJC_PROP_NAME_ATTR_.365
+OBJC_PROP_NAME_ATTR_.366
+OBJC_PROP_NAME_ATTR_.367
+OBJC_PROP_NAME_ATTR_.368
+OBJC_PROP_NAME_ATTR_.369
+OBJC_PROP_NAME_ATTR_.370
+OBJC_PROP_NAME_ATTR_.371
+OBJC_PROP_NAME_ATTR_.372
+OBJC_PROP_NAME_ATTR_.373
+l_OBJC_$_PROP_LIST_WYPopoverBackgroundInnerView
+l_OBJC_CLASS_RO_$_WYPopoverBackgroundInnerView
+OBJC_METH_VAR_NAME_.374
+OBJC_SELECTOR_REFERENCES_.375
+OBJC_METH_VAR_NAME_.376
+OBJC_SELECTOR_REFERENCES_.377
+OBJC_CLASSLIST_SUP_REFS_$_.378
+OBJC_METH_VAR_NAME_.379
+OBJC_SELECTOR_REFERENCES_.380
+OBJC_METH_VAR_NAME_.381
+OBJC_SELECTOR_REFERENCES_.382
+OBJC_METH_VAR_NAME_.383
+OBJC_SELECTOR_REFERENCES_.384
+OBJC_METH_VAR_NAME_.385
+OBJC_SELECTOR_REFERENCES_.386
+OBJC_METH_VAR_NAME_.387
+OBJC_SELECTOR_REFERENCES_.388
+OBJC_CLASSLIST_REFERENCES_$_.389
+OBJC_METH_VAR_NAME_.390
+OBJC_SELECTOR_REFERENCES_.391
+.str.392
+_unnamed_cfstring_.393
+OBJC_METH_VAR_NAME_.394
+OBJC_SELECTOR_REFERENCES_.395
+OBJC_METH_VAR_NAME_.396
+OBJC_SELECTOR_REFERENCES_.397
+OBJC_IVAR_$_WYPopoverOverlayView._delegate
+OBJC_IVAR_$_WYPopoverOverlayView._passthroughViews
+OBJC_CLASS_NAME_.398
+l_OBJC_METACLASS_RO_$_WYPopoverOverlayView
+OBJC_METH_VAR_NAME_.399
+OBJC_METH_VAR_TYPE_.400
+OBJC_METH_VAR_TYPE_.401
+OBJC_METH_VAR_TYPE_.402
+OBJC_METH_VAR_NAME_.403
+OBJC_METH_VAR_NAME_.404
+OBJC_METH_VAR_NAME_.405
+l_OBJC_$_INSTANCE_METHODS_WYPopoverOverlayView
+OBJC_METH_VAR_NAME_.406
+OBJC_METH_VAR_NAME_.407
+OBJC_METH_VAR_TYPE_.408
+OBJC_METH_VAR_NAME_.409
+OBJC_METH_VAR_TYPE_.410
+l_OBJC_$_INSTANCE_VARIABLES_WYPopoverOverlayView
+OBJC_PROP_NAME_ATTR_.411
+OBJC_PROP_NAME_ATTR_.412
+OBJC_PROP_NAME_ATTR_.413
+OBJC_PROP_NAME_ATTR_.414
+l_OBJC_$_PROP_LIST_WYPopoverOverlayView
+l_OBJC_CLASS_RO_$_WYPopoverOverlayView
+OBJC_CLASSLIST_SUP_REFS_$_.415
+OBJC_IVAR_$_WYPopoverBackgroundView.contentSize
+OBJC_METH_VAR_NAME_.416
+OBJC_SELECTOR_REFERENCES_.417
+OBJC_SELECTOR_REFERENCES_.418
+OBJC_METH_VAR_NAME_.419
+OBJC_SELECTOR_REFERENCES_.420
+OBJC_METH_VAR_NAME_.421
+OBJC_SELECTOR_REFERENCES_.422
+.str.423
+_unnamed_cfstring_.424
+OBJC_METH_VAR_NAME_.425
+OBJC_SELECTOR_REFERENCES_.426
+.str.427
+_unnamed_cfstring_.428
+OBJC_METH_VAR_NAME_.429
+OBJC_SELECTOR_REFERENCES_.430
+OBJC_CLASSLIST_REFERENCES_$_.431
+OBJC_METH_VAR_NAME_.432
+OBJC_SELECTOR_REFERENCES_.433
+OBJC_METH_VAR_NAME_.434
+OBJC_SELECTOR_REFERENCES_.435
+OBJC_METH_VAR_NAME_.436
+OBJC_SELECTOR_REFERENCES_.437
+OBJC_SELECTOR_REFERENCES_.438
+OBJC_METH_VAR_NAME_.439
+OBJC_SELECTOR_REFERENCES_.440
+OBJC_METH_VAR_NAME_.441
+OBJC_SELECTOR_REFERENCES_.442
+OBJC_METH_VAR_NAME_.443
+OBJC_SELECTOR_REFERENCES_.444
+OBJC_METH_VAR_NAME_.445
+OBJC_SELECTOR_REFERENCES_.446
+OBJC_IVAR_$_WYPopoverBackgroundView.outerShadowBlurRadius
+OBJC_SELECTOR_REFERENCES_.447
+OBJC_METH_VAR_NAME_.448
+OBJC_SELECTOR_REFERENCES_.449
+OBJC_SELECTOR_REFERENCES_.450
+OBJC_IVAR_$_WYPopoverBackgroundView.minOuterCornerRadius
+OBJC_IVAR_$_WYPopoverBackgroundView.outerCornerRadius
+OBJC_IVAR_$_WYPopoverBackgroundView.arrowDirection
+OBJC_IVAR_$_WYPopoverBackgroundView.arrowOffset
+OBJC_METH_VAR_NAME_.451
+OBJC_SELECTOR_REFERENCES_.452
+OBJC_IVAR_$_WYPopoverBackgroundView.contentView
+OBJC_METH_VAR_NAME_.453
+OBJC_SELECTOR_REFERENCES_.454
+OBJC_METH_VAR_NAME_.455
+OBJC_SELECTOR_REFERENCES_.456
+OBJC_METH_VAR_NAME_.457
+OBJC_SELECTOR_REFERENCES_.458
+OBJC_IVAR_$_WYPopoverBackgroundView.navigationBarHeight
+OBJC_METH_VAR_NAME_.459
+OBJC_SELECTOR_REFERENCES_.460
+OBJC_METH_VAR_NAME_.461
+OBJC_SELECTOR_REFERENCES_.462
+OBJC_IVAR_$_WYPopoverBackgroundView.innerView
+OBJC_CLASSLIST_REFERENCES_$_.463
+OBJC_METH_VAR_NAME_.464
+OBJC_SELECTOR_REFERENCES_.465
+OBJC_SELECTOR_REFERENCES_.466
+OBJC_SELECTOR_REFERENCES_.467
+OBJC_SELECTOR_REFERENCES_.468
+OBJC_IVAR_$_WYPopoverBackgroundView.innerShadowColor
+OBJC_IVAR_$_WYPopoverBackgroundView.innerShadowOffset
+OBJC_SELECTOR_REFERENCES_.469
+OBJC_IVAR_$_WYPopoverBackgroundView.innerShadowBlurRadius
+OBJC_SELECTOR_REFERENCES_.470
+OBJC_SELECTOR_REFERENCES_.471
+OBJC_SELECTOR_REFERENCES_.472
+OBJC_METH_VAR_NAME_.473
+OBJC_SELECTOR_REFERENCES_.474
+OBJC_SELECTOR_REFERENCES_.475
+OBJC_IVAR_$_WYPopoverBackgroundView.wantsDefaultContentAppearance
+OBJC_SELECTOR_REFERENCES_.476
+OBJC_METH_VAR_NAME_.477
+OBJC_SELECTOR_REFERENCES_.478
+OBJC_METH_VAR_NAME_.479
+OBJC_SELECTOR_REFERENCES_.480
+OBJC_IVAR_$_WYPopoverBackgroundView.borderWidth
+OBJC_IVAR_$_WYPopoverBackgroundView.arrowHeight
+OBJC_METH_VAR_NAME_.481
+OBJC_SELECTOR_REFERENCES_.482
+OBJC_METH_VAR_NAME_.483
+OBJC_SELECTOR_REFERENCES_.484
+OBJC_METH_VAR_NAME_.485
+OBJC_SELECTOR_REFERENCES_.486
+OBJC_METH_VAR_NAME_.487
+OBJC_SELECTOR_REFERENCES_.488
+OBJC_SELECTOR_REFERENCES_.489
+OBJC_METH_VAR_NAME_.490
+OBJC_SELECTOR_REFERENCES_.491
+OBJC_IVAR_$_WYPopoverBackgroundView.arrowBase
+OBJC_METH_VAR_NAME_.492
+OBJC_SELECTOR_REFERENCES_.493
+OBJC_IVAR_$_WYPopoverBackgroundView.outerShadowColor
+OBJC_METH_VAR_NAME_.494
+OBJC_SELECTOR_REFERENCES_.495
+OBJC_IVAR_$_WYPopoverBackgroundView.glossShadowBlurRadius
+OBJC_IVAR_$_WYPopoverBackgroundView.glossShadowOffset
+OBJC_SELECTOR_REFERENCES_.496
+OBJC_METH_VAR_NAME_.497
+OBJC_SELECTOR_REFERENCES_.498
+OBJC_METH_VAR_NAME_.499
+OBJC_SELECTOR_REFERENCES_.500
+OBJC_SELECTOR_REFERENCES_.501
+OBJC_METH_VAR_NAME_.502
+OBJC_SELECTOR_REFERENCES_.503
+OBJC_METH_VAR_NAME_.504
+OBJC_SELECTOR_REFERENCES_.505
+OBJC_IVAR_$_WYPopoverBackgroundView.viewContentInsets
+OBJC_METH_VAR_NAME_.506
+OBJC_SELECTOR_REFERENCES_.507
+OBJC_IVAR_$_WYPopoverBackgroundView.tintColor
+OBJC_IVAR_$_WYPopoverBackgroundView.outerStrokeColor
+OBJC_IVAR_$_WYPopoverBackgroundView.innerStrokeColor
+OBJC_IVAR_$_WYPopoverBackgroundView.fillTopColor
+OBJC_IVAR_$_WYPopoverBackgroundView.fillBottomColor
+OBJC_IVAR_$_WYPopoverBackgroundView.glossShadowColor
+OBJC_IVAR_$_WYPopoverBackgroundView.outerShadowOffset
+OBJC_IVAR_$_WYPopoverBackgroundView.innerCornerRadius
+OBJC_IVAR_$_WYPopoverBackgroundView._overlayColor
+OBJC_IVAR_$_WYPopoverBackgroundView._delegate
+OBJC_IVAR_$_WYPopoverBackgroundView._appearing
+OBJC_CLASS_NAME_.508
+l_OBJC_METACLASS_RO_$_WYPopoverBackgroundView
+OBJC_CLASS_NAME_.509
+OBJC_METH_VAR_NAME_.510
+OBJC_METH_VAR_TYPE_.511
+OBJC_METH_VAR_NAME_.512
+OBJC_METH_VAR_TYPE_.513
+OBJC_METH_VAR_NAME_.514
+OBJC_METH_VAR_NAME_.515
+OBJC_METH_VAR_TYPE_.516
+OBJC_METH_VAR_TYPE_.517
+OBJC_METH_VAR_TYPE_.518
+OBJC_METH_VAR_TYPE_.519
+OBJC_METH_VAR_NAME_.520
+OBJC_METH_VAR_NAME_.521
+OBJC_METH_VAR_NAME_.522
+OBJC_METH_VAR_NAME_.523
+l_OBJC_$_INSTANCE_METHODS_WYPopoverBackgroundView
+OBJC_METH_VAR_NAME_.524
+OBJC_METH_VAR_TYPE_.525
+OBJC_METH_VAR_NAME_.526
+OBJC_METH_VAR_NAME_.527
+OBJC_METH_VAR_TYPE_.528
+OBJC_METH_VAR_NAME_.529
+OBJC_METH_VAR_TYPE_.530
+OBJC_IVAR_$_WYPopoverBackgroundView.outerShadowInsets
+l_OBJC_$_INSTANCE_VARIABLES_WYPopoverBackgroundView
+OBJC_PROP_NAME_ATTR_.531
+OBJC_PROP_NAME_ATTR_.532
+OBJC_PROP_NAME_ATTR_.533
+OBJC_PROP_NAME_ATTR_.534
+OBJC_PROP_NAME_ATTR_.535
+OBJC_PROP_NAME_ATTR_.536
+OBJC_PROP_NAME_ATTR_.537
+OBJC_PROP_NAME_ATTR_.538
+OBJC_PROP_NAME_ATTR_.539
+OBJC_PROP_NAME_ATTR_.540
+OBJC_PROP_NAME_ATTR_.541
+l_OBJC_$_PROP_LIST_WYPopoverBackgroundView
+l_OBJC_CLASS_RO_$_WYPopoverBackgroundView
+defaultTheme_
+OBJC_CLASSLIST_REFERENCES_$_.542
+OBJC_METH_VAR_NAME_.543
+OBJC_SELECTOR_REFERENCES_.544
+OBJC_SELECTOR_REFERENCES_.545
+OBJC_SELECTOR_REFERENCES_.546
+OBJC_SELECTOR_REFERENCES_.547
+OBJC_SELECTOR_REFERENCES_.548
+OBJC_SELECTOR_REFERENCES_.549
+OBJC_SELECTOR_REFERENCES_.550
+OBJC_SELECTOR_REFERENCES_.551
+OBJC_SELECTOR_REFERENCES_.552
+OBJC_SELECTOR_REFERENCES_.553
+OBJC_SELECTOR_REFERENCES_.554
+OBJC_SELECTOR_REFERENCES_.555
+OBJC_SELECTOR_REFERENCES_.556
+OBJC_CLASSLIST_REFERENCES_$_.557
+OBJC_SELECTOR_REFERENCES_.558
+OBJC_METH_VAR_NAME_.559
+OBJC_SELECTOR_REFERENCES_.560
+OBJC_CLASSLIST_SUP_REFS_$_.561
+OBJC_IVAR_$_WYPopoverController.popoverLayoutMargins
+OBJC_IVAR_$_WYPopoverController.keyboardRect
+OBJC_IVAR_$_WYPopoverController.animationDuration
+OBJC_IVAR_$_WYPopoverController.themeUpdatesEnabled
+OBJC_METH_VAR_NAME_.562
+OBJC_SELECTOR_REFERENCES_.563
+OBJC_METH_VAR_NAME_.564
+OBJC_SELECTOR_REFERENCES_.565
+OBJC_IVAR_$_WYPopoverController.themeIsUpdating
+OBJC_IVAR_$_WYPopoverController.theme
+OBJC_IVAR_$_WYPopoverController.popoverContentSize_
+OBJC_IVAR_$_WYPopoverController.viewController
+OBJC_METH_VAR_NAME_.566
+OBJC_SELECTOR_REFERENCES_.567
+OBJC_METH_VAR_NAME_.568
+OBJC_SELECTOR_REFERENCES_.569
+OBJC_METH_VAR_NAME_.570
+OBJC_SELECTOR_REFERENCES_.571
+OBJC_SELECTOR_REFERENCES_.572
+OBJC_METH_VAR_NAME_.573
+OBJC_SELECTOR_REFERENCES_.574
+OBJC_METH_VAR_NAME_.575
+OBJC_SELECTOR_REFERENCES_.576
+OBJC_IVAR_$_WYPopoverController.backgroundView
+OBJC_IVAR_$_WYPopoverController.overlayView
+OBJC_METH_VAR_NAME_.577
+OBJC_SELECTOR_REFERENCES_.578
+OBJC_METH_VAR_NAME_.579
+OBJC_SELECTOR_REFERENCES_.580
+OBJC_METH_VAR_NAME_.581
+OBJC_SELECTOR_REFERENCES_.582
+OBJC_CLASSLIST_REFERENCES_$_.583
+OBJC_METH_VAR_NAME_.584
+OBJC_SELECTOR_REFERENCES_.585
+OBJC_METH_VAR_NAME_.586
+OBJC_SELECTOR_REFERENCES_.587
+OBJC_METH_VAR_NAME_.588
+OBJC_SELECTOR_REFERENCES_.589
+OBJC_METH_VAR_NAME_.590
+OBJC_SELECTOR_REFERENCES_.591
+OBJC_METH_VAR_NAME_.592
+OBJC_SELECTOR_REFERENCES_.593
+OBJC_METH_VAR_NAME_.594
+OBJC_SELECTOR_REFERENCES_.595
+OBJC_IVAR_$_WYPopoverController.rect
+OBJC_IVAR_$_WYPopoverController.inView
+OBJC_IVAR_$_WYPopoverController.permittedArrowDirections
+OBJC_IVAR_$_WYPopoverController.animated
+OBJC_IVAR_$_WYPopoverController.options
+OBJC_METH_VAR_NAME_.596
+OBJC_SELECTOR_REFERENCES_.597
+OBJC_METH_VAR_NAME_.598
+OBJC_SELECTOR_REFERENCES_.599
+OBJC_CLASSLIST_REFERENCES_$_.600
+OBJC_METH_VAR_NAME_.601
+OBJC_SELECTOR_REFERENCES_.602
+OBJC_METH_VAR_NAME_.603
+OBJC_SELECTOR_REFERENCES_.604
+OBJC_METH_VAR_NAME_.605
+OBJC_SELECTOR_REFERENCES_.606
+OBJC_IVAR_$_WYPopoverController.passthroughViews
+OBJC_SELECTOR_REFERENCES_.607
+OBJC_SELECTOR_REFERENCES_.608
+OBJC_SELECTOR_REFERENCES_.609
+OBJC_METH_VAR_NAME_.610
+OBJC_SELECTOR_REFERENCES_.611
+OBJC_METH_VAR_NAME_.612
+OBJC_SELECTOR_REFERENCES_.613
+OBJC_METH_VAR_NAME_.614
+OBJC_SELECTOR_REFERENCES_.615
+OBJC_IVAR_$_WYPopoverController.delegate
+OBJC_METH_VAR_NAME_.616
+OBJC_SELECTOR_REFERENCES_.617
+.str.618
+__block_descriptor_tmp
+OBJC_METH_VAR_NAME_.620
+OBJC_SELECTOR_REFERENCES_.621
+OBJC_METH_VAR_NAME_.622
+OBJC_SELECTOR_REFERENCES_.623
+.str.626
+__block_descriptor_tmp.627
+OBJC_METH_VAR_NAME_.628
+OBJC_SELECTOR_REFERENCES_.629
+OBJC_METH_VAR_NAME_.630
+OBJC_SELECTOR_REFERENCES_.631
+OBJC_METH_VAR_NAME_.632
+OBJC_SELECTOR_REFERENCES_.633
+OBJC_METH_VAR_NAME_.634
+OBJC_SELECTOR_REFERENCES_.635
+OBJC_METH_VAR_NAME_.636
+OBJC_SELECTOR_REFERENCES_.637
+OBJC_CLASSLIST_REFERENCES_$_.638
+__block_descriptor_tmp.642
+__block_descriptor_tmp.646
+OBJC_METH_VAR_NAME_.647
+OBJC_SELECTOR_REFERENCES_.648
+OBJC_IVAR_$_WYPopoverController.isListeningNotifications
+OBJC_CLASSLIST_REFERENCES_$_.649
+OBJC_METH_VAR_NAME_.650
+OBJC_SELECTOR_REFERENCES_.651
+OBJC_METH_VAR_NAME_.652
+OBJC_SELECTOR_REFERENCES_.653
+OBJC_METH_VAR_NAME_.654
+OBJC_SELECTOR_REFERENCES_.655
+OBJC_METH_VAR_NAME_.656
+OBJC_SELECTOR_REFERENCES_.657
+OBJC_METH_VAR_NAME_.658
+OBJC_SELECTOR_REFERENCES_.659
+OBJC_METH_VAR_NAME_.660
+OBJC_SELECTOR_REFERENCES_.661
+OBJC_METH_VAR_NAME_.662
+OBJC_SELECTOR_REFERENCES_.663
+OBJC_METH_VAR_NAME_.664
+OBJC_SELECTOR_REFERENCES_.665
+OBJC_METH_VAR_NAME_.666
+OBJC_SELECTOR_REFERENCES_.667
+OBJC_IVAR_$_WYPopoverController.barButtonItem
+.str.668
+_unnamed_cfstring_.669
+OBJC_METH_VAR_NAME_.670
+OBJC_SELECTOR_REFERENCES_.671
+OBJC_METH_VAR_NAME_.672
+OBJC_SELECTOR_REFERENCES_.673
+OBJC_METH_VAR_NAME_.674
+OBJC_SELECTOR_REFERENCES_.675
+OBJC_SELECTOR_REFERENCES_.676
+OBJC_SELECTOR_REFERENCES_.677
+OBJC_IVAR_$_WYPopoverController.wantsDefaultContentAppearance
+OBJC_CLASSLIST_REFERENCES_$_.678
+OBJC_SELECTOR_REFERENCES_.679
+OBJC_METH_VAR_NAME_.680
+OBJC_SELECTOR_REFERENCES_.681
+OBJC_METH_VAR_NAME_.682
+OBJC_SELECTOR_REFERENCES_.683
+OBJC_METH_VAR_NAME_.684
+OBJC_SELECTOR_REFERENCES_.685
+OBJC_METH_VAR_NAME_.686
+OBJC_SELECTOR_REFERENCES_.687
+OBJC_METH_VAR_NAME_.688
+OBJC_SELECTOR_REFERENCES_.689
+OBJC_METH_VAR_NAME_.690
+OBJC_SELECTOR_REFERENCES_.691
+OBJC_METH_VAR_NAME_.692
+OBJC_SELECTOR_REFERENCES_.693
+OBJC_SELECTOR_REFERENCES_.694
+OBJC_METH_VAR_NAME_.695
+OBJC_SELECTOR_REFERENCES_.696
+__block_descriptor_tmp.699
+OBJC_METH_VAR_NAME_.700
+OBJC_SELECTOR_REFERENCES_.701
+OBJC_METH_VAR_NAME_.702
+OBJC_SELECTOR_REFERENCES_.703
+OBJC_METH_VAR_NAME_.704
+OBJC_SELECTOR_REFERENCES_.705
+OBJC_METH_VAR_NAME_.706
+OBJC_SELECTOR_REFERENCES_.707
+__block_descriptor_tmp.710
+OBJC_METH_VAR_NAME_.712
+OBJC_SELECTOR_REFERENCES_.713
+OBJC_METH_VAR_NAME_.714
+OBJC_SELECTOR_REFERENCES_.715
+OBJC_METH_VAR_NAME_.716
+OBJC_SELECTOR_REFERENCES_.717
+__block_descriptor_tmp.720
+OBJC_METH_VAR_NAME_.721
+OBJC_SELECTOR_REFERENCES_.722
+OBJC_METH_VAR_NAME_.723
+OBJC_SELECTOR_REFERENCES_.724
+OBJC_METH_VAR_NAME_.725
+OBJC_SELECTOR_REFERENCES_.726
+__block_descriptor_tmp.730
+__block_descriptor_tmp.734
+OBJC_METH_VAR_NAME_.735
+OBJC_SELECTOR_REFERENCES_.736
+OBJC_METH_VAR_NAME_.737
+OBJC_SELECTOR_REFERENCES_.738
+OBJC_METH_VAR_NAME_.739
+OBJC_SELECTOR_REFERENCES_.740
+OBJC_CLASSLIST_REFERENCES_$_.741
+OBJC_METH_VAR_NAME_.742
+OBJC_SELECTOR_REFERENCES_.743
+OBJC_CLASSLIST_REFERENCES_$_.744
+OBJC_METH_VAR_NAME_.745
+OBJC_SELECTOR_REFERENCES_.746
+OBJC_SELECTOR_REFERENCES_.747
+OBJC_METH_VAR_NAME_.748
+OBJC_SELECTOR_REFERENCES_.749
+OBJC_SELECTOR_REFERENCES_.750
+.str.751
+__block_descriptor_tmp.752
+__block_literal_global
+OBJC_METH_VAR_NAME_.753
+OBJC_SELECTOR_REFERENCES_.754
+OBJC_METH_VAR_NAME_.755
+OBJC_SELECTOR_REFERENCES_.756
+OBJC_METH_VAR_NAME_.757
+OBJC_SELECTOR_REFERENCES_.758
+OBJC_SELECTOR_REFERENCES_.759
+.str.760
+__block_descriptor_tmp.761
+__block_literal_global.762
+OBJC_METH_VAR_NAME_.763
+OBJC_SELECTOR_REFERENCES_.764
+OBJC_IVAR_$_WYPopoverController.isInterfaceOrientationChanging
+OBJC_METH_VAR_NAME_.765
+OBJC_SELECTOR_REFERENCES_.766
+OBJC_METH_VAR_NAME_.767
+OBJC_SELECTOR_REFERENCES_.768
+OBJC_METH_VAR_NAME_.769
+OBJC_SELECTOR_REFERENCES_.770
+OBJC_METH_VAR_NAME_.771
+OBJC_SELECTOR_REFERENCES_.772
+OBJC_METH_VAR_NAME_.773
+OBJC_SELECTOR_REFERENCES_.774
+OBJC_METH_VAR_NAME_.775
+OBJC_SELECTOR_REFERENCES_.776
+OBJC_METH_VAR_NAME_.777
+OBJC_SELECTOR_REFERENCES_.778
+OBJC_CLASS_NAME_.779
+l_OBJC_$_CLASS_METHODS_WYPopoverController
+OBJC_METH_VAR_TYPE_.780
+OBJC_CLASS_NAME_.781
+OBJC_METH_VAR_NAME_.782
+OBJC_METH_VAR_TYPE_.783
+OBJC_METH_VAR_NAME_.784
+OBJC_METH_VAR_NAME_.785
+OBJC_METH_VAR_TYPE_.786
+OBJC_METH_VAR_NAME_.787
+OBJC_METH_VAR_TYPE_.788
+OBJC_METH_VAR_NAME_.789
+OBJC_METH_VAR_TYPE_.790
+OBJC_METH_VAR_NAME_.791
+OBJC_METH_VAR_TYPE_.792
+OBJC_METH_VAR_NAME_.793
+OBJC_METH_VAR_NAME_.794
+OBJC_METH_VAR_TYPE_.795
+OBJC_METH_VAR_TYPE_.796
+OBJC_METH_VAR_NAME_.797
+OBJC_METH_VAR_NAME_.798
+OBJC_METH_VAR_TYPE_.799
+OBJC_METH_VAR_NAME_.800
+OBJC_METH_VAR_NAME_.801
+OBJC_METH_VAR_NAME_.802
+OBJC_METH_VAR_TYPE_.803
+OBJC_METH_VAR_NAME_.804
+OBJC_METH_VAR_NAME_.805
+OBJC_METH_VAR_TYPE_.806
+OBJC_METH_VAR_NAME_.807
+OBJC_CLASS_NAME_.808
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+OBJC_PROP_NAME_ATTR_.809
+OBJC_PROP_NAME_ATTR_.810
+OBJC_PROP_NAME_ATTR_.811
+OBJC_PROP_NAME_ATTR_.812
+OBJC_PROP_NAME_ATTR_.813
+OBJC_PROP_NAME_ATTR_.814
+OBJC_PROP_NAME_ATTR_.815
+l_OBJC_$_PROP_LIST_NSObject
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_$_PROTOCOL_REFS_WYPopoverOverlayViewDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_WYPopoverOverlayViewDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_WYPopoverOverlayViewDelegate
+l_OBJC_PROTOCOL_$_WYPopoverOverlayViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_WYPopoverOverlayViewDelegate
+OBJC_METH_VAR_TYPE_.816
+OBJC_CLASS_NAME_.817
+l_OBJC_$_PROTOCOL_REFS_WYPopoverBackgroundViewDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_WYPopoverBackgroundViewDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_WYPopoverBackgroundViewDelegate
+l_OBJC_PROTOCOL_$_WYPopoverBackgroundViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_WYPopoverBackgroundViewDelegate
+OBJC_CLASS_NAME_.818
+l_OBJC_$_PROTOCOL_REFS_UIAppearanceContainer
+l_OBJC_PROTOCOL_$_UIAppearanceContainer
+l_OBJC_LABEL_PROTOCOL_$_UIAppearanceContainer
+l_OBJC_CLASS_PROTOCOLS_$_WYPopoverController
+l_OBJC_METACLASS_RO_$_WYPopoverController
+OBJC_CLASS_NAME_.819
+OBJC_METH_VAR_NAME_.820
+OBJC_METH_VAR_NAME_.821
+OBJC_METH_VAR_NAME_.822
+OBJC_METH_VAR_NAME_.823
+OBJC_METH_VAR_NAME_.824
+OBJC_METH_VAR_NAME_.825
+OBJC_METH_VAR_TYPE_.826
+OBJC_METH_VAR_TYPE_.827
+OBJC_METH_VAR_NAME_.828
+OBJC_METH_VAR_TYPE_.829
+OBJC_METH_VAR_TYPE_.830
+OBJC_METH_VAR_NAME_.831
+OBJC_METH_VAR_TYPE_.832
+OBJC_METH_VAR_TYPE_.833
+OBJC_METH_VAR_NAME_.834
+OBJC_METH_VAR_TYPE_.835
+OBJC_METH_VAR_TYPE_.836
+OBJC_METH_VAR_NAME_.837
+OBJC_METH_VAR_TYPE_.838
+OBJC_METH_VAR_NAME_.839
+OBJC_METH_VAR_TYPE_.840
+OBJC_METH_VAR_TYPE_.841
+OBJC_METH_VAR_TYPE_.842
+OBJC_METH_VAR_NAME_.843
+OBJC_METH_VAR_NAME_.844
+OBJC_METH_VAR_NAME_.845
+OBJC_METH_VAR_TYPE_.846
+OBJC_METH_VAR_NAME_.847
+OBJC_METH_VAR_TYPE_.848
+OBJC_METH_VAR_TYPE_.849
+OBJC_METH_VAR_TYPE_.850
+OBJC_METH_VAR_NAME_.851
+OBJC_METH_VAR_NAME_.852
+OBJC_METH_VAR_NAME_.853
+l_OBJC_$_INSTANCE_METHODS_WYPopoverController
+OBJC_METH_VAR_NAME_.854
+OBJC_METH_VAR_TYPE_.855
+OBJC_METH_VAR_NAME_.856
+OBJC_METH_VAR_TYPE_.857
+OBJC_METH_VAR_NAME_.858
+OBJC_METH_VAR_NAME_.859
+OBJC_METH_VAR_TYPE_.860
+OBJC_METH_VAR_NAME_.861
+OBJC_METH_VAR_TYPE_.862
+OBJC_METH_VAR_NAME_.863
+OBJC_METH_VAR_NAME_.864
+OBJC_METH_VAR_NAME_.865
+OBJC_METH_VAR_NAME_.866
+OBJC_METH_VAR_NAME_.867
+OBJC_METH_VAR_TYPE_.868
+OBJC_METH_VAR_NAME_.869
+OBJC_METH_VAR_NAME_.870
+OBJC_METH_VAR_NAME_.871
+OBJC_METH_VAR_NAME_.872
+OBJC_IVAR_$_WYPopoverController.popoverVisible
+OBJC_METH_VAR_NAME_.873
+OBJC_METH_VAR_TYPE_.874
+OBJC_METH_VAR_TYPE_.875
+OBJC_METH_VAR_NAME_.876
+l_OBJC_$_INSTANCE_VARIABLES_WYPopoverController
+OBJC_CLASS_NAME_.877
+OBJC_PROP_NAME_ATTR_.878
+OBJC_PROP_NAME_ATTR_.879
+OBJC_PROP_NAME_ATTR_.880
+OBJC_PROP_NAME_ATTR_.881
+OBJC_PROP_NAME_ATTR_.882
+OBJC_PROP_NAME_ATTR_.883
+OBJC_PROP_NAME_ATTR_.884
+OBJC_PROP_NAME_ATTR_.885
+OBJC_PROP_NAME_ATTR_.886
+OBJC_PROP_NAME_ATTR_.887
+OBJC_PROP_NAME_ATTR_.888
+OBJC_PROP_NAME_ATTR_.889
+OBJC_PROP_NAME_ATTR_.890
+OBJC_PROP_NAME_ATTR_.891
+l_OBJC_$_PROP_LIST_WYPopoverController
+l_OBJC_CLASS_RO_$_WYPopoverController
+.str.892
+OBJC_METH_VAR_NAME_.893
+OBJC_SELECTOR_REFERENCES_.894
+OBJC_LABEL_NONLAZY_CLASS_$
+OBJC_LABEL_CATEGORY_$
+OBJC_LABEL_NONLAZY_CATEGORY_$
+switch.table
+WYPointRelativeToOrientation
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/WYPopoverController/WYPopoverController/WYPopoverController.m
+WYInterfaceOrientationAngleOfOrientation
+UIInterfaceOrientationIsPortrait
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h
+UIDeviceOrientationIsLandscape
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDevice.h
+__CGSizeEqualToSize
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+CGPointMake
+CGRectMake
+edgeSizeFromCornerRadius
+UIEdgeInsetsMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGeometry.h
+CGSizeMake
+-[WYPopoverController .cxx_destruct]
+-[WYPopoverController theme]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/WYPopoverController/WYPopoverController/WYPopoverController.h
+-[WYPopoverController setAnimationDuration:]
+-[WYPopoverController animationDuration]
+-[WYPopoverController setPopoverLayoutMargins:]
+-[WYPopoverController popoverLayoutMargins]
+-[WYPopoverController setWantsDefaultContentAppearance:]
+-[WYPopoverController wantsDefaultContentAppearance]
+-[WYPopoverController setPassthroughViews:]
+-[WYPopoverController passthroughViews]
+-[WYPopoverController setDelegate:]
+-[WYPopoverController delegate]
+-[WYPopoverController dealloc]
+-[WYPopoverController keyboardWillHide:]
+-[WYPopoverController keyboardWillShow:]
+-[WYPopoverController didChangeDeviceOrientation:]
+-[WYPopoverController didChangeStatusBarOrientation:]
+-[WYPopoverController sizeForRect:inView:arrowHeight:arrowDirection:]
+-[WYPopoverController arrowDirectionForRect:inView:contentSize:arrowHeight:permittedArrowDirections:]
+-[WYPopoverController popoverBackgroundViewDidTouchOutside:]
+-[WYPopoverController popoverOverlayViewDidTouch:]
+-[WYPopoverController observeValueForKeyPath:ofObject:change:context:]
+-[WYPopoverController dismissPopoverAnimated:options:completion:callDelegate:]
+-[WYPopoverController dismissPopoverAnimated:options:completion:]
+-[WYPopoverController dismissPopoverAnimated:options:]
+-[WYPopoverController dismissPopoverAnimated:completion:]
+-[WYPopoverController dismissPopoverAnimated:]
+-[WYPopoverController positionPopover:]
+-[WYPopoverController setPopoverNavigationBarBackgroundImage]
+-[WYPopoverController transformForArrowDirection:]
+-[WYPopoverController presentPopoverAsDialogAnimated:options:completion:]
+-[WYPopoverController presentPopoverAsDialogAnimated:options:]
+-[WYPopoverController presentPopoverAsDialogAnimated:completion:]
+-[WYPopoverController presentPopoverAsDialogAnimated:]
+-[WYPopoverController presentPopoverFromBarButtonItem:permittedArrowDirections:animated:options:completion:]
+-[WYPopoverController presentPopoverFromBarButtonItem:permittedArrowDirections:animated:options:]
+-[WYPopoverController presentPopoverFromBarButtonItem:permittedArrowDirections:animated:completion:]
+-[WYPopoverController presentPopoverFromBarButtonItem:permittedArrowDirections:animated:]
+-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:options:completion:]
+-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:options:]
+-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:completion:]
+-[WYPopoverController presentPopoverFromRect:inView:permittedArrowDirections:animated:]
+-[WYPopoverController setPopoverContentSize:]
+-[WYPopoverController popoverContentSize]
+-[WYPopoverController topViewControllerContentSize]
+-[WYPopoverController contentViewController]
+-[WYPopoverController isPopoverVisible]
+-[WYPopoverController endThemeUpdates]
+-[WYPopoverController beginThemeUpdates]
+-[WYPopoverController updateThemeUI]
+-[WYPopoverController unregisterTheme]
+-[WYPopoverController registerTheme]
+-[WYPopoverController setTheme:]
+-[WYPopoverController initWithContentViewController:]
+-[WYPopoverController init]
++[WYPopoverController load]
++[WYPopoverController defaultTheme]
++[WYPopoverController setDefaultTheme:]
+-[WYPopoverBackgroundView .cxx_destruct]
+-[WYPopoverBackgroundView setAppearing:]
+-[WYPopoverBackgroundView isAppearing]
+-[WYPopoverBackgroundView setDelegate:]
+-[WYPopoverBackgroundView delegate]
+-[WYPopoverBackgroundView setOverlayColor:]
+-[WYPopoverBackgroundView overlayColor]
+-[WYPopoverBackgroundView setWantsDefaultContentAppearance:]
+-[WYPopoverBackgroundView wantsDefaultContentAppearance]
+-[WYPopoverBackgroundView navigationBarHeight]
+-[WYPopoverBackgroundView arrowOffset]
+-[WYPopoverBackgroundView contentView]
+-[WYPopoverBackgroundView setArrowDirection:]
+-[WYPopoverBackgroundView arrowDirection]
+-[WYPopoverBackgroundView setViewContentInsets:]
+-[WYPopoverBackgroundView viewContentInsets]
+-[WYPopoverBackgroundView setInnerCornerRadius:]
+-[WYPopoverBackgroundView innerCornerRadius]
+-[WYPopoverBackgroundView setInnerShadowOffset:]
+-[WYPopoverBackgroundView innerShadowOffset]
+-[WYPopoverBackgroundView setInnerShadowBlurRadius:]
+-[WYPopoverBackgroundView innerShadowBlurRadius]
+-[WYPopoverBackgroundView setInnerStrokeColor:]
+-[WYPopoverBackgroundView innerStrokeColor]
+-[WYPopoverBackgroundView setInnerShadowColor:]
+-[WYPopoverBackgroundView innerShadowColor]
+-[WYPopoverBackgroundView setMinOuterCornerRadius:]
+-[WYPopoverBackgroundView minOuterCornerRadius]
+-[WYPopoverBackgroundView setOuterCornerRadius:]
+-[WYPopoverBackgroundView outerCornerRadius]
+-[WYPopoverBackgroundView setOuterShadowOffset:]
+-[WYPopoverBackgroundView outerShadowOffset]
+-[WYPopoverBackgroundView setOuterShadowBlurRadius:]
+-[WYPopoverBackgroundView outerShadowBlurRadius]
+-[WYPopoverBackgroundView setOuterStrokeColor:]
+-[WYPopoverBackgroundView outerStrokeColor]
+-[WYPopoverBackgroundView setOuterShadowColor:]
+-[WYPopoverBackgroundView outerShadowColor]
+-[WYPopoverBackgroundView setArrowHeight:]
+-[WYPopoverBackgroundView arrowHeight]
+-[WYPopoverBackgroundView setArrowBase:]
+-[WYPopoverBackgroundView arrowBase]
+-[WYPopoverBackgroundView setBorderWidth:]
+-[WYPopoverBackgroundView borderWidth]
+-[WYPopoverBackgroundView setGlossShadowBlurRadius:]
+-[WYPopoverBackgroundView glossShadowBlurRadius]
+-[WYPopoverBackgroundView setGlossShadowOffset:]
+-[WYPopoverBackgroundView glossShadowOffset]
+-[WYPopoverBackgroundView setGlossShadowColor:]
+-[WYPopoverBackgroundView glossShadowColor]
+-[WYPopoverBackgroundView setFillBottomColor:]
+-[WYPopoverBackgroundView fillBottomColor]
+-[WYPopoverBackgroundView setFillTopColor:]
+-[WYPopoverBackgroundView fillTopColor]
+-[WYPopoverBackgroundView setTintColor:]
+-[WYPopoverBackgroundView tintColor]
+-[WYPopoverBackgroundView dealloc]
+-[WYPopoverBackgroundView isTouchedAtPoint:]
+-[WYPopoverBackgroundView arrowRect:arrowDirection:]
+-[WYPopoverBackgroundView innerRect:arrowDirection:]
+-[WYPopoverBackgroundView outerRect:arrowDirection:]
+-[WYPopoverBackgroundView arrowRect]
+-[WYPopoverBackgroundView innerRect]
+-[WYPopoverBackgroundView outerRect]
+-[WYPopoverBackgroundView drawLayer:inContext:]
+-[WYPopoverBackgroundView setNeedsDisplay]
+-[WYPopoverBackgroundView sizeToFit]
+-[WYPopoverBackgroundView sizeThatFits:]
+-[WYPopoverBackgroundView setViewController:]
+-[WYPopoverBackgroundView setArrowOffset:]
+-[WYPopoverBackgroundView outerShadowInsets]
+-[WYPopoverBackgroundView touchesBegan:withEvent:]
+-[WYPopoverBackgroundView initWithContentSize:]
+-[WYPopoverOverlayView setPassthroughViews:]
+-[WYPopoverOverlayView passthroughViews]
+-[WYPopoverOverlayView setDelegate:]
+-[WYPopoverOverlayView delegate]
+-[WYPopoverOverlayView accessibilityElementDidBecomeFocused]
+-[WYPopoverOverlayView isPassthroughView:]
+-[WYPopoverOverlayView hitTest:withEvent:]
+-[WYPopoverOverlayView touchesBegan:withEvent:]
+-[WYPopoverBackgroundInnerView .cxx_destruct]
+-[WYPopoverBackgroundInnerView setBorderWidth:]
+-[WYPopoverBackgroundInnerView borderWidth]
+-[WYPopoverBackgroundInnerView setWantsDefaultContentAppearance:]
+-[WYPopoverBackgroundInnerView wantsDefaultContentAppearance]
+-[WYPopoverBackgroundInnerView setNavigationBarHeight:]
+-[WYPopoverBackgroundInnerView navigationBarHeight]
+-[WYPopoverBackgroundInnerView setInnerCornerRadius:]
+-[WYPopoverBackgroundInnerView innerCornerRadius]
+-[WYPopoverBackgroundInnerView setInnerShadowBlurRadius:]
+-[WYPopoverBackgroundInnerView innerShadowBlurRadius]
+-[WYPopoverBackgroundInnerView setInnerShadowOffset:]
+-[WYPopoverBackgroundInnerView innerShadowOffset]
+-[WYPopoverBackgroundInnerView setInnerShadowColor:]
+-[WYPopoverBackgroundInnerView innerShadowColor]
+-[WYPopoverBackgroundInnerView setGradientTopPosition:]
+-[WYPopoverBackgroundInnerView gradientTopPosition]
+-[WYPopoverBackgroundInnerView setGradientHeight:]
+-[WYPopoverBackgroundInnerView gradientHeight]
+-[WYPopoverBackgroundInnerView setGradientBottomColor:]
+-[WYPopoverBackgroundInnerView gradientBottomColor]
+-[WYPopoverBackgroundInnerView setGradientTopColor:]
+-[WYPopoverBackgroundInnerView gradientTopColor]
+-[WYPopoverBackgroundInnerView setInnerStrokeColor:]
+-[WYPopoverBackgroundInnerView innerStrokeColor]
+-[WYPopoverBackgroundInnerView dealloc]
+-[WYPopoverBackgroundInnerView drawRect:]
+-[WYPopoverBackgroundInnerView initWithFrame:]
++[UIImage(WYPopover) imageWithColor:size:cornerRadius:]
++[UIImage(WYPopover) imageWithColor:cornerRadius:]
++[UIImage(WYPopover) imageWithColor:]
+-[WYPopoverTheme .cxx_destruct]
+-[WYPopoverTheme setOverlayColor:]
+-[WYPopoverTheme overlayColor]
+-[WYPopoverTheme setViewContentInsets:]
+-[WYPopoverTheme viewContentInsets]
+-[WYPopoverTheme setInnerCornerRadius:]
+-[WYPopoverTheme setInnerShadowOffset:]
+-[WYPopoverTheme innerShadowOffset]
+-[WYPopoverTheme setInnerShadowBlurRadius:]
+-[WYPopoverTheme innerShadowBlurRadius]
+-[WYPopoverTheme setInnerStrokeColor:]
+-[WYPopoverTheme setInnerShadowColor:]
+-[WYPopoverTheme innerShadowColor]
+-[WYPopoverTheme setMinOuterCornerRadius:]
+-[WYPopoverTheme minOuterCornerRadius]
+-[WYPopoverTheme setOuterCornerRadius:]
+-[WYPopoverTheme outerCornerRadius]
+-[WYPopoverTheme setOuterShadowOffset:]
+-[WYPopoverTheme setOuterShadowBlurRadius:]
+-[WYPopoverTheme outerShadowBlurRadius]
+-[WYPopoverTheme setOuterStrokeColor:]
+-[WYPopoverTheme setOuterShadowColor:]
+-[WYPopoverTheme outerShadowColor]
+-[WYPopoverTheme setArrowHeight:]
+-[WYPopoverTheme arrowHeight]
+-[WYPopoverTheme setArrowBase:]
+-[WYPopoverTheme arrowBase]
+-[WYPopoverTheme setBorderWidth:]
+-[WYPopoverTheme borderWidth]
+-[WYPopoverTheme setGlossShadowBlurRadius:]
+-[WYPopoverTheme glossShadowBlurRadius]
+-[WYPopoverTheme setGlossShadowOffset:]
+-[WYPopoverTheme glossShadowOffset]
+-[WYPopoverTheme setGlossShadowColor:]
+-[WYPopoverTheme setFillBottomColor:]
+-[WYPopoverTheme setFillTopColor:]
+-[WYPopoverTheme setTintColor:]
+-[WYPopoverTheme tintColor]
+-[WYPopoverTheme observableKeypaths]
+-[WYPopoverTheme fillBottomColor]
+-[WYPopoverTheme fillTopColor]
+-[WYPopoverTheme glossShadowColor]
+-[WYPopoverTheme outerStrokeColor]
+-[WYPopoverTheme innerStrokeColor]
+-[WYPopoverTheme outerShadowOffset]
+-[WYPopoverTheme innerCornerRadius]
++[WYPopoverTheme themeForIOS7]
++[WYPopoverTheme themeForIOS6]
++[WYPopoverTheme theme]
+-[WYPopoverArea setAreaSize:]
+-[WYPopoverArea areaSize]
+-[WYPopoverArea setArrowDirection:]
+-[WYPopoverArea arrowDirection]
+-[WYPopoverArea value]
+-[WYPopoverArea description]
+-[UIViewController(WYPopover) sizzled_setPreferredContentSize:]
+-[UIViewController(WYPopover) sizzled_setContentSizeForViewInPopover:]
++[UIViewController(WYPopover) load]
+-[UINavigationController(WYPopover) sizzled_setViewControllers:animated:]
+-[UINavigationController(WYPopover) sizzled_pushViewController:animated:]
+-[UINavigationController(WYPopover) setContentSize:]
+-[UINavigationController(WYPopover) contentSize:]
+-[UINavigationController(WYPopover) setEmbedInPopover:]
+-[UINavigationController(WYPopover) isEmbedInPopover]
++[UINavigationController(WYPopover) load]
+-[UIColor(WYPopover) colorByDarken:]
+-[UIColor(WYPopover) colorByLighten:]
+-[UIColor(WYPopover) hexString]
+-[UIColor(WYPopover) getValueOfRed:green:blue:alpha:]
+/Users/zhenia/Library/Caches/AppCode2016.2/DerivedData/WYPopoverController-cihlnhriirmqmtclnuklvreuygnn/Build/Intermediates/WYPopoverController.build/Release-iphoneos/WYPopoverController.build/DerivedSources/WYPopoverController_vers.c
+_ZL15__ARCLite__loadv
+_ZL30add_image_hook_autoreleasepoolPK11mach_headerl
+_ZL34__arclite_objc_autoreleasePoolPushv
+_ZL33__arclite_objc_autoreleasePoolPopPv
+_ZL19patch_lazy_pointersPK11mach_headerP7patch_tm
+_ZL42__arclite_NSArray_objectAtIndexedSubscriptP7NSArrayP13objc_selectorj
+_ZL53__arclite_NSMutableArray_setObject_atIndexedSubscriptP14NSMutableArrayP13objc_selectorP11objc_objectj
+_ZL46__arclite_NSDictionary_objectForKeyedSubscriptP12NSDictionaryP13objc_selectorP11objc_object
+_ZL47__arclite_NSOrderedSet_objectAtIndexedSubscriptP12NSOrderedSetP13objc_selectorj
+_ZL58__arclite_NSMutableOrderedSet_setObject_atIndexedSubscriptP19NSMutableOrderedSetP13objc_selectorP11objc_objectj
+_ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
+_ZL18add_image_hook_ARCPK11mach_headerl
+_ZL36__arclite_object_setInstanceVariableP11objc_objectPKcPv
+_ZL24__arclite_object_setIvarP11objc_objectP9objc_ivarS0_
+_ZL21__arclite_object_copyP11objc_objectm
+_ZL21__arclite_objc_retainP11objc_object
+_ZL26__arclite_objc_retainBlockP11objc_object
+_ZL22__arclite_objc_releaseP11objc_object
+_ZL26__arclite_objc_autoreleaseP11objc_object
+_ZL32__arclite_objc_retainAutoreleaseP11objc_object
+_ZL37__arclite_objc_autoreleaseReturnValueP11objc_object
+_ZL43__arclite_objc_retainAutoreleaseReturnValueP11objc_object
+_ZL44__arclite_objc_retainAutoreleasedReturnValueP11objc_object
+_ZL26__arclite_objc_storeStrongPP11objc_objectS0_
+_ZL22add_image_hook_swiftV1PK11mach_headerl
+_ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
+_ZL13replaceMethodP10objc_classP13objc_selectorPFP11objc_objectS4_S2_zEPS6_
+_ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
+_ZL41__arclite_NSManagedObject_allocWithEntityP11objc_objectP13objc_selectorS0_
+_ZL36__arclite_NSManagedObject_allocBatchP11objc_objectP13objc_selectorPS0_S0_j
+_ZL37__arclite_NSKKMS_fastIndexForKnownKeyP11objc_objectP13objc_selectorS0_
+_ZL28__arclite_NSKKMS_indexForKeyP11objc_objectP13objc_selectorS0_
+_ZL29__arclite_NSKKsD_objectForKeyP11objc_objectP13objc_selectorS0_
+_ZL35__arclite_NSKKsD_removeObjectForKeyP11objc_objectP13objc_selectorS0_
+_ZL33__arclite_NSKKsD_setObject_forKeyP11objc_objectP13objc_selectorS0_S0_
+_ZL41__arclite_NSKKsD_addEntriesFromDictionaryP11objc_objectP13objc_selectorP12NSDictionary
+_ZL28__arclite_objc_readClassPairP10objc_classPK15objc_image_info
+_ZL32__arclite_objc_allocateClassPairP10objc_classPKcm
+_ZL32__arclite_object_getIndexedIvarsP11objc_object
+_ZL23__arclite_objc_getClassPKc
+_ZL27__arclite_objc_getMetaClassPKc
+_ZL31__arclite_objc_getRequiredClassPKc
+_ZL26__arclite_objc_lookUpClassPKc
+_ZL26__arclite_objc_getProtocolPKc
+_ZL23__arclite_class_getNameP10objc_class
+_ZL26__arclite_protocol_getNameP8Protocol
+_ZL37__arclite_objc_copyClassNamesForImagePKcPj
+_ZL17transcribeMethodsP10objc_classP15glue_class_ro_t
+_ZL19transcribeProtocolsP10objc_classP15glue_class_ro_t
+_ZL20transcribePropertiesP10objc_classP15glue_class_ro_t
+_ZL14initialize_impP11objc_objectP13objc_selector
+_ZL18allocateMaybeSwiftP18glue_swift_class_tm
+_ZL22copySwiftV1MangledNamePKcb
+_ZL13demangledNamePKcb
+_ZL16scanMangledFieldRPKcS0_S1_Ri
+_ZL30arclite_uninitialized_functionv
+_ZL12cxxConstructP11objc_object
+_ZL20fixStringForCoreDataP11objc_object
+OBJC_METACLASS_$___ARCLite__
+_ZL24OBJC_CLASS_$___ARCLite__
+_ZL31OBJC_METACLASS_RO_$___ARCLite__
+_non_lazy_classes
+_ZL27OBJC_CLASS_RO_$___ARCLite__
+_ZL11_class_name
+_ZL32OBJC_$_CLASS_METHODS___ARCLite__
+_ZL17_load_method_name
+_ZL17_load_method_type
+_ZL23NSAutoreleasePool_class
+_ZZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
+_ZGVZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
+.str.1
+.str.2
+.str.5
+.str.6
+.str.7
+OBJC_METH_VAR_NAME_.8
+OBJC_SELECTOR_REFERENCES_.9
+.str.10
+OBJC_METH_VAR_NAME_.11
+OBJC_SELECTOR_REFERENCES_.12
+.str.13
+.str.16
+.str.17
+OBJC_METH_VAR_TYPE_.20
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteIndexedSubscripting__
+l_OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteIndexedSubscripting__
+l_OBJC_PROTOCOL_$___ARCLiteIndexedSubscripting__
+l_OBJC_LABEL_PROTOCOL_$___ARCLiteIndexedSubscripting__
+l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteIndexedSubscripting__
+OBJC_METH_VAR_NAME_.27
+OBJC_SELECTOR_REFERENCES_.28
+OBJC_CLASS_NAME_.32
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteKeyedSubscripting__
+l_OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
+OBJC_SELECTOR_REFERENCES_.34
+.str.35
+OBJC_SELECTOR_REFERENCES_.36
+OBJC_METH_VAR_NAME_.37
+OBJC_SELECTOR_REFERENCES_.38
+OBJC_METH_VAR_NAME_.39
+OBJC_SELECTOR_REFERENCES_.40
+_ZZL18add_image_hook_ARCPK11mach_headerlE7patches
+_ZGVZL18add_image_hook_ARCPK11mach_headerlE7patches
+.str.41
+.str.42
+.str.43
+.str.44
+.str.45
+.str.46
+.str.47
+.str.48
+.str.49
+.str.50
+.str.51
+.str.52
+OBJC_METH_VAR_NAME_.53
+OBJC_SELECTOR_REFERENCES_.54
+OBJC_SELECTOR_REFERENCES_.56
+OBJC_METH_VAR_NAME_.57
+OBJC_SELECTOR_REFERENCES_.58
+.str.59
+.str.60
+_ZL30NSUndoManagerProxy_targetClass
+OBJC_METH_VAR_NAME_.61
+OBJC_SELECTOR_REFERENCES_.62
+.str.63
+.str.64
+_ZL29original_NSManagedObject_init
+OBJC_METH_VAR_NAME_.67
+OBJC_SELECTOR_REFERENCES_.68
+_ZL40original_NSManagedObject_allocWithEntity
+OBJC_METH_VAR_NAME_.69
+OBJC_SELECTOR_REFERENCES_.70
+_ZL35original_NSManagedObject_allocBatch
+_ZL25NSMutableDictionary_class
+.str.71
+_ZL22NSConstantString_class
+.str.72
+_ZL14NSString_class
+.str.73
+OBJC_METH_VAR_NAME_.74
+OBJC_SELECTOR_REFERENCES_.75
+_ZL36original_NSKKMS_fastIndexForKnownKey
+OBJC_METH_VAR_NAME_.76
+OBJC_SELECTOR_REFERENCES_.77
+_ZL27original_NSKKMS_indexForKey
+_ZL28original_NSKKsD_objectForKey
+_ZL34original_NSKKsD_removeObjectForKey
+_ZL32original_NSKKsD_setObject_forKey
+OBJC_METH_VAR_NAME_.79
+OBJC_SELECTOR_REFERENCES_.80
+_ZL40original_NSKKsD_addEntriesFromDictionary
+_ZZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+_ZGVZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+.str.81
+_ZL31original_objc_allocateClassPair
+.str.83
+_ZL31original_object_getIndexedIvars
+_ZL22original_objc_getClass
+.str.85
+_ZL26original_objc_getMetaClass
+_ZL30original_objc_getRequiredClass
+.str.87
+_ZL25original_objc_lookUpClass
+.str.88
+_ZL25original_objc_getProtocol
+.str.89
+_ZL22original_class_getName
+.str.90
+_ZL25original_protocol_getName
+.str.91
+_ZL36original_objc_copyClassNamesForImage
+OBJC_SELECTOR_REFERENCES_.93
+OBJC_SELECTOR_REFERENCES_.95
+.str.96
+.str.97
+.str.98
+.str.99
+.str.100
+.str.101
+.str.102
+.str.103
+_ZL12demangleLock
+_ZL9Demangled
+.str.104
+.str.105
+OBJC_METH_VAR_NAME_.106
+OBJC_SELECTOR_REFERENCES_.107
+OBJC_METH_VAR_NAME_.108
+OBJC_SELECTOR_REFERENCES_.109
+OBJC_METH_VAR_NAME_.110
+OBJC_SELECTOR_REFERENCES_.111
+OBJC_METH_VAR_NAME_.112
+OBJC_SELECTOR_REFERENCES_.113
+OBJC_METH_VAR_NAME_.114
+OBJC_SELECTOR_REFERENCES_.115
+OBJC_METH_VAR_NAME_.116
+OBJC_SELECTOR_REFERENCES_.117
+Apple LLVM version 7.3.0 (clang-703.0.21)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -miphoneos-version-min=4.3 -g -fno-threadsafe-statics -Wno-sign-conversion -fembed-bitcode -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources/armv7 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/Symbols/BuiltProducts -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -fgnu-inline-asm -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.o -mlinker-version=264.3 -march=armv7a
+__arclite_NSKKsD_addEntriesFromDictionary
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65
+__arclite_NSKKsD_setObject_forKey
+__arclite_NSKKsD_removeObjectForKey
+__arclite_NSKKsD_objectForKey
+__arclite_NSKKMS_indexForKey
+fixStringForCoreData
+__arclite_NSKKMS_fastIndexForKnownKey
+__arclite_NSManagedObject_allocBatch
+__arclite_NSManagedObject_allocWithEntity
+cxxConstruct
+__arclite_NSManagedObject_init
+arclite_uninitialized_function
+replaceMethod
+__arclite_NSUndoManagerProxy_isKindOfClass
+patch_t<const char **(const char *, unsigned int *)>
+__arclite_objc_copyClassNamesForImage
+patch_t<const char *(Protocol *)>
+__arclite_protocol_getName
+patch_t<const char *(Class)>
+__isctype
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/usr/include/ctype.h
+isdigit
+scanMangledField
+copySwiftV1DemangledName
+demangledName
+__arclite_class_getName
+patch_t<Protocol *(const char *)>
+__arclite_objc_getProtocol
+__arclite_objc_lookUpClass
+__arclite_objc_getRequiredClass
+__arclite_objc_getMetaClass
+patch_t<Class (const char *)>
+copySwiftV1MangledName
+__arclite_objc_getClass
+patch_t<void *(id)>
+word_align
+__arclite_object_getIndexedIvars
+patch_t<Class (Class, const char *, unsigned long)>
+allocateMaybeSwift
+isSwift
+metaclass
+__arclite_objc_allocateClassPair
+patch_t<Class (Class, const objc_image_info *)>
+initialize_imp
+property_list_nth
+transcribeProperties
+transcribeProtocols
+method_list_nth
+transcribeMethods
+alignment
+max
+ivar_list_nth
+transcribeIvars
+fastFlags
+ro
+__arclite_objc_readClassPair
+add_image_hook_swiftV1
+install_swiftV1
+patch_t<void (id *, id)>
+__arclite_objc_storeStrong
+__arclite_objc_retainAutoreleasedReturnValue
+__arclite_objc_retainAutoreleaseReturnValue
+__arclite_objc_autoreleaseReturnValue
+__arclite_objc_retainAutorelease
+__arclite_objc_autorelease
+patch_t<void (id)>
+__arclite_objc_release
+__arclite_objc_retainBlock
+patch_t<id (id)>
+__arclite_objc_retain
+patch_t<id (id, unsigned long)>
+fixupCopiedReferences
+classOrSuperClassesUseARR
+__arclite_object_copy
+patch_t<void (id, objc_ivar *, id)>
+isScannedOffset
+alignedInstanceStart
+_class_getInstanceStart
+data
+__arclite_class_usesAutomaticRetainRelease
+_ivar_getClass
+__arclite_object_setIvar
+patch_t<objc_ivar *(id, const char *, void *)>
+__arclite_object_setInstanceVariable
+add_image_hook_ARC
+install_ARC
+objc_collectingEnabled
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/usr/include/objc/objc-auto.h
+__arclite_NSMutableDictionary__setObject_forKeyedSubscript
+addOrReplaceMethod
+install_dict_nil_value
+__arclite_NSMutableOrderedSet_setObject_atIndexedSubscript
+__arclite_NSOrderedSet_objectAtIndexedSubscript
+keyedGetter
+__arclite_NSDictionary_objectForKeyedSubscript
+__arclite_NSMutableArray_setObject_atIndexedSubscript
+indexedGetter
+__arclite_NSArray_objectAtIndexedSubscript
+addMethod
+install_subscripting
+patch_lazy_pointers
+patch_t<void (void *)>
+__arclite_objc_autoreleasePoolPop
+patch_t<void *()>
+__arclite_objc_autoreleasePoolPush
+add_image_hook_autoreleasepool
+install_autoreleasepool
+__ARCLite__load

@@ -13,7 +13,7 @@ github "oarrabi/OAStackView" == 1.0.1
 
 github "TTTAttributedLabel/TTTAttributedLabel" == 1.13.4
 
-github "slackhq/SlackTextViewController" == 1.9
+github "slackhq/SlackTextViewController"
 github "facebook/AsyncDisplayKit" == 1.9.7.2
 github "facebook/pop" == 1.0.9
 
@@ -32,7 +32,7 @@ github "techery-pods-mirror/WYPopoverController" == 0.3
 github "techery-pods-mirror/CCHMapClusterController" == 1.7.1
 github "techery-pods-mirror/RATreeView" == 2.1.1
 github "techery-pods-mirror/SCLAlertView"
-github "techery-pods-mirror/BABCropperView"
+github "techery-pods-mirror/BABCropperView" == 0.4.7
 
 github "techery-pods-mirror/SSDataSources" == 0.8.5.1
 

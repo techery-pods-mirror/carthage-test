@@ -1,0 +1,6 @@
+framework module Overcoat {
+  umbrella header "Overcoat.h"
+
+  export *
+  module * { export * }
+}

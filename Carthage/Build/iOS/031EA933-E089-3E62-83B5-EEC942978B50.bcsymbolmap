@@ -1,0 +1,1013 @@
+BCSymbolMap Version: 1.0
+.str
+_unnamed_cfstring_
+.str.1
+_unnamed_cfstring_.2
+Apple LLVM version 7.3.0 (clang-703.0.31)
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSActorConstants.m
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar
+-[NSArray(Functional) map:]
+__27-[NSArray(Functional) map:]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+-[NSArray(Functional) filter:]
+__30-[NSArray(Functional) filter:]_block_invoke
+__copy_helper_block_.7
+__destroy_helper_block_.8
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+OBJC_METH_VAR_NAME_.1
+OBJC_SELECTOR_REFERENCES_.2
+OBJC_METH_VAR_NAME_.3
+OBJC_SELECTOR_REFERENCES_.4
+__block_descriptor_tmp
+OBJC_METH_VAR_NAME_.5
+OBJC_SELECTOR_REFERENCES_.6
+__block_descriptor_tmp.9
+OBJC_CLASS_NAME_
+OBJC_METH_VAR_NAME_.10
+OBJC_METH_VAR_TYPE_
+OBJC_METH_VAR_NAME_.11
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSArray_$_Functional
+l_OBJC_$_CATEGORY_NSArray_$_Functional
+OBJC_LABEL_CATEGORY_$
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/Utils/NSArray+Functional.m
+-[NSArray(Functional) filter:]
+-[NSArray(Functional) map:]
+-[OSBaseOperation isExecuting]
+-[OSBaseOperation setExecuting:]
+-[OSBaseOperation isFinished]
+-[OSBaseOperation setFinished:]
+-[OSBaseOperation start]
+-[OSBaseOperation finish]
+-[OSActorOperation initWithInvocation:handler:]
+-[OSActorOperation start]
+__25-[OSActorOperation start]_block_invoke
+__25-[OSActorOperation start]_block_invoke.39
+__copy_helper_block_.44
+__destroy_helper_block_.45
+-[OSActorOperation promise]
+-[OSActorOperation setPromise:]
+-[OSActorOperation handler]
+-[OSActorOperation setHandler:]
+-[OSActorOperation invocation]
+-[OSActorOperation setInvocation:]
+-[OSActorOperation .cxx_destruct]
+OBJC_IVAR_$_OSBaseOperation._executing
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_IVAR_$_OSBaseOperation._finished
+.str.3
+_unnamed_cfstring_.4
+OBJC_METH_VAR_NAME_.7
+OBJC_SELECTOR_REFERENCES_.8
+l_OBJC_METACLASS_RO_$_OSBaseOperation
+OBJC_METH_VAR_NAME_.9
+OBJC_METH_VAR_TYPE_.10
+OBJC_METH_VAR_NAME_.12
+OBJC_METH_VAR_TYPE_.13
+OBJC_METH_VAR_NAME_.14
+l_OBJC_$_INSTANCE_METHODS_OSBaseOperation
+OBJC_METH_VAR_NAME_.15
+OBJC_METH_VAR_TYPE_.16
+OBJC_METH_VAR_NAME_.17
+l_OBJC_$_INSTANCE_VARIABLES_OSBaseOperation
+l_OBJC_CLASS_RO_$_OSBaseOperation
+OBJC_CLASSLIST_SUP_REFS_$_.18
+OBJC_METH_VAR_NAME_.19
+OBJC_SELECTOR_REFERENCES_.20
+OBJC_IVAR_$_OSActorOperation._invocation
+OBJC_IVAR_$_OSActorOperation._handler
+OBJC_METH_VAR_NAME_.21
+OBJC_SELECTOR_REFERENCES_.22
+OBJC_IVAR_$_OSActorOperation._promise
+OBJC_SELECTOR_REFERENCES_.23
+OBJC_METH_VAR_NAME_.24
+OBJC_SELECTOR_REFERENCES_.25
+OBJC_SELECTOR_REFERENCES_.26
+OBJC_METH_VAR_NAME_.27
+OBJC_SELECTOR_REFERENCES_.28
+OBJC_METH_VAR_NAME_.29
+OBJC_SELECTOR_REFERENCES_.30
+OBJC_METH_VAR_NAME_.31
+OBJC_SELECTOR_REFERENCES_.32
+OBJC_METH_VAR_NAME_.33
+OBJC_SELECTOR_REFERENCES_.34
+OBJC_METH_VAR_NAME_.35
+OBJC_SELECTOR_REFERENCES_.36
+OBJC_SELECTOR_REFERENCES_.37
+.str.38
+OBJC_METH_VAR_NAME_.40
+OBJC_SELECTOR_REFERENCES_.41
+OBJC_METH_VAR_NAME_.42
+OBJC_SELECTOR_REFERENCES_.43
+.str.46
+__block_descriptor_tmp.47
+OBJC_CLASS_NAME_.48
+l_OBJC_METACLASS_RO_$_OSActorOperation
+OBJC_CLASS_NAME_.49
+OBJC_METH_VAR_NAME_.50
+OBJC_METH_VAR_TYPE_.51
+OBJC_METH_VAR_NAME_.52
+OBJC_METH_VAR_TYPE_.53
+OBJC_METH_VAR_NAME_.54
+OBJC_METH_VAR_TYPE_.55
+OBJC_METH_VAR_NAME_.56
+OBJC_METH_VAR_NAME_.57
+l_OBJC_$_INSTANCE_METHODS_OSActorOperation
+OBJC_METH_VAR_NAME_.58
+OBJC_METH_VAR_TYPE_.59
+OBJC_METH_VAR_NAME_.60
+OBJC_METH_VAR_TYPE_.61
+OBJC_METH_VAR_NAME_.62
+OBJC_METH_VAR_TYPE_.63
+l_OBJC_$_INSTANCE_VARIABLES_OSActorOperation
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_.64
+OBJC_PROP_NAME_ATTR_.65
+OBJC_PROP_NAME_ATTR_.66
+OBJC_PROP_NAME_ATTR_.67
+OBJC_PROP_NAME_ATTR_.68
+l_OBJC_$_PROP_LIST_OSActorOperation
+l_OBJC_CLASS_RO_$_OSActorOperation
+OBJC_LABEL_CLASS_$
+-[OSActorOperation .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSActorOperation.m
+-[OSActorOperation setInvocation:]
+-[OSActorOperation invocation]
+-[OSActorOperation setHandler:]
+-[OSActorOperation handler]
+-[OSActorOperation setPromise:]
+-[OSActorOperation promise]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSActorOperation.h
+-[OSActorOperation start]
+-[OSActorOperation initWithInvocation:handler:]
+-[OSBaseOperation finish]
+-[OSBaseOperation start]
+-[OSBaseOperation setFinished:]
+-[OSBaseOperation isFinished]
+-[OSBaseOperation setExecuting:]
+-[OSBaseOperation isExecuting]
+-[OSInstanceActorProvider initWithInstance:]
++[OSInstanceActorProvider providerWithInstance:]
+-[OSInstanceActorProvider actorType]
+-[OSInstanceActorProvider create:]
+-[OSInstanceActorProvider actorHandler]
+-[OSInstanceActorProvider setActorHandler:]
+-[OSInstanceActorProvider setActorType:]
+-[OSInstanceActorProvider .cxx_destruct]
+OBJC_IVAR_$_OSInstanceActorProvider._actorHandler
+OBJC_IVAR_$_OSInstanceActorProvider._actorType
+OBJC_SELECTOR_REFERENCES_.10
+l_OBJC_$_CLASS_METHODS_OSInstanceActorProvider
+OBJC_METH_VAR_TYPE_.15
+OBJC_CLASS_NAME_.16
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OSActorProvider
+OBJC_PROP_NAME_ATTR_.17
+l_OBJC_$_PROP_LIST_OSActorProvider
+l_OBJC_$_PROTOCOL_METHOD_TYPES_OSActorProvider
+l_OBJC_PROTOCOL_$_OSActorProvider
+l_OBJC_LABEL_PROTOCOL_$_OSActorProvider
+l_OBJC_CLASS_PROTOCOLS_$_OSInstanceActorProvider
+l_OBJC_METACLASS_RO_$_OSInstanceActorProvider
+OBJC_CLASS_NAME_.18
+OBJC_METH_VAR_TYPE_.20
+OBJC_METH_VAR_TYPE_.21
+OBJC_METH_VAR_NAME_.22
+OBJC_METH_VAR_TYPE_.23
+OBJC_METH_VAR_TYPE_.25
+l_OBJC_$_INSTANCE_METHODS_OSInstanceActorProvider
+OBJC_METH_VAR_NAME_.26
+OBJC_METH_VAR_TYPE_.27
+OBJC_METH_VAR_NAME_.28
+OBJC_METH_VAR_TYPE_.29
+l_OBJC_$_INSTANCE_VARIABLES_OSInstanceActorProvider
+OBJC_PROP_NAME_ATTR_.30
+OBJC_PROP_NAME_ATTR_.31
+OBJC_PROP_NAME_ATTR_.32
+l_OBJC_$_PROP_LIST_OSInstanceActorProvider
+l_OBJC_CLASS_RO_$_OSInstanceActorProvider
+-[OSInstanceActorProvider .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/ActorProvider/OSInstanceActorProvider.m
+-[OSInstanceActorProvider setActorType:]
+-[OSInstanceActorProvider setActorHandler:]
+-[OSInstanceActorProvider actorHandler]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/ActorProvider/OSInstanceActorProvider.h
+-[OSInstanceActorProvider create:]
+-[OSInstanceActorProvider actorType]
++[OSInstanceActorProvider providerWithInstance:]
+-[OSInstanceActorProvider initWithInstance:]
+-[OSServiceLocator initWithBuilderBlock:]
+-[OSServiceLocator protocolToKey:]
+-[OSServiceLocator classToKey:]
+-[OSServiceLocator registerInstance:forKey:]
+-[OSServiceLocator instanceForKey:]
+-[OSServiceLocator registerService:forProtocol:]
+-[OSServiceLocator serviceForProtocol:]
+-[OSServiceLocator registerService:]
+-[OSServiceLocator serviceForClass:]
+-[OSServiceLocator copyWithZone:]
+-[OSServiceLocator .cxx_destruct]
+OBJC_IVAR_$_OSServiceLocator._registry
+OBJC_CLASSLIST_REFERENCES_$_.3
+.str.4
+_unnamed_cfstring_.5
+OBJC_METH_VAR_NAME_.6
+OBJC_SELECTOR_REFERENCES_.7
+.str.8
+_unnamed_cfstring_.9
+OBJC_SELECTOR_REFERENCES_.11
+OBJC_SELECTOR_REFERENCES_.13
+OBJC_SELECTOR_REFERENCES_.15
+OBJC_METH_VAR_NAME_.16
+OBJC_SELECTOR_REFERENCES_.17
+OBJC_METH_VAR_NAME_.18
+OBJC_SELECTOR_REFERENCES_.19
+OBJC_METH_VAR_NAME_.20
+OBJC_SELECTOR_REFERENCES_.21
+l_OBJC_METACLASS_RO_$_OSServiceLocator
+OBJC_CLASS_NAME_.26
+OBJC_METH_VAR_TYPE_.28
+OBJC_METH_VAR_TYPE_.30
+OBJC_METH_VAR_NAME_.32
+OBJC_METH_VAR_TYPE_.34
+OBJC_METH_VAR_NAME_.36
+OBJC_METH_VAR_TYPE_.37
+OBJC_METH_VAR_NAME_.38
+OBJC_METH_VAR_TYPE_.39
+l_OBJC_$_INSTANCE_METHODS_OSServiceLocator
+OBJC_METH_VAR_TYPE_.41
+l_OBJC_$_INSTANCE_VARIABLES_OSServiceLocator
+l_OBJC_CLASS_RO_$_OSServiceLocator
+-[OSServiceLocator .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/ServiceLocator/OSServiceLocator.m
+-[OSServiceLocator copyWithZone:]
+-[OSServiceLocator serviceForClass:]
+-[OSServiceLocator registerService:]
+-[OSServiceLocator serviceForProtocol:]
+-[OSServiceLocator registerService:forProtocol:]
+-[OSServiceLocator instanceForKey:]
+-[OSServiceLocator registerInstance:forKey:]
+-[OSServiceLocator classToKey:]
+-[OSServiceLocator protocolToKey:]
+-[OSServiceLocator initWithBuilderBlock:]
+-[OSInvocation initWithMessage:caller:]
++[OSInvocation invocationWithMessage:caller:]
+-[OSInvocation start]
+-[OSInvocation finish]
+-[OSInvocation finishWithError:]
+-[OSInvocation logStart]
+-[OSInvocation logFinished]
+-[OSInvocation message]
+-[OSInvocation caller]
+-[OSInvocation parent]
+-[OSInvocation started]
+-[OSInvocation setStarted:]
+-[OSInvocation finished]
+-[OSInvocation setFinished:]
+-[OSInvocation error]
+-[OSInvocation setError:]
+-[OSInvocation .cxx_destruct]
+OBJC_IVAR_$_OSInvocation._message
+OBJC_IVAR_$_OSInvocation._caller
+OBJC_IVAR_$_OSInvocation._parent
+OBJC_CLASSLIST_REFERENCES_$_.11
+OBJC_CLASSLIST_REFERENCES_$_.26
+__PRETTY_FUNCTION__.-[OSInvocation logStart]
+.str.27
+OBJC_SELECTOR_REFERENCES_.29
+OBJC_METH_VAR_NAME_.30
+OBJC_SELECTOR_REFERENCES_.31
+OBJC_SELECTOR_REFERENCES_.33
+OBJC_METH_VAR_NAME_.34
+OBJC_SELECTOR_REFERENCES_.35
+OBJC_SELECTOR_REFERENCES_.39
+__PRETTY_FUNCTION__.-[OSInvocation logFinished]
+.str.44
+_unnamed_cfstring_.45
+_unnamed_cfstring_.47
+OBJC_IVAR_$_OSInvocation._started
+OBJC_IVAR_$_OSInvocation._finished
+OBJC_IVAR_$_OSInvocation._error
+OBJC_METH_VAR_NAME_.48
+l_OBJC_$_CLASS_METHODS_OSInvocation
+l_OBJC_METACLASS_RO_$_OSInvocation
+l_OBJC_$_INSTANCE_METHODS_OSInvocation
+OBJC_METH_VAR_TYPE_.57
+OBJC_METH_VAR_NAME_.59
+OBJC_METH_VAR_TYPE_.60
+OBJC_METH_VAR_NAME_.61
+OBJC_METH_VAR_TYPE_.62
+OBJC_METH_VAR_NAME_.63
+OBJC_METH_VAR_NAME_.64
+OBJC_METH_VAR_TYPE_.65
+l_OBJC_$_INSTANCE_VARIABLES_OSInvocation
+OBJC_PROP_NAME_ATTR_.69
+OBJC_PROP_NAME_ATTR_.70
+OBJC_PROP_NAME_ATTR_.71
+OBJC_PROP_NAME_ATTR_.72
+OBJC_PROP_NAME_ATTR_.73
+OBJC_PROP_NAME_ATTR_.74
+OBJC_PROP_NAME_ATTR_.75
+OBJC_PROP_NAME_ATTR_.76
+l_OBJC_$_PROP_LIST_OSInvocation
+l_OBJC_CLASS_RO_$_OSInvocation
+-[OSInvocation .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSInvocation.m
+-[OSInvocation setError:]
+-[OSInvocation error]
+-[OSInvocation setFinished:]
+-[OSInvocation finished]
+-[OSInvocation setStarted:]
+-[OSInvocation started]
+-[OSInvocation parent]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSInvocation.h
+-[OSInvocation caller]
+-[OSInvocation message]
+-[OSInvocation logFinished]
+-[OSInvocation logStart]
+-[OSInvocation finishWithError:]
+-[OSInvocation finish]
+-[OSInvocation start]
++[OSInvocation invocationWithMessage:caller:]
+-[OSInvocation initWithMessage:caller:]
+-[OSSingletonActorProvider initWithActorType:]
++[OSSingletonActorProvider providerWithActorType:]
+-[OSSingletonActorProvider create:]
+-[OSSingletonActorProvider actorType]
+-[OSSingletonActorProvider actorHandler]
+-[OSSingletonActorProvider setActorHandler:]
+-[OSSingletonActorProvider .cxx_destruct]
+OBJC_IVAR_$_OSSingletonActorProvider._actorType
+OBJC_SELECTOR_REFERENCES_.12
+OBJC_METH_VAR_NAME_.13
+OBJC_SELECTOR_REFERENCES_.14
+OBJC_IVAR_$_OSSingletonActorProvider._actorHandler
+l_OBJC_$_CLASS_METHODS_OSSingletonActorProvider
+OBJC_METH_VAR_TYPE_.17
+OBJC_METH_VAR_TYPE_.18
+OBJC_METH_VAR_TYPE_.19
+OBJC_CLASS_NAME_.20
+OBJC_PROP_NAME_ATTR_.21
+l_OBJC_CLASS_PROTOCOLS_$_OSSingletonActorProvider
+l_OBJC_METACLASS_RO_$_OSSingletonActorProvider
+OBJC_CLASS_NAME_.22
+OBJC_METH_VAR_NAME_.23
+OBJC_METH_VAR_TYPE_.24
+OBJC_METH_VAR_TYPE_.26
+l_OBJC_$_INSTANCE_METHODS_OSSingletonActorProvider
+l_OBJC_$_INSTANCE_VARIABLES_OSSingletonActorProvider
+OBJC_PROP_NAME_ATTR_.33
+l_OBJC_$_PROP_LIST_OSSingletonActorProvider
+l_OBJC_CLASS_RO_$_OSSingletonActorProvider
+-[OSSingletonActorProvider .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/ActorProvider/OSSingletonActorProvider.m
+-[OSSingletonActorProvider setActorHandler:]
+-[OSSingletonActorProvider actorHandler]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/ActorProvider/OSSingletonActorProvider.h
+-[OSSingletonActorProvider actorType]
+-[OSSingletonActorProvider create:]
++[OSSingletonActorProvider providerWithActorType:]
+-[OSSingletonActorProvider initWithActorType:]
+-[OSMessageDispatcher init]
+-[OSMessageDispatcher handle:]
+-[OSMessageDispatcher on:do:]
+-[OSMessageDispatcher on:doFuture:]
+-[OSMessageDispatcher on:doResult:]
+-[OSMessageDispatcher addHandler:forMessageType:]
+-[OSMessageDispatcher keyForMessageType:]
+-[OSMessageDispatcher .cxx_destruct]
+OBJC_IVAR_$_OSMessageDispatcher._handlers
+OBJC_CLASSLIST_REFERENCES_$_.9
+OBJC_CLASSLIST_REFERENCES_$_.10
+OBJC_CLASSLIST_REFERENCES_$_.13
+OBJC_CLASSLIST_REFERENCES_$_.18
+OBJC_CLASSLIST_REFERENCES_$_.21
+OBJC_SELECTOR_REFERENCES_.27
+OBJC_CLASSLIST_REFERENCES_$_.28
+OBJC_CLASSLIST_REFERENCES_$_.29
+l_OBJC_METACLASS_RO_$_OSMessageDispatcher
+OBJC_CLASS_NAME_.34
+OBJC_METH_VAR_TYPE_.35
+OBJC_METH_VAR_NAME_.39
+OBJC_METH_VAR_TYPE_.40
+OBJC_METH_VAR_TYPE_.43
+l_OBJC_$_INSTANCE_METHODS_OSMessageDispatcher
+OBJC_METH_VAR_NAME_.44
+OBJC_METH_VAR_TYPE_.45
+l_OBJC_$_INSTANCE_VARIABLES_OSMessageDispatcher
+l_OBJC_CLASS_RO_$_OSMessageDispatcher
+-[OSMessageDispatcher .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSMessageDispatcher.m
+-[OSMessageDispatcher keyForMessageType:]
+-[OSMessageDispatcher addHandler:forMessageType:]
+-[OSMessageDispatcher on:doResult:]
+-[OSMessageDispatcher on:doFuture:]
+-[OSMessageDispatcher on:do:]
+-[OSMessageDispatcher handle:]
+-[OSMessageDispatcher init]
+-[OSActorExecutor initWithActorHandler:]
++[OSActorExecutor executorWithActorHandler:]
+-[OSActorExecutor handle:]
+-[OSActorExecutor actorHandler]
+-[OSActorExecutor setActorHandler:]
+-[OSActorExecutor operationQueue]
+-[OSActorExecutor setOperationQueue:]
+-[OSActorExecutor .cxx_destruct]
+OBJC_IVAR_$_OSActorExecutor._operationQueue
+OBJC_IVAR_$_OSActorExecutor._actorHandler
+l_OBJC_$_CLASS_METHODS_OSActorExecutor
+OBJC_METH_VAR_TYPE_.22
+OBJC_CLASS_NAME_.23
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OSActorHandler
+l_OBJC_$_PROTOCOL_METHOD_TYPES_OSActorHandler
+l_OBJC_PROTOCOL_$_OSActorHandler
+l_OBJC_LABEL_PROTOCOL_$_OSActorHandler
+l_OBJC_CLASS_PROTOCOLS_$_OSActorExecutor
+l_OBJC_METACLASS_RO_$_OSActorExecutor
+OBJC_CLASS_NAME_.24
+OBJC_METH_VAR_NAME_.25
+l_OBJC_$_INSTANCE_METHODS_OSActorExecutor
+OBJC_METH_VAR_TYPE_.32
+l_OBJC_$_INSTANCE_VARIABLES_OSActorExecutor
+OBJC_PROP_NAME_ATTR_.35
+OBJC_PROP_NAME_ATTR_.36
+OBJC_PROP_NAME_ATTR_.37
+l_OBJC_$_PROP_LIST_OSActorExecutor
+l_OBJC_CLASS_RO_$_OSActorExecutor
+-[OSActorExecutor .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSActorExecutor.m
+-[OSActorExecutor setOperationQueue:]
+-[OSActorExecutor operationQueue]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSActorExecutor.h
+-[OSActorExecutor setActorHandler:]
+-[OSActorExecutor actorHandler]
+-[OSActorExecutor handle:]
++[OSActorExecutor executorWithActorHandler:]
+-[OSActorExecutor initWithActorHandler:]
+-[OSPlistConfigs initWithFileName:]
+-[OSPlistConfigs objectForKey:]
+-[OSPlistConfigs configs]
+-[OSPlistConfigs setConfigs:]
+-[OSPlistConfigs .cxx_destruct]
+OBJC_CLASSLIST_REFERENCES_$_.5
+OBJC_METH_VAR_NAME_.8
+OBJC_SELECTOR_REFERENCES_.9
+OBJC_IVAR_$_OSPlistConfigs._configs
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OSConfigs
+l_OBJC_$_PROTOCOL_METHOD_TYPES_OSConfigs
+l_OBJC_PROTOCOL_$_OSConfigs
+l_OBJC_LABEL_PROTOCOL_$_OSConfigs
+l_OBJC_CLASS_PROTOCOLS_$_OSPlistConfigs
+l_OBJC_METACLASS_RO_$_OSPlistConfigs
+OBJC_CLASS_NAME_.17
+l_OBJC_$_INSTANCE_METHODS_OSPlistConfigs
+l_OBJC_$_INSTANCE_VARIABLES_OSPlistConfigs
+OBJC_PROP_NAME_ATTR_.25
+l_OBJC_$_PROP_LIST_OSPlistConfigs
+l_OBJC_CLASS_RO_$_OSPlistConfigs
+-[OSPlistConfigs .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSConfigs.m
+-[OSPlistConfigs setConfigs:]
+-[OSPlistConfigs configs]
+-[OSPlistConfigs objectForKey:]
+-[OSPlistConfigs initWithFileName:]
+-[OSBaseMessageHandler initWithMessageType:]
+-[OSBaseMessageHandler handle:]
+-[OSBaseMessageHandler messageType]
+-[OSBaseMessageHandler .cxx_destruct]
+-[OSVoidMessageHandler initWithHandler:messageType:]
+-[OSVoidMessageHandler handle:]
+__31-[OSVoidMessageHandler handle:]_block_invoke
+-[OSVoidMessageHandler handler]
+-[OSVoidMessageHandler setHandler:]
+-[OSVoidMessageHandler .cxx_destruct]
+-[OSFutureMessageHandler initWithHandler:messageType:]
+-[OSFutureMessageHandler handle:]
+__33-[OSFutureMessageHandler handle:]_block_invoke
+__copy_helper_block_.52
+__destroy_helper_block_.53
+-[OSFutureMessageHandler handler]
+-[OSFutureMessageHandler setHandler:]
+-[OSFutureMessageHandler .cxx_destruct]
+-[OSResultMessageHandler initWithHandler:messageType:]
+-[OSResultMessageHandler handle:]
+__33-[OSResultMessageHandler handle:]_block_invoke
+__copy_helper_block_.58
+__destroy_helper_block_.59
+-[OSResultMessageHandler handler]
+-[OSResultMessageHandler setHandler:]
+-[OSResultMessageHandler .cxx_destruct]
+OBJC_IVAR_$_OSBaseMessageHandler._messageType
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OSMessageHandler
+l_OBJC_$_PROTOCOL_METHOD_TYPES_OSMessageHandler
+l_OBJC_PROTOCOL_$_OSMessageHandler
+l_OBJC_LABEL_PROTOCOL_$_OSMessageHandler
+l_OBJC_CLASS_PROTOCOLS_$_OSBaseMessageHandler
+l_OBJC_METACLASS_RO_$_OSBaseMessageHandler
+l_OBJC_$_INSTANCE_METHODS_OSBaseMessageHandler
+l_OBJC_$_INSTANCE_VARIABLES_OSBaseMessageHandler
+l_OBJC_$_PROP_LIST_OSBaseMessageHandler
+l_OBJC_CLASS_RO_$_OSBaseMessageHandler
+OBJC_CLASSLIST_SUP_REFS_$_.32
+OBJC_IVAR_$_OSVoidMessageHandler._handler
+OBJC_METH_VAR_NAME_.37
+OBJC_SELECTOR_REFERENCES_.38
+.str.39
+OBJC_CLASS_NAME_.40
+l_OBJC_CLASS_PROTOCOLS_$_OSVoidMessageHandler
+l_OBJC_METACLASS_RO_$_OSVoidMessageHandler
+OBJC_CLASS_NAME_.41
+OBJC_METH_VAR_TYPE_.44
+OBJC_METH_VAR_NAME_.45
+OBJC_METH_VAR_TYPE_.46
+l_OBJC_$_INSTANCE_METHODS_OSVoidMessageHandler
+OBJC_METH_VAR_NAME_.47
+OBJC_METH_VAR_TYPE_.48
+l_OBJC_$_INSTANCE_VARIABLES_OSVoidMessageHandler
+OBJC_PROP_NAME_ATTR_.49
+OBJC_PROP_NAME_ATTR_.50
+l_OBJC_$_PROP_LIST_OSVoidMessageHandler
+l_OBJC_CLASS_RO_$_OSVoidMessageHandler
+OBJC_CLASSLIST_SUP_REFS_$_.51
+OBJC_IVAR_$_OSFutureMessageHandler._handler
+__block_descriptor_tmp.54
+OBJC_CLASS_NAME_.55
+l_OBJC_CLASS_PROTOCOLS_$_OSFutureMessageHandler
+l_OBJC_METACLASS_RO_$_OSFutureMessageHandler
+OBJC_CLASS_NAME_.56
+l_OBJC_$_INSTANCE_METHODS_OSFutureMessageHandler
+l_OBJC_$_INSTANCE_VARIABLES_OSFutureMessageHandler
+l_OBJC_$_PROP_LIST_OSFutureMessageHandler
+l_OBJC_CLASS_RO_$_OSFutureMessageHandler
+OBJC_CLASSLIST_SUP_REFS_$_.57
+OBJC_IVAR_$_OSResultMessageHandler._handler
+__block_descriptor_tmp.60
+OBJC_CLASS_NAME_.61
+l_OBJC_CLASS_PROTOCOLS_$_OSResultMessageHandler
+l_OBJC_METACLASS_RO_$_OSResultMessageHandler
+OBJC_CLASS_NAME_.62
+l_OBJC_$_INSTANCE_METHODS_OSResultMessageHandler
+l_OBJC_$_INSTANCE_VARIABLES_OSResultMessageHandler
+l_OBJC_$_PROP_LIST_OSResultMessageHandler
+l_OBJC_CLASS_RO_$_OSResultMessageHandler
+-[OSResultMessageHandler .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSMessageHandler.m
+-[OSResultMessageHandler setHandler:]
+-[OSResultMessageHandler handler]
+-[OSResultMessageHandler handle:]
+-[OSResultMessageHandler initWithHandler:messageType:]
+-[OSFutureMessageHandler .cxx_destruct]
+-[OSFutureMessageHandler setHandler:]
+-[OSFutureMessageHandler handler]
+-[OSFutureMessageHandler handle:]
+-[OSFutureMessageHandler initWithHandler:messageType:]
+-[OSVoidMessageHandler .cxx_destruct]
+-[OSVoidMessageHandler setHandler:]
+-[OSVoidMessageHandler handler]
+-[OSVoidMessageHandler handle:]
+-[OSVoidMessageHandler initWithHandler:messageType:]
+-[OSBaseMessageHandler .cxx_destruct]
+-[OSBaseMessageHandler messageType]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSMessageHandler.h
+-[OSBaseMessageHandler handle:]
+-[OSBaseMessageHandler initWithMessageType:]
+-[OSPullActorProvider initWithActorType:count:]
++[OSPullActorProvider providerWithActorType:count:]
+-[OSPullActorProvider create:]
+-[OSPullActorProvider findFreeHandler]
+__38-[OSPullActorProvider findFreeHandler]_block_invoke
+-[OSPullActorProvider createNewHandler:]
+-[OSPullActorProvider actorType]
+-[OSPullActorProvider setActorType:]
+-[OSPullActorProvider count]
+-[OSPullActorProvider setCount:]
+-[OSPullActorProvider handlers]
+-[OSPullActorProvider setHandlers:]
+-[OSPullActorProvider .cxx_destruct]
+OBJC_SELECTOR_REFERENCES_.16
+OBJC_SELECTOR_REFERENCES_.18
+OBJC_SELECTOR_REFERENCES_.24
+__block_literal_global
+OBJC_CLASSLIST_REFERENCES_$_.33
+OBJC_IVAR_$_OSPullActorProvider._actorType
+OBJC_IVAR_$_OSPullActorProvider._count
+OBJC_IVAR_$_OSPullActorProvider._handlers
+l_OBJC_$_CLASS_METHODS_OSPullActorProvider
+OBJC_METH_VAR_TYPE_.42
+OBJC_CLASS_NAME_.43
+OBJC_PROP_NAME_ATTR_.44
+l_OBJC_CLASS_PROTOCOLS_$_OSPullActorProvider
+l_OBJC_METACLASS_RO_$_OSPullActorProvider
+OBJC_CLASS_NAME_.45
+OBJC_METH_VAR_TYPE_.49
+OBJC_METH_VAR_TYPE_.50
+OBJC_METH_VAR_TYPE_.52
+l_OBJC_$_INSTANCE_METHODS_OSPullActorProvider
+OBJC_METH_VAR_NAME_.53
+OBJC_METH_VAR_TYPE_.54
+OBJC_METH_VAR_NAME_.55
+OBJC_METH_VAR_TYPE_.56
+OBJC_METH_VAR_TYPE_.58
+l_OBJC_$_INSTANCE_VARIABLES_OSPullActorProvider
+OBJC_PROP_NAME_ATTR_.59
+OBJC_PROP_NAME_ATTR_.60
+OBJC_PROP_NAME_ATTR_.61
+OBJC_PROP_NAME_ATTR_.62
+OBJC_PROP_NAME_ATTR_.63
+l_OBJC_$_PROP_LIST_OSPullActorProvider
+l_OBJC_CLASS_RO_$_OSPullActorProvider
+-[OSPullActorProvider .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/ActorProvider/OSPullActorProvider.m
+-[OSPullActorProvider setHandlers:]
+-[OSPullActorProvider handlers]
+-[OSPullActorProvider setCount:]
+-[OSPullActorProvider count]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/ActorProvider/OSPullActorProvider.h
+-[OSPullActorProvider setActorType:]
+-[OSPullActorProvider actorType]
+-[OSPullActorProvider createNewHandler:]
+-[OSPullActorProvider findFreeHandler]
+-[OSPullActorProvider create:]
++[OSPullActorProvider providerWithActorType:count:]
+-[OSPullActorProvider initWithActorType:count:]
+-[OSMainActorSystem initWithConfigs:builderBlock:]
+-[OSMainActorSystem actorOfClass:caller:]
+-[OSMainActorSystem addActorProvider:]
+-[OSMainActorSystem getActor:]
+-[OSMainActorSystem configs]
+-[OSMainActorSystem actorsProviders]
+-[OSMainActorSystem setActorsProviders:]
+-[OSMainActorSystem .cxx_destruct]
+-[OSActorSystemBuilder initWithActorSystem:]
++[OSActorSystemBuilder builderWithActorSystem:]
+-[OSActorSystemBuilder addSingleton:]
+-[OSActorSystemBuilder addActor:]
+-[OSActorSystemBuilder addActorsPull:count:]
+-[OSActorSystemBuilder actorSystem]
+-[OSActorSystemBuilder .cxx_destruct]
+OBJC_IVAR_$_OSMainActorSystem._actorsProviders
+OBJC_IVAR_$_OSMainActorSystem._configs
+OBJC_METH_VAR_NAME_.4
+OBJC_SELECTOR_REFERENCES_.5
+OBJC_CLASS_NAME_.29
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OSActorSystem
+l_OBJC_$_PROP_LIST_OSActorSystem
+l_OBJC_$_PROTOCOL_METHOD_TYPES_OSActorSystem
+l_OBJC_PROTOCOL_$_OSActorSystem
+l_OBJC_LABEL_PROTOCOL_$_OSActorSystem
+l_OBJC_CLASS_PROTOCOLS_$_OSMainActorSystem
+l_OBJC_METACLASS_RO_$_OSMainActorSystem
+OBJC_CLASS_NAME_.31
+OBJC_METH_VAR_TYPE_.33
+OBJC_METH_VAR_TYPE_.36
+l_OBJC_$_INSTANCE_METHODS_OSMainActorSystem
+OBJC_METH_VAR_NAME_.41
+l_OBJC_$_INSTANCE_VARIABLES_OSMainActorSystem
+OBJC_PROP_NAME_ATTR_.43
+OBJC_PROP_NAME_ATTR_.45
+l_OBJC_$_PROP_LIST_OSMainActorSystem
+l_OBJC_CLASS_RO_$_OSMainActorSystem
+OBJC_CLASSLIST_SUP_REFS_$_.46
+OBJC_IVAR_$_OSActorSystemBuilder._actorSystem
+OBJC_SELECTOR_REFERENCES_.48
+OBJC_CLASSLIST_REFERENCES_$_.49
+OBJC_SELECTOR_REFERENCES_.51
+OBJC_SELECTOR_REFERENCES_.52
+OBJC_CLASSLIST_REFERENCES_$_.53
+OBJC_SELECTOR_REFERENCES_.55
+OBJC_CLASSLIST_REFERENCES_$_.56
+OBJC_SELECTOR_REFERENCES_.58
+OBJC_CLASS_NAME_.59
+l_OBJC_$_CLASS_METHODS_OSActorSystemBuilder
+l_OBJC_METACLASS_RO_$_OSActorSystemBuilder
+OBJC_METH_VAR_TYPE_.64
+OBJC_METH_VAR_NAME_.65
+OBJC_METH_VAR_TYPE_.66
+OBJC_METH_VAR_NAME_.67
+OBJC_METH_VAR_TYPE_.68
+l_OBJC_$_INSTANCE_METHODS_OSActorSystemBuilder
+OBJC_METH_VAR_NAME_.69
+OBJC_METH_VAR_TYPE_.70
+l_OBJC_$_INSTANCE_VARIABLES_OSActorSystemBuilder
+l_OBJC_$_PROP_LIST_OSActorSystemBuilder
+l_OBJC_CLASS_RO_$_OSActorSystemBuilder
+-[OSActorSystemBuilder .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSActorSystem.m
+-[OSActorSystemBuilder actorSystem]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSActorSystem.h
+-[OSActorSystemBuilder addActorsPull:count:]
+-[OSActorSystemBuilder addActor:]
+-[OSActorSystemBuilder addSingleton:]
++[OSActorSystemBuilder builderWithActorSystem:]
+-[OSActorSystemBuilder initWithActorSystem:]
+-[OSMainActorSystem .cxx_destruct]
+-[OSMainActorSystem setActorsProviders:]
+-[OSMainActorSystem actorsProviders]
+-[OSMainActorSystem configs]
+-[OSMainActorSystem getActor:]
+-[OSMainActorSystem addActorProvider:]
+-[OSMainActorSystem actorOfClass:caller:]
+-[OSMainActorSystem initWithConfigs:builderBlock:]
+-[OSActor initWithActorSystem:]
++[OSActor actorWithActorSystem:]
+-[OSActor setup]
+-[OSActor on:_do:]
+-[OSActor on:doFuture:]
+-[OSActor on:doResult:]
+-[OSActor handle:]
+__18-[OSActor handle:]_block_invoke
+__18-[OSActor handle:]_block_invoke.27
+__copy_helper_block_.28
+__destroy_helper_block_.29
+-[OSActor actorSystem]
+-[OSActor configs]
+-[OSActor currentInvocation]
+-[OSActor setCurrentInvocation:]
+-[OSActor dispatcher]
+-[OSActor setDispatcher:]
+-[OSActor .cxx_destruct]
+-[OSActorRef initWithActor:caller:]
+-[OSActorRef ask:]
+-[OSActorRef tell:]
+-[OSActorRef handle:]
+-[OSActorRef actor]
+-[OSActorRef setActor:]
+-[OSActorRef caller]
+-[OSActorRef setCaller:]
+-[OSActorRef .cxx_destruct]
+OBJC_IVAR_$_OSActor._actorSystem
+OBJC_IVAR_$_OSActor._dispatcher
+OBJC_IVAR_$_OSActor._configs
+.str.30
+__block_descriptor_tmp.31
+OBJC_IVAR_$_OSActor._currentInvocation
+l_OBJC_$_CLASS_METHODS_OSActor
+OBJC_METH_VAR_TYPE_.38
+OBJC_CLASS_NAME_.39
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OSSystemActor
+l_OBJC_$_PROTOCOL_CLASS_METHODS_OSSystemActor
+OBJC_PROP_NAME_ATTR_.40
+l_OBJC_$_PROP_LIST_OSSystemActor
+l_OBJC_$_PROTOCOL_METHOD_TYPES_OSSystemActor
+l_OBJC_PROTOCOL_$_OSSystemActor
+l_OBJC_LABEL_PROTOCOL_$_OSSystemActor
+l_OBJC_CLASS_PROTOCOLS_$_OSActor
+l_OBJC_METACLASS_RO_$_OSActor
+OBJC_METH_VAR_NAME_.43
+OBJC_METH_VAR_NAME_.46
+OBJC_METH_VAR_TYPE_.47
+l_OBJC_$_INSTANCE_METHODS_OSActor
+OBJC_METH_VAR_NAME_.49
+OBJC_METH_VAR_NAME_.51
+l_OBJC_$_INSTANCE_VARIABLES_OSActor
+OBJC_CLASS_NAME_.57
+OBJC_PROP_NAME_ATTR_.58
+l_OBJC_$_PROP_LIST_OSActor
+l_OBJC_CLASS_RO_$_OSActor
+OBJC_CLASSLIST_SUP_REFS_$_.65
+OBJC_IVAR_$_OSActorRef._actor
+OBJC_IVAR_$_OSActorRef._caller
+OBJC_CLASSLIST_REFERENCES_$_.66
+OBJC_SELECTOR_REFERENCES_.68
+OBJC_SELECTOR_REFERENCES_.70
+OBJC_METH_VAR_NAME_.71
+OBJC_SELECTOR_REFERENCES_.72
+OBJC_CLASS_NAME_.73
+l_OBJC_METACLASS_RO_$_OSActorRef
+OBJC_CLASS_NAME_.74
+OBJC_METH_VAR_NAME_.75
+OBJC_METH_VAR_TYPE_.76
+OBJC_METH_VAR_NAME_.77
+OBJC_METH_VAR_NAME_.78
+OBJC_METH_VAR_NAME_.79
+OBJC_METH_VAR_NAME_.80
+l_OBJC_$_INSTANCE_METHODS_OSActorRef
+OBJC_METH_VAR_NAME_.81
+OBJC_METH_VAR_TYPE_.82
+OBJC_METH_VAR_NAME_.83
+OBJC_METH_VAR_TYPE_.84
+l_OBJC_$_INSTANCE_VARIABLES_OSActorRef
+OBJC_CLASS_NAME_.85
+OBJC_PROP_NAME_ATTR_.86
+OBJC_PROP_NAME_ATTR_.87
+OBJC_PROP_NAME_ATTR_.88
+OBJC_PROP_NAME_ATTR_.89
+l_OBJC_$_PROP_LIST_OSActorRef
+l_OBJC_CLASS_RO_$_OSActorRef
+-[OSActorRef .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSActor.m
+-[OSActorRef setCaller:]
+-[OSActorRef caller]
+-[OSActorRef setActor:]
+-[OSActorRef actor]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/Oscar/Oscar/Classes/OSActor.h
+-[OSActorRef handle:]
+-[OSActorRef tell:]
+-[OSActorRef ask:]
+-[OSActorRef initWithActor:caller:]
+-[OSActor .cxx_destruct]
+-[OSActor setDispatcher:]
+-[OSActor dispatcher]
+-[OSActor setCurrentInvocation:]
+-[OSActor currentInvocation]
+-[OSActor configs]
+-[OSActor actorSystem]
+-[OSActor handle:]
+-[OSActor on:doResult:]
+-[OSActor on:doFuture:]
+-[OSActor on:_do:]
+-[OSActor setup]
++[OSActor actorWithActorSystem:]
+-[OSActor initWithActorSystem:]
+/Users/zhenia/Library/Caches/AppCode2016.2/DerivedData/Oscar-cjnskzzaahufqxckjghzqbwiriys/Build/Intermediates/Oscar.build/Release-iphoneos/Oscar.build/DerivedSources/Oscar_vers.c
+_ZL15__ARCLite__loadv
+_ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
+_ZL22add_image_hook_swiftV1PK11mach_headerl
+_ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
+_ZL13replaceMethodP10objc_classP13objc_selectorPFP11objc_objectS4_S2_zEPS6_
+_ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
+_ZL41__arclite_NSManagedObject_allocWithEntityP11objc_objectP13objc_selectorS0_
+_ZL36__arclite_NSManagedObject_allocBatchP11objc_objectP13objc_selectorPS0_S0_j
+_ZL37__arclite_NSKKMS_fastIndexForKnownKeyP11objc_objectP13objc_selectorS0_
+_ZL28__arclite_NSKKMS_indexForKeyP11objc_objectP13objc_selectorS0_
+_ZL29__arclite_NSKKsD_objectForKeyP11objc_objectP13objc_selectorS0_
+_ZL35__arclite_NSKKsD_removeObjectForKeyP11objc_objectP13objc_selectorS0_
+_ZL33__arclite_NSKKsD_setObject_forKeyP11objc_objectP13objc_selectorS0_S0_
+_ZL41__arclite_NSKKsD_addEntriesFromDictionaryP11objc_objectP13objc_selectorP12NSDictionary
+_ZL28__arclite_objc_readClassPairP10objc_classPK15objc_image_info
+_ZL32__arclite_objc_allocateClassPairP10objc_classPKcm
+_ZL32__arclite_object_getIndexedIvarsP11objc_object
+_ZL23__arclite_objc_getClassPKc
+_ZL27__arclite_objc_getMetaClassPKc
+_ZL31__arclite_objc_getRequiredClassPKc
+_ZL26__arclite_objc_lookUpClassPKc
+_ZL26__arclite_objc_getProtocolPKc
+_ZL23__arclite_class_getNameP10objc_class
+_ZL26__arclite_protocol_getNameP8Protocol
+_ZL37__arclite_objc_copyClassNamesForImagePKcPj
+_ZL17transcribeMethodsP10objc_classP15glue_class_ro_t
+_ZL19transcribeProtocolsP10objc_classP15glue_class_ro_t
+_ZL20transcribePropertiesP10objc_classP15glue_class_ro_t
+_ZL14initialize_impP11objc_objectP13objc_selector
+_ZL18allocateMaybeSwiftP18glue_swift_class_tm
+_ZL22copySwiftV1MangledNamePKcb
+_ZL13demangledNamePKcb
+_ZL16scanMangledFieldRPKcS0_S1_Ri
+_ZL30arclite_uninitialized_functionv
+_ZL12cxxConstructP11objc_object
+_ZL20fixStringForCoreDataP11objc_object
+OBJC_METACLASS_$___ARCLite__
+_ZL24OBJC_CLASS_$___ARCLite__
+_ZL31OBJC_METACLASS_RO_$___ARCLite__
+_non_lazy_classes
+_ZL27OBJC_CLASS_RO_$___ARCLite__
+_ZL11_class_name
+_ZL32OBJC_$_CLASS_METHODS___ARCLite__
+_ZL17_load_method_name
+_ZL17_load_method_type
+OBJC_METH_VAR_TYPE_.6
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteKeyedSubscripting__
+l_OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
+.str.7
+_ZL30NSUndoManagerProxy_targetClass
+.str.11
+.str.12
+_ZL29original_NSManagedObject_init
+_ZL40original_NSManagedObject_allocWithEntity
+_ZL35original_NSManagedObject_allocBatch
+_ZL25NSMutableDictionary_class
+.str.19
+_ZL22NSConstantString_class
+.str.20
+_ZL14NSString_class
+.str.21
+_ZL36original_NSKKMS_fastIndexForKnownKey
+_ZL27original_NSKKMS_indexForKey
+.str.26
+_ZL28original_NSKKsD_objectForKey
+_ZL34original_NSKKsD_removeObjectForKey
+_ZL32original_NSKKsD_setObject_forKey
+_ZL40original_NSKKsD_addEntriesFromDictionary
+_ZZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+_ZGVZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+.str.31
+.str.32
+_ZL31original_objc_allocateClassPair
+.str.33
+_ZL31original_object_getIndexedIvars
+.str.34
+_ZL22original_objc_getClass
+.str.35
+_ZL26original_objc_getMetaClass
+.str.36
+_ZL30original_objc_getRequiredClass
+.str.37
+_ZL25original_objc_lookUpClass
+_ZL25original_objc_getProtocol
+_ZL22original_class_getName
+.str.40
+_ZL25original_protocol_getName
+.str.41
+_ZL36original_objc_copyClassNamesForImage
+OBJC_SELECTOR_REFERENCES_.45
+.str.47
+.str.48
+.str.49
+.str.50
+.str.51
+.str.52
+.str.53
+_ZL12demangleLock
+_ZL9Demangled
+.str.54
+.str.55
+.str.56
+.str.57
+OBJC_SELECTOR_REFERENCES_.59
+OBJC_SELECTOR_REFERENCES_.61
+OBJC_SELECTOR_REFERENCES_.63
+OBJC_SELECTOR_REFERENCES_.65
+OBJC_METH_VAR_NAME_.66
+OBJC_SELECTOR_REFERENCES_.67
+OBJC_METH_VAR_NAME_.68
+OBJC_SELECTOR_REFERENCES_.69
+OBJC_METH_VAR_NAME_.70
+OBJC_SELECTOR_REFERENCES_.71
+Apple LLVM version 7.3.0 (clang-703.0.21)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -miphoneos-version-min=4.3 -g -fno-threadsafe-statics -Wno-sign-conversion -fembed-bitcode -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources/arm64 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/Symbols/BuiltProducts -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -fgnu-inline-asm -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.o -mlinker-version=264.3
+__arclite_NSKKsD_addEntriesFromDictionary
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65
+__arclite_NSKKsD_setObject_forKey
+__arclite_NSKKsD_removeObjectForKey
+__arclite_NSKKsD_objectForKey
+__arclite_NSKKMS_indexForKey
+fixStringForCoreData
+__arclite_NSKKMS_fastIndexForKnownKey
+__arclite_NSManagedObject_allocBatch
+__arclite_NSManagedObject_allocWithEntity
+cxxConstruct
+__arclite_NSManagedObject_init
+arclite_uninitialized_function
+replaceMethod
+__arclite_NSUndoManagerProxy_isKindOfClass
+patch_lazy_pointers
+patch_t<const char **(const char *, unsigned int *)>
+__arclite_objc_copyClassNamesForImage
+patch_t<const char *(Protocol *)>
+__arclite_protocol_getName
+patch_t<const char *(Class)>
+__isctype
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/usr/include/ctype.h
+isdigit
+scanMangledField
+copySwiftV1DemangledName
+demangledName
+__arclite_class_getName
+patch_t<Protocol *(const char *)>
+__arclite_objc_getProtocol
+__arclite_objc_lookUpClass
+__arclite_objc_getRequiredClass
+__arclite_objc_getMetaClass
+patch_t<Class (const char *)>
+copySwiftV1MangledName
+__arclite_objc_getClass
+patch_t<void *(id)>
+word_align
+__arclite_object_getIndexedIvars
+patch_t<Class (Class, const char *, unsigned long)>
+allocateMaybeSwift
+isSwift
+metaclass
+__arclite_objc_allocateClassPair
+patch_t<Class (Class, const objc_image_info *)>
+initialize_imp
+property_list_nth
+transcribeProperties
+transcribeProtocols
+method_list_nth
+transcribeMethods
+alignment
+max
+ivar_list_nth
+transcribeIvars
+fastFlags
+data
+ro
+__arclite_objc_readClassPair
+add_image_hook_swiftV1
+install_swiftV1
+install_ARC
+objc_collectingEnabled
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/usr/include/objc/objc-auto.h
+keyedGetter
+__arclite_NSMutableDictionary__setObject_forKeyedSubscript
+addOrReplaceMethod
+install_dict_nil_value
+install_subscripting
+install_autoreleasepool
+__ARCLite__load

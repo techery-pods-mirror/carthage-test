@@ -1,0 +1,6 @@
+framework module MTDates {
+  umbrella header "MTDates.h"
+
+  export *
+  module * { export * }
+}

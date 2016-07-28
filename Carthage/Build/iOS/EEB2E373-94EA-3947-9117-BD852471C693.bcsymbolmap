@@ -1,0 +1,1198 @@
+BCSymbolMap Version: 1.0
++[OAStackViewDistributionStrategy strategyWithStackView:]
+-[OAStackViewDistributionStrategy initStackView:]
+-[OAStackViewDistributionStrategy alignView:afterView:]
+-[OAStackViewDistributionStrategy alignLastView:]
+-[OAStackViewDistributionStrategy alignFirstView:]
+-[OAStackViewDistributionStrategy alignMiddleView:afterView:]
+-[OAStackViewDistributionStrategy currentAxisString]
+-[OAStackViewDistributionStrategy equalityAxis]
+-[OAStackViewDistributionStrategy firstMargin]
+-[OAStackViewDistributionStrategy lastMargin]
+-[OAStackViewDistributionStrategy addedConstraints]
+-[OAStackViewDistributionStrategy removeAddedConstraints]
+-[OAStackViewDistributionStrategy symbolicSpacingRelation]
+-[OAStackViewDistributionStrategy stackView]
+-[OAStackViewDistributionStrategy setStackView:]
+-[OAStackViewDistributionStrategy constraints]
+-[OAStackViewDistributionStrategy setConstraints:]
+-[OAStackViewDistributionStrategy .cxx_destruct]
+-[OAStackViewDistributionStrategyFillEqually alignMiddleView:afterView:]
+-[OAStackViewDistributionStrategyFillEqually addEqualityConstraintsBetween:otherView:]
+-[OAStackViewDistributionStrategyFillProportionally alignMiddleView:afterView:]
+-[OAStackViewDistributionStrategyFillProportionally addProportionalityConstraintsBetween:otherView:]
+-[OAStackViewDistributionStrategyEqualSpacing spanningAttributeForAxis:isInitialEdge:]
+-[OAStackViewDistributionStrategyEqualSpacing equalSpacingLayoutGuides]
+-[OAStackViewDistributionStrategyEqualSpacing symbolicSpacingRelation]
+-[OAStackViewDistributionStrategyEqualSpacing alignMiddleView:afterView:]
+-[OAStackViewDistributionStrategyEqualSpacing removeAddedConstraints]
+-[OAStackViewDistributionStrategyEqualSpacing setEqualSpacingLayoutGuides:]
+-[OAStackViewDistributionStrategyEqualSpacing .cxx_destruct]
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_.1
+OBJC_SELECTOR_REFERENCES_.2
+OBJC_CLASSLIST_REFERENCES_$_.3
+OBJC_CLASSLIST_REFERENCES_$_.4
+OBJC_CLASSLIST_REFERENCES_$_.5
+OBJC_CLASSLIST_REFERENCES_$_.6
+OBJC_METH_VAR_NAME_.7
+OBJC_SELECTOR_REFERENCES_.8
+OBJC_METH_VAR_NAME_.9
+OBJC_SELECTOR_REFERENCES_.10
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_METH_VAR_NAME_.11
+OBJC_SELECTOR_REFERENCES_.12
+OBJC_IVAR_$_OAStackViewDistributionStrategy._stackView
+OBJC_CLASSLIST_REFERENCES_$_.13
+OBJC_METH_VAR_NAME_.14
+OBJC_SELECTOR_REFERENCES_.15
+OBJC_IVAR_$_OAStackViewDistributionStrategy._constraints
+OBJC_METH_VAR_NAME_.16
+OBJC_SELECTOR_REFERENCES_.17
+OBJC_METH_VAR_NAME_.18
+OBJC_SELECTOR_REFERENCES_.19
+OBJC_METH_VAR_NAME_.20
+OBJC_SELECTOR_REFERENCES_.21
+OBJC_CLASSLIST_REFERENCES_$_.22
+.str
+_unnamed_cfstring_
+OBJC_METH_VAR_NAME_.23
+OBJC_SELECTOR_REFERENCES_.24
+OBJC_METH_VAR_NAME_.25
+OBJC_SELECTOR_REFERENCES_.26
+OBJC_CLASSLIST_REFERENCES_$_.27
+OBJC_METH_VAR_NAME_.28
+OBJC_SELECTOR_REFERENCES_.29
+OBJC_METH_VAR_NAME_.30
+OBJC_SELECTOR_REFERENCES_.31
+OBJC_CLASSLIST_REFERENCES_$_.32
+.str.33
+_unnamed_cfstring_.34
+.str.35
+_unnamed_cfstring_.36
+OBJC_METH_VAR_NAME_.37
+OBJC_SELECTOR_REFERENCES_.38
+OBJC_METH_VAR_NAME_.39
+OBJC_SELECTOR_REFERENCES_.40
+OBJC_METH_VAR_NAME_.41
+OBJC_SELECTOR_REFERENCES_.42
+OBJC_METH_VAR_NAME_.43
+OBJC_SELECTOR_REFERENCES_.44
+OBJC_METH_VAR_NAME_.45
+OBJC_SELECTOR_REFERENCES_.46
+.str.47
+_unnamed_cfstring_.48
+OBJC_METH_VAR_NAME_.49
+OBJC_SELECTOR_REFERENCES_.50
+.str.51
+_unnamed_cfstring_.52
+.str.53
+_unnamed_cfstring_.54
+OBJC_METH_VAR_NAME_.55
+OBJC_SELECTOR_REFERENCES_.56
+OBJC_METH_VAR_NAME_.57
+OBJC_SELECTOR_REFERENCES_.58
+.str.59
+_unnamed_cfstring_.60
+OBJC_METH_VAR_NAME_.61
+OBJC_SELECTOR_REFERENCES_.62
+.str.63
+_unnamed_cfstring_.64
+.str.65
+_unnamed_cfstring_.66
+OBJC_METH_VAR_NAME_.67
+OBJC_SELECTOR_REFERENCES_.68
+OBJC_METH_VAR_NAME_.69
+OBJC_SELECTOR_REFERENCES_.70
+OBJC_METH_VAR_NAME_.71
+OBJC_SELECTOR_REFERENCES_.72
+OBJC_METH_VAR_NAME_.73
+OBJC_SELECTOR_REFERENCES_.74
+OBJC_METH_VAR_NAME_.75
+OBJC_SELECTOR_REFERENCES_.76
+.str.77
+_unnamed_cfstring_.78
+OBJC_CLASS_NAME_
+OBJC_METH_VAR_NAME_.79
+OBJC_METH_VAR_TYPE_
+l_OBJC_$_CLASS_METHODS_OAStackViewDistributionStrategy
+l_OBJC_METACLASS_RO_$_OAStackViewDistributionStrategy
+OBJC_CLASS_NAME_.80
+OBJC_METH_VAR_NAME_.81
+OBJC_METH_VAR_TYPE_.82
+OBJC_METH_VAR_TYPE_.83
+OBJC_METH_VAR_TYPE_.84
+OBJC_METH_VAR_NAME_.85
+OBJC_METH_VAR_TYPE_.86
+OBJC_METH_VAR_TYPE_.87
+OBJC_METH_VAR_NAME_.88
+OBJC_METH_VAR_NAME_.89
+OBJC_METH_VAR_TYPE_.90
+OBJC_METH_VAR_NAME_.91
+OBJC_METH_VAR_NAME_.92
+OBJC_METH_VAR_NAME_.93
+l_OBJC_$_INSTANCE_METHODS_OAStackViewDistributionStrategy
+OBJC_METH_VAR_NAME_.94
+OBJC_METH_VAR_TYPE_.95
+OBJC_METH_VAR_NAME_.96
+OBJC_METH_VAR_TYPE_.97
+l_OBJC_$_INSTANCE_VARIABLES_OAStackViewDistributionStrategy
+OBJC_CLASS_NAME_.98
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_.99
+OBJC_PROP_NAME_ATTR_.100
+OBJC_PROP_NAME_ATTR_.101
+OBJC_PROP_NAME_ATTR_.102
+OBJC_PROP_NAME_ATTR_.103
+l_OBJC_$_PROP_LIST_OAStackViewDistributionStrategy
+l_OBJC_CLASS_RO_$_OAStackViewDistributionStrategy
+OBJC_CLASS_NAME_.104
+l_OBJC_METACLASS_RO_$_OAStackViewDistributionStrategyFill
+l_OBJC_CLASS_RO_$_OAStackViewDistributionStrategyFill
+OBJC_CLASSLIST_SUP_REFS_$_.105
+OBJC_METH_VAR_NAME_.106
+OBJC_SELECTOR_REFERENCES_.107
+OBJC_SELECTOR_REFERENCES_.108
+OBJC_METH_VAR_NAME_.109
+OBJC_SELECTOR_REFERENCES_.110
+OBJC_METH_VAR_NAME_.111
+OBJC_SELECTOR_REFERENCES_.112
+OBJC_METH_VAR_NAME_.113
+OBJC_SELECTOR_REFERENCES_.114
+OBJC_CLASS_NAME_.115
+l_OBJC_METACLASS_RO_$_OAStackViewDistributionStrategyFillEqually
+l_OBJC_$_INSTANCE_METHODS_OAStackViewDistributionStrategyFillEqually
+l_OBJC_CLASS_RO_$_OAStackViewDistributionStrategyFillEqually
+OBJC_CLASSLIST_SUP_REFS_$_.116
+OBJC_METH_VAR_NAME_.117
+OBJC_SELECTOR_REFERENCES_.118
+OBJC_METH_VAR_NAME_.119
+OBJC_SELECTOR_REFERENCES_.120
+OBJC_CLASS_NAME_.121
+l_OBJC_METACLASS_RO_$_OAStackViewDistributionStrategyFillProportionally
+l_OBJC_$_INSTANCE_METHODS_OAStackViewDistributionStrategyFillProportionally
+l_OBJC_CLASS_RO_$_OAStackViewDistributionStrategyFillProportionally
+OBJC_IVAR_$_OAStackViewDistributionStrategyEqualSpacing._equalSpacingLayoutGuides
+.str.122
+_unnamed_cfstring_.123
+OBJC_CLASSLIST_SUP_REFS_$_.124
+OBJC_CLASSLIST_REFERENCES_$_.125
+OBJC_METH_VAR_NAME_.126
+OBJC_SELECTOR_REFERENCES_.127
+OBJC_METH_VAR_NAME_.128
+OBJC_SELECTOR_REFERENCES_.129
+OBJC_METH_VAR_NAME_.130
+OBJC_SELECTOR_REFERENCES_.131
+OBJC_METH_VAR_NAME_.132
+OBJC_SELECTOR_REFERENCES_.133
+OBJC_CLASSLIST_REFERENCES_$_.134
+OBJC_METH_VAR_NAME_.135
+OBJC_SELECTOR_REFERENCES_.136
+OBJC_METH_VAR_NAME_.137
+OBJC_SELECTOR_REFERENCES_.138
+.str.139
+_unnamed_cfstring_.140
+OBJC_METH_VAR_NAME_.141
+OBJC_SELECTOR_REFERENCES_.142
+OBJC_SELECTOR_REFERENCES_.143
+OBJC_METH_VAR_NAME_.144
+OBJC_SELECTOR_REFERENCES_.145
+OBJC_METH_VAR_NAME_.146
+OBJC_SELECTOR_REFERENCES_.147
+OBJC_CLASS_NAME_.148
+l_OBJC_METACLASS_RO_$_OAStackViewDistributionStrategyEqualSpacing
+OBJC_CLASS_NAME_.149
+OBJC_METH_VAR_TYPE_.150
+OBJC_METH_VAR_NAME_.151
+l_OBJC_$_INSTANCE_METHODS_OAStackViewDistributionStrategyEqualSpacing
+OBJC_METH_VAR_NAME_.152
+l_OBJC_$_INSTANCE_VARIABLES_OAStackViewDistributionStrategyEqualSpacing
+OBJC_PROP_NAME_ATTR_.153
+OBJC_PROP_NAME_ATTR_.154
+l_OBJC_$_PROP_LIST_OAStackViewDistributionStrategyEqualSpacing
+l_OBJC_CLASS_RO_$_OAStackViewDistributionStrategyEqualSpacing
+OBJC_CLASS_NAME_.155
+l_OBJC_METACLASS_RO_$_OAStackViewDistributionStrategyEqualCentering
+l_OBJC_CLASS_RO_$_OAStackViewDistributionStrategyEqualCentering
+OBJC_LABEL_CLASS_$
+Apple LLVM version 7.3.0 (clang-703.0.31)
+-[OAStackViewDistributionStrategyEqualSpacing .cxx_destruct]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/OAStackView/Pod/Classes/OAStackViewDistributionStrategy.m
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/OAStackView
+-[OAStackViewDistributionStrategyEqualSpacing setEqualSpacingLayoutGuides:]
+-[OAStackViewDistributionStrategyEqualSpacing removeAddedConstraints]
+-[OAStackViewDistributionStrategyEqualSpacing alignMiddleView:afterView:]
+-[OAStackViewDistributionStrategyEqualSpacing symbolicSpacingRelation]
+-[OAStackViewDistributionStrategyEqualSpacing equalSpacingLayoutGuides]
+-[OAStackViewDistributionStrategyEqualSpacing spanningAttributeForAxis:isInitialEdge:]
+-[OAStackViewDistributionStrategyFillProportionally addProportionalityConstraintsBetween:otherView:]
+-[OAStackViewDistributionStrategyFillProportionally alignMiddleView:afterView:]
+-[OAStackViewDistributionStrategyFillEqually addEqualityConstraintsBetween:otherView:]
+-[OAStackViewDistributionStrategyFillEqually alignMiddleView:afterView:]
+-[OAStackViewDistributionStrategy .cxx_destruct]
+-[OAStackViewDistributionStrategy setConstraints:]
+-[OAStackViewDistributionStrategy constraints]
+-[OAStackViewDistributionStrategy setStackView:]
+-[OAStackViewDistributionStrategy stackView]
+-[OAStackViewDistributionStrategy symbolicSpacingRelation]
+-[OAStackViewDistributionStrategy removeAddedConstraints]
+-[OAStackViewDistributionStrategy addedConstraints]
+-[OAStackViewDistributionStrategy lastMargin]
+-[OAStackViewDistributionStrategy firstMargin]
+-[OAStackViewDistributionStrategy equalityAxis]
+-[OAStackViewDistributionStrategy currentAxisString]
+-[OAStackViewDistributionStrategy alignMiddleView:afterView:]
+-[OAStackViewDistributionStrategy alignFirstView:]
+-[OAStackViewDistributionStrategy alignLastView:]
+-[OAStackViewDistributionStrategy alignView:afterView:]
+-[OAStackViewDistributionStrategy initStackView:]
++[OAStackViewDistributionStrategy strategyWithStackView:]
++[_OALayoutGuide layerClass]
++[_OALayoutGuide requiresConstraintBasedLayout]
+-[_OALayoutGuide initWithCoder:]
+-[_OALayoutGuide initWithFrame:]
+-[_OALayoutGuide commonInit]
+-[_OALayoutGuide setHidden:]
+-[_OALayoutGuide setUserInteractionEnabled:]
+-[_OALayoutGuide setBackgroundColor:]
+-[_OALayoutGuide setOpaque:]
+-[_OALayoutGuide setClipsToBounds:]
+-[_OALayoutGuide propertiesAreLocked]
+-[_OALayoutGuide setPropertiesAreLocked:]
+OBJC_METH_VAR_NAME_.3
+OBJC_SELECTOR_REFERENCES_.4
+OBJC_METH_VAR_NAME_.5
+OBJC_SELECTOR_REFERENCES_.6
+OBJC_METH_VAR_NAME_.13
+OBJC_SELECTOR_REFERENCES_.14
+OBJC_IVAR_$__OALayoutGuide._propertiesAreLocked
+OBJC_METH_VAR_NAME_.15
+OBJC_METH_VAR_TYPE_.17
+l_OBJC_$_CLASS_METHODS__OALayoutGuide
+l_OBJC_METACLASS_RO_$__OALayoutGuide
+OBJC_METH_VAR_TYPE_.18
+OBJC_METH_VAR_TYPE_.19
+OBJC_METH_VAR_TYPE_.20
+OBJC_METH_VAR_TYPE_.21
+OBJC_METH_VAR_NAME_.22
+OBJC_METH_VAR_TYPE_.23
+OBJC_METH_VAR_NAME_.24
+OBJC_METH_VAR_NAME_.26
+l_OBJC_$_INSTANCE_METHODS__OALayoutGuide
+OBJC_METH_VAR_NAME_.27
+OBJC_METH_VAR_TYPE_.28
+l_OBJC_$_INSTANCE_VARIABLES__OALayoutGuide
+OBJC_PROP_NAME_ATTR_.29
+l_OBJC_$_PROP_LIST__OALayoutGuide
+l_OBJC_CLASS_RO_$__OALayoutGuide
+-[_OALayoutGuide setPropertiesAreLocked:]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/OAStackView/Pod/Classes/_OALayoutGuide.m
+-[_OALayoutGuide propertiesAreLocked]
+-[_OALayoutGuide setClipsToBounds:]
+-[_OALayoutGuide setOpaque:]
+-[_OALayoutGuide setBackgroundColor:]
+-[_OALayoutGuide setUserInteractionEnabled:]
+-[_OALayoutGuide setHidden:]
+-[_OALayoutGuide commonInit]
+-[_OALayoutGuide initWithFrame:]
+-[_OALayoutGuide initWithCoder:]
++[_OALayoutGuide requiresConstraintBasedLayout]
++[_OALayoutGuide layerClass]
+-[OAStackViewAlignmentStrategyBaseline constraintsalignViewOnOtherAxis:]
+-[OAStackViewAlignmentStrategyBaseline constraintsAlignView:afterPreviousView:]
+-[OAStackViewAlignmentStrategyBaseline firstViewConstraints:withParentView:]
+-[OAStackViewAlignmentStrategyBaseline lastViewConstraints:withParentView:]
+-[OAStackViewAlignmentStrategyBaseline baselineAttribute]
+-[OAStackViewAlignmentStrategyFirstBaseline baselineAttribute]
+-[OAStackViewAlignmentStrategyLastBaseline baselineAttribute]
+.str.4
+_unnamed_cfstring_.5
+OBJC_METH_VAR_NAME_.6
+OBJC_SELECTOR_REFERENCES_.7
+OBJC_METH_VAR_NAME_.8
+OBJC_SELECTOR_REFERENCES_.9
+OBJC_METH_VAR_NAME_.10
+OBJC_SELECTOR_REFERENCES_.11
+OBJC_CLASSLIST_REFERENCES_$_.12
+l_OBJC_METACLASS_RO_$_OAStackViewAlignmentStrategyBaseline
+OBJC_METH_VAR_NAME_.19
+l_OBJC_$_INSTANCE_METHODS_OAStackViewAlignmentStrategyBaseline
+l_OBJC_CLASS_RO_$_OAStackViewAlignmentStrategyBaseline
+OBJC_CLASS_NAME_.21
+l_OBJC_METACLASS_RO_$_OAStackViewAlignmentStrategyFirstBaseline
+l_OBJC_$_INSTANCE_METHODS_OAStackViewAlignmentStrategyFirstBaseline
+l_OBJC_CLASS_RO_$_OAStackViewAlignmentStrategyFirstBaseline
+OBJC_CLASS_NAME_.22
+l_OBJC_METACLASS_RO_$_OAStackViewAlignmentStrategyLastBaseline
+l_OBJC_$_INSTANCE_METHODS_OAStackViewAlignmentStrategyLastBaseline
+l_OBJC_CLASS_RO_$_OAStackViewAlignmentStrategyLastBaseline
+-[OAStackViewAlignmentStrategyLastBaseline baselineAttribute]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/OAStackView/Pod/Classes/OAStackViewAlignmentStrategyBaseline.m
+-[OAStackViewAlignmentStrategyFirstBaseline baselineAttribute]
+-[OAStackViewAlignmentStrategyBaseline baselineAttribute]
+-[OAStackViewAlignmentStrategyBaseline lastViewConstraints:withParentView:]
+-[OAStackViewAlignmentStrategyBaseline firstViewConstraints:withParentView:]
+-[OAStackViewAlignmentStrategyBaseline constraintsAlignView:afterPreviousView:]
+-[OAStackViewAlignmentStrategyBaseline constraintsalignViewOnOtherAxis:]
++[OAStackView layerClass]
+-[OAStackView initWithCoder:]
+-[OAStackView initWithArrangedSubviews:]
+-[OAStackView initWithFrame:]
+-[OAStackView commonInitWithInitalSubviews:]
+-[OAStackView arrangedSubviews]
+-[OAStackView setBackgroundColor:]
+-[OAStackView setOpaque:]
+-[OAStackView setClipsToBounds:]
+-[OAStackView setSpacing:]
+-[OAStackView setAxis:]
+-[OAStackView setAxisValue:]
+-[OAStackView setAlignment:]
+-[OAStackView setAlignmentConstraints]
+__38-[OAStackView setAlignmentConstraints]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+-[OAStackView setAlignmentStrategy:]
+-[OAStackView setDistributionStrategy:]
+-[OAStackView removeConstraint:]
+-[OAStackView removeConstraints:]
+-[OAStackView updateConstraints]
+-[OAStackView layoutSubviews]
+-[OAStackView setAlignmentValue:]
+-[OAStackView setDistribution:]
+-[OAStackView setDistributionConstraints]
+__41-[OAStackView setDistributionConstraints]_block_invoke
+__copy_helper_block_.115
+__destroy_helper_block_.116
+-[OAStackView setDistributionValue:]
+-[OAStackView setLayoutMargins:]
+-[OAStackView setLayoutMarginsRelativeArrangement:]
+-[OAStackView traitCollectionDidChange:]
+-[OAStackView addArrangedSubview:]
+-[OAStackView removeArrangedSubview:]
+-[OAStackView insertArrangedSubview:atIndex:]
+-[OAStackView insertArrangedSubview:atIndex:newItem:]
+-[OAStackView removeViewFromArrangedViews:permanently:]
+-[OAStackView hideView:]
+-[OAStackView unHideView:]
+-[OAStackView layoutArrangedViews]
+-[OAStackView addViewsAsSubviews:]
+-[OAStackView axis]
+-[OAStackView axisValue]
+-[OAStackView spacing]
+-[OAStackView alignment]
+-[OAStackView alignmentValue]
+-[OAStackView distribution]
+-[OAStackView distributionValue]
+-[OAStackView layoutMargins]
+-[OAStackView isLayoutMarginsRelativeArrangement]
+-[OAStackView mutableArrangedSubviews]
+-[OAStackView setMutableArrangedSubviews:]
+-[OAStackView alignmentStrategy]
+-[OAStackView distributionStrategy]
+-[OAStackView isBaselineRelativeArrangement]
+-[OAStackView setBaselineRelativeArrangement:]
+-[OAStackView .cxx_destruct]
+OAStackViewPatchEntry
+OBJC_METH_VAR_NAME_.4
+OBJC_SELECTOR_REFERENCES_.5
+.str.10
+_unnamed_cfstring_.11
+OBJC_METH_VAR_NAME_.12
+OBJC_SELECTOR_REFERENCES_.13
+.str.16
+_unnamed_cfstring_.17
+.str.20
+_unnamed_cfstring_.21
+OBJC_SELECTOR_REFERENCES_.23
+.str.24
+_unnamed_cfstring_.25
+OBJC_SELECTOR_REFERENCES_.27
+.str.30
+_unnamed_cfstring_.31
+OBJC_METH_VAR_NAME_.32
+OBJC_SELECTOR_REFERENCES_.33
+OBJC_METH_VAR_NAME_.34
+OBJC_SELECTOR_REFERENCES_.35
+.str.36
+_unnamed_cfstring_.37
+OBJC_METH_VAR_NAME_.38
+OBJC_SELECTOR_REFERENCES_.39
+OBJC_METH_VAR_NAME_.40
+OBJC_SELECTOR_REFERENCES_.41
+OBJC_METH_VAR_NAME_.42
+OBJC_SELECTOR_REFERENCES_.43
+OBJC_METH_VAR_NAME_.44
+OBJC_SELECTOR_REFERENCES_.45
+OBJC_METH_VAR_NAME_.46
+OBJC_SELECTOR_REFERENCES_.47
+OBJC_IVAR_$_OAStackView._mutableArrangedSubviews
+OBJC_METH_VAR_NAME_.48
+OBJC_SELECTOR_REFERENCES_.49
+OBJC_IVAR_$_OAStackView._axis
+OBJC_IVAR_$_OAStackView._alignment
+OBJC_IVAR_$_OAStackView._distribution
+OBJC_IVAR_$_OAStackView._layoutMargins
+OBJC_IVAR_$_OAStackView._layoutMarginsRelativeArrangement
+OBJC_CLASSLIST_REFERENCES_$_.50
+OBJC_METH_VAR_NAME_.51
+OBJC_SELECTOR_REFERENCES_.52
+OBJC_METH_VAR_NAME_.53
+OBJC_SELECTOR_REFERENCES_.54
+OBJC_CLASSLIST_REFERENCES_$_.55
+OBJC_METH_VAR_NAME_.56
+OBJC_SELECTOR_REFERENCES_.57
+OBJC_METH_VAR_NAME_.58
+OBJC_SELECTOR_REFERENCES_.59
+OBJC_METH_VAR_NAME_.60
+OBJC_SELECTOR_REFERENCES_.61
+OBJC_IVAR_$_OAStackView._spacing
+OBJC_METH_VAR_NAME_.62
+OBJC_SELECTOR_REFERENCES_.63
+OBJC_METH_VAR_NAME_.64
+OBJC_SELECTOR_REFERENCES_.65
+OBJC_METH_VAR_NAME_.66
+OBJC_SELECTOR_REFERENCES_.67
+OBJC_METH_VAR_NAME_.68
+OBJC_SELECTOR_REFERENCES_.69
+OBJC_METH_VAR_NAME_.70
+OBJC_SELECTOR_REFERENCES_.71
+OBJC_METH_VAR_NAME_.72
+OBJC_SELECTOR_REFERENCES_.73
+OBJC_METH_VAR_NAME_.74
+OBJC_SELECTOR_REFERENCES_.75
+OBJC_METH_VAR_NAME_.76
+OBJC_SELECTOR_REFERENCES_.77
+OBJC_IVAR_$_OAStackView._axisValue
+OBJC_METH_VAR_NAME_.78
+OBJC_SELECTOR_REFERENCES_.79
+OBJC_METH_VAR_NAME_.80
+OBJC_SELECTOR_REFERENCES_.81
+OBJC_METH_VAR_NAME_.82
+OBJC_SELECTOR_REFERENCES_.83
+OBJC_METH_VAR_NAME_.84
+OBJC_SELECTOR_REFERENCES_.85
+OBJC_METH_VAR_NAME_.86
+OBJC_SELECTOR_REFERENCES_.87
+OBJC_SELECTOR_REFERENCES_.89
+OBJC_METH_VAR_NAME_.90
+OBJC_SELECTOR_REFERENCES_.91
+.str.92
+__block_descriptor_tmp
+OBJC_SELECTOR_REFERENCES_.94
+OBJC_METH_VAR_NAME_.95
+OBJC_SELECTOR_REFERENCES_.96
+OBJC_METH_VAR_NAME_.97
+OBJC_SELECTOR_REFERENCES_.98
+OBJC_IVAR_$_OAStackView._alignmentStrategy
+OBJC_METH_VAR_NAME_.99
+OBJC_SELECTOR_REFERENCES_.100
+OBJC_METH_VAR_NAME_.101
+OBJC_SELECTOR_REFERENCES_.102
+OBJC_IVAR_$_OAStackView._distributionStrategy
+OBJC_METH_VAR_NAME_.103
+OBJC_SELECTOR_REFERENCES_.104
+OBJC_METH_VAR_NAME_.105
+OBJC_SELECTOR_REFERENCES_.106
+OBJC_METH_VAR_NAME_.107
+OBJC_IVAR_$_OAStackView._alignmentValue
+__block_descriptor_tmp.117
+OBJC_METH_VAR_NAME_.118
+OBJC_SELECTOR_REFERENCES_.119
+OBJC_IVAR_$_OAStackView._distributionValue
+OBJC_METH_VAR_NAME_.120
+OBJC_SELECTOR_REFERENCES_.121
+OBJC_METH_VAR_NAME_.122
+OBJC_SELECTOR_REFERENCES_.123
+OBJC_METH_VAR_NAME_.124
+OBJC_SELECTOR_REFERENCES_.125
+OBJC_METH_VAR_NAME_.134
+OBJC_SELECTOR_REFERENCES_.135
+OBJC_METH_VAR_NAME_.136
+OBJC_SELECTOR_REFERENCES_.137
+OBJC_METH_VAR_NAME_.138
+OBJC_SELECTOR_REFERENCES_.139
+OBJC_METH_VAR_NAME_.140
+OBJC_SELECTOR_REFERENCES_.141
+OBJC_METH_VAR_NAME_.142
+OBJC_METH_VAR_NAME_.148
+OBJC_SELECTOR_REFERENCES_.149
+OBJC_METH_VAR_NAME_.150
+OBJC_SELECTOR_REFERENCES_.151
+OBJC_SELECTOR_REFERENCES_.153
+OBJC_METH_VAR_NAME_.154
+OBJC_SELECTOR_REFERENCES_.155
+OBJC_METH_VAR_NAME_.156
+OBJC_SELECTOR_REFERENCES_.157
+OBJC_METH_VAR_NAME_.158
+OBJC_SELECTOR_REFERENCES_.159
+OBJC_METH_VAR_NAME_.160
+OBJC_SELECTOR_REFERENCES_.161
+OBJC_METH_VAR_NAME_.162
+OBJC_SELECTOR_REFERENCES_.163
+OBJC_METH_VAR_NAME_.164
+OBJC_SELECTOR_REFERENCES_.165
+OBJC_CLASSLIST_REFERENCES_$_.166
+OBJC_METH_VAR_NAME_.167
+OBJC_SELECTOR_REFERENCES_.168
+OBJC_METH_VAR_NAME_.169
+OBJC_SELECTOR_REFERENCES_.170
+OBJC_METH_VAR_NAME_.171
+OBJC_SELECTOR_REFERENCES_.172
+OBJC_METH_VAR_NAME_.173
+OBJC_SELECTOR_REFERENCES_.174
+OBJC_IVAR_$_OAStackView._baselineRelativeArrangement
+OBJC_METH_VAR_NAME_.175
+l_OBJC_$_CLASS_METHODS_OAStackView
+l_OBJC_METACLASS_RO_$_OAStackView
+OBJC_CLASS_NAME_.176
+OBJC_METH_VAR_TYPE_.177
+OBJC_METH_VAR_TYPE_.178
+OBJC_METH_VAR_TYPE_.179
+OBJC_METH_VAR_NAME_.180
+OBJC_METH_VAR_TYPE_.181
+OBJC_METH_VAR_NAME_.182
+OBJC_METH_VAR_NAME_.183
+OBJC_METH_VAR_TYPE_.184
+OBJC_METH_VAR_NAME_.185
+OBJC_METH_VAR_TYPE_.186
+OBJC_METH_VAR_TYPE_.187
+OBJC_METH_VAR_NAME_.188
+OBJC_METH_VAR_TYPE_.189
+OBJC_METH_VAR_NAME_.190
+OBJC_METH_VAR_NAME_.191
+OBJC_METH_VAR_NAME_.192
+OBJC_METH_VAR_TYPE_.193
+OBJC_METH_VAR_NAME_.194
+OBJC_METH_VAR_NAME_.195
+OBJC_METH_VAR_NAME_.196
+OBJC_METH_VAR_TYPE_.197
+OBJC_METH_VAR_TYPE_.198
+OBJC_METH_VAR_TYPE_.199
+OBJC_METH_VAR_NAME_.200
+OBJC_METH_VAR_NAME_.201
+OBJC_METH_VAR_NAME_.202
+OBJC_METH_VAR_TYPE_.203
+OBJC_METH_VAR_NAME_.204
+OBJC_METH_VAR_TYPE_.205
+OBJC_METH_VAR_NAME_.206
+OBJC_METH_VAR_NAME_.207
+OBJC_METH_VAR_NAME_.208
+OBJC_METH_VAR_NAME_.209
+OBJC_METH_VAR_NAME_.210
+OBJC_METH_VAR_TYPE_.211
+OBJC_METH_VAR_NAME_.212
+OBJC_METH_VAR_TYPE_.213
+OBJC_METH_VAR_NAME_.214
+OBJC_METH_VAR_NAME_.215
+l_OBJC_$_INSTANCE_METHODS_OAStackView
+OBJC_METH_VAR_NAME_.216
+OBJC_METH_VAR_TYPE_.217
+OBJC_METH_VAR_NAME_.218
+OBJC_METH_VAR_NAME_.219
+OBJC_METH_VAR_TYPE_.220
+OBJC_METH_VAR_NAME_.221
+OBJC_METH_VAR_NAME_.222
+OBJC_METH_VAR_TYPE_.223
+OBJC_METH_VAR_NAME_.224
+OBJC_METH_VAR_NAME_.225
+OBJC_METH_VAR_NAME_.226
+OBJC_METH_VAR_NAME_.227
+OBJC_METH_VAR_NAME_.228
+OBJC_METH_VAR_TYPE_.229
+OBJC_METH_VAR_NAME_.230
+OBJC_METH_VAR_TYPE_.231
+OBJC_METH_VAR_NAME_.232
+OBJC_METH_VAR_TYPE_.233
+OBJC_METH_VAR_NAME_.234
+OBJC_METH_VAR_TYPE_.235
+l_OBJC_$_INSTANCE_VARIABLES_OAStackView
+OBJC_PROP_NAME_ATTR_.236
+OBJC_PROP_NAME_ATTR_.237
+OBJC_PROP_NAME_ATTR_.238
+OBJC_PROP_NAME_ATTR_.239
+OBJC_PROP_NAME_ATTR_.240
+OBJC_PROP_NAME_ATTR_.241
+OBJC_PROP_NAME_ATTR_.242
+OBJC_PROP_NAME_ATTR_.243
+OBJC_PROP_NAME_ATTR_.244
+OBJC_PROP_NAME_ATTR_.245
+OBJC_PROP_NAME_ATTR_.246
+OBJC_PROP_NAME_ATTR_.247
+OBJC_PROP_NAME_ATTR_.248
+OBJC_PROP_NAME_ATTR_.249
+OBJC_PROP_NAME_ATTR_.250
+OBJC_PROP_NAME_ATTR_.251
+OBJC_PROP_NAME_ATTR_.252
+OBJC_PROP_NAME_ATTR_.253
+OBJC_PROP_NAME_ATTR_.254
+OBJC_PROP_NAME_ATTR_.255
+OBJC_PROP_NAME_ATTR_.256
+OBJC_PROP_NAME_ATTR_.257
+OBJC_PROP_NAME_ATTR_.258
+OBJC_PROP_NAME_ATTR_.259
+OBJC_PROP_NAME_ATTR_.260
+OBJC_PROP_NAME_ATTR_.261
+OBJC_PROP_NAME_ATTR_.262
+l_OBJC_$_PROP_LIST_OAStackView
+l_OBJC_CLASS_RO_$_OAStackView
+.str.263
+.str.264
+OBJC_CLASSLIST_REFERENCES_$_.265
+UIEdgeInsetsMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGeometry.h
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/OAStackView/Pod/Classes/OAStackView.m
+-[OAStackView .cxx_destruct]
+-[OAStackView setBaselineRelativeArrangement:]
+-[OAStackView isBaselineRelativeArrangement]
+-[OAStackView distributionStrategy]
+-[OAStackView alignmentStrategy]
+-[OAStackView setMutableArrangedSubviews:]
+-[OAStackView mutableArrangedSubviews]
+-[OAStackView isLayoutMarginsRelativeArrangement]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/OAStackView/Pod/Classes/OAStackView.h
+-[OAStackView layoutMargins]
+-[OAStackView distributionValue]
+-[OAStackView distribution]
+-[OAStackView alignmentValue]
+-[OAStackView alignment]
+-[OAStackView spacing]
+-[OAStackView axisValue]
+-[OAStackView axis]
+-[OAStackView addViewsAsSubviews:]
+-[OAStackView layoutArrangedViews]
+-[OAStackView unHideView:]
+-[OAStackView hideView:]
+-[OAStackView removeViewFromArrangedViews:permanently:]
+-[OAStackView insertArrangedSubview:atIndex:newItem:]
+-[OAStackView insertArrangedSubview:atIndex:]
+-[OAStackView removeArrangedSubview:]
+-[OAStackView addArrangedSubview:]
+-[OAStackView traitCollectionDidChange:]
+-[OAStackView setLayoutMarginsRelativeArrangement:]
+-[OAStackView setLayoutMargins:]
+-[OAStackView setDistributionValue:]
+-[OAStackView setDistributionConstraints]
+-[OAStackView setDistribution:]
+-[OAStackView setAlignmentValue:]
+-[OAStackView layoutSubviews]
+-[OAStackView updateConstraints]
+-[OAStackView removeConstraints:]
+-[OAStackView removeConstraint:]
+-[OAStackView setDistributionStrategy:]
+-[OAStackView setAlignmentStrategy:]
+-[OAStackView setAlignmentConstraints]
+-[OAStackView setAlignment:]
+-[OAStackView setAxisValue:]
+-[OAStackView setAxis:]
+-[OAStackView setSpacing:]
+-[OAStackView setClipsToBounds:]
+-[OAStackView setOpaque:]
+-[OAStackView setBackgroundColor:]
+-[OAStackView arrangedSubviews]
+-[OAStackView commonInitWithInitalSubviews:]
+-[OAStackView initWithFrame:]
+-[OAStackView initWithArrangedSubviews:]
+-[OAStackView initWithCoder:]
++[OAStackView layerClass]
++[OAStackViewAlignmentStrategy strategyWithStackView:]
+-[OAStackViewAlignmentStrategy initWithWithStackView:]
+-[OAStackViewAlignmentStrategy otherAxisString]
+-[OAStackViewAlignmentStrategy firstMargin]
+-[OAStackViewAlignmentStrategy lastMargin]
+-[OAStackViewAlignmentStrategy centerAttribute]
+-[OAStackViewAlignmentStrategy addConstraintsOnOtherAxis:]
+-[OAStackViewAlignmentStrategy alignView:withPreviousView:]
+-[OAStackViewAlignmentStrategy addedConstraints]
+-[OAStackViewAlignmentStrategy removeAddedConstraints]
+-[OAStackViewAlignmentStrategy constraintsalignViewOnOtherAxis:]
+-[OAStackViewAlignmentStrategy constraintsAlignView:afterPreviousView:]
+-[OAStackViewAlignmentStrategy firstMarginRelation]
+-[OAStackViewAlignmentStrategy lastMarginRelation]
+-[OAStackViewAlignmentStrategy alignFirstView:]
+-[OAStackViewAlignmentStrategy alignLastView:]
+-[OAStackViewAlignmentStrategy firstViewConstraints:withParentView:]
+-[OAStackViewAlignmentStrategy lastViewConstraints:withParentView:]
+-[OAStackViewAlignmentStrategy stackView]
+-[OAStackViewAlignmentStrategy setStackView:]
+-[OAStackViewAlignmentStrategy constraints]
+-[OAStackViewAlignmentStrategy setConstraints:]
+-[OAStackViewAlignmentStrategy .cxx_destruct]
+-[OAStackViewAlignmentStrategyLeading firstMarginRelation]
+-[OAStackViewAlignmentStrategyLeading lastMarginRelation]
+-[OAStackViewAlignmentStrategyTrailing firstMarginRelation]
+-[OAStackViewAlignmentStrategyTrailing lastMarginRelation]
+-[OAStackViewAlignmentStrategyCenter firstMarginRelation]
+-[OAStackViewAlignmentStrategyCenter lastMarginRelation]
+-[OAStackViewAlignmentStrategyCenter constraintsalignViewOnOtherAxis:]
+OBJC_CLASSLIST_REFERENCES_$_.7
+OBJC_IVAR_$_OAStackViewAlignmentStrategy._stackView
+OBJC_CLASSLIST_REFERENCES_$_.14
+OBJC_SELECTOR_REFERENCES_.16
+OBJC_IVAR_$_OAStackViewAlignmentStrategy._constraints
+OBJC_METH_VAR_NAME_.17
+OBJC_SELECTOR_REFERENCES_.18
+OBJC_SELECTOR_REFERENCES_.20
+.str.21
+_unnamed_cfstring_.22
+OBJC_SELECTOR_REFERENCES_.28
+OBJC_METH_VAR_NAME_.29
+OBJC_SELECTOR_REFERENCES_.30
+OBJC_METH_VAR_NAME_.31
+OBJC_SELECTOR_REFERENCES_.32
+OBJC_METH_VAR_NAME_.33
+OBJC_SELECTOR_REFERENCES_.34
+OBJC_METH_VAR_NAME_.35
+OBJC_SELECTOR_REFERENCES_.36
+OBJC_CLASSLIST_REFERENCES_$_.43
+.str.44
+_unnamed_cfstring_.45
+OBJC_METH_VAR_NAME_.50
+OBJC_SELECTOR_REFERENCES_.51
+OBJC_METH_VAR_NAME_.52
+OBJC_SELECTOR_REFERENCES_.53
+OBJC_CLASSLIST_REFERENCES_$_.54
+OBJC_METH_VAR_NAME_.59
+OBJC_SELECTOR_REFERENCES_.60
+OBJC_CLASSLIST_REFERENCES_$_.61
+.str.62
+_unnamed_cfstring_.63
+.str.64
+_unnamed_cfstring_.65
+.str.68
+_unnamed_cfstring_.69
+l_OBJC_$_CLASS_METHODS_OAStackViewAlignmentStrategy
+l_OBJC_METACLASS_RO_$_OAStackViewAlignmentStrategy
+OBJC_CLASS_NAME_.75
+OBJC_METH_VAR_TYPE_.76
+OBJC_METH_VAR_TYPE_.77
+OBJC_METH_VAR_TYPE_.79
+OBJC_METH_VAR_TYPE_.81
+l_OBJC_$_INSTANCE_METHODS_OAStackViewAlignmentStrategy
+OBJC_METH_VAR_TYPE_.94
+OBJC_METH_VAR_TYPE_.96
+l_OBJC_$_INSTANCE_VARIABLES_OAStackViewAlignmentStrategy
+OBJC_CLASS_NAME_.97
+OBJC_PROP_NAME_ATTR_.98
+l_OBJC_$_PROP_LIST_OAStackViewAlignmentStrategy
+l_OBJC_CLASS_RO_$_OAStackViewAlignmentStrategy
+OBJC_CLASS_NAME_.103
+l_OBJC_METACLASS_RO_$_OAStackViewAlignmentStrategyFill
+l_OBJC_CLASS_RO_$_OAStackViewAlignmentStrategyFill
+.str.104
+_unnamed_cfstring_.105
+OBJC_CLASS_NAME_.106
+l_OBJC_METACLASS_RO_$_OAStackViewAlignmentStrategyLeading
+l_OBJC_$_INSTANCE_METHODS_OAStackViewAlignmentStrategyLeading
+l_OBJC_CLASS_RO_$_OAStackViewAlignmentStrategyLeading
+OBJC_CLASS_NAME_.107
+l_OBJC_METACLASS_RO_$_OAStackViewAlignmentStrategyTrailing
+l_OBJC_$_INSTANCE_METHODS_OAStackViewAlignmentStrategyTrailing
+l_OBJC_CLASS_RO_$_OAStackViewAlignmentStrategyTrailing
+OBJC_CLASSLIST_SUP_REFS_$_.108
+OBJC_SELECTOR_REFERENCES_.109
+OBJC_METH_VAR_NAME_.110
+OBJC_SELECTOR_REFERENCES_.111
+OBJC_METH_VAR_NAME_.112
+OBJC_SELECTOR_REFERENCES_.113
+OBJC_METH_VAR_NAME_.114
+OBJC_SELECTOR_REFERENCES_.115
+OBJC_CLASS_NAME_.116
+l_OBJC_METACLASS_RO_$_OAStackViewAlignmentStrategyCenter
+l_OBJC_$_INSTANCE_METHODS_OAStackViewAlignmentStrategyCenter
+l_OBJC_CLASS_RO_$_OAStackViewAlignmentStrategyCenter
+-[OAStackViewAlignmentStrategyCenter constraintsalignViewOnOtherAxis:]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/OAStackView/Pod/Classes/OAStackViewAlignmentStrategy.m
+-[OAStackViewAlignmentStrategyCenter lastMarginRelation]
+-[OAStackViewAlignmentStrategyCenter firstMarginRelation]
+-[OAStackViewAlignmentStrategyTrailing lastMarginRelation]
+-[OAStackViewAlignmentStrategyTrailing firstMarginRelation]
+-[OAStackViewAlignmentStrategyLeading lastMarginRelation]
+-[OAStackViewAlignmentStrategyLeading firstMarginRelation]
+-[OAStackViewAlignmentStrategy .cxx_destruct]
+-[OAStackViewAlignmentStrategy setConstraints:]
+-[OAStackViewAlignmentStrategy constraints]
+-[OAStackViewAlignmentStrategy setStackView:]
+-[OAStackViewAlignmentStrategy stackView]
+-[OAStackViewAlignmentStrategy lastViewConstraints:withParentView:]
+-[OAStackViewAlignmentStrategy firstViewConstraints:withParentView:]
+-[OAStackViewAlignmentStrategy alignLastView:]
+-[OAStackViewAlignmentStrategy alignFirstView:]
+-[OAStackViewAlignmentStrategy lastMarginRelation]
+-[OAStackViewAlignmentStrategy firstMarginRelation]
+-[OAStackViewAlignmentStrategy constraintsAlignView:afterPreviousView:]
+-[OAStackViewAlignmentStrategy constraintsalignViewOnOtherAxis:]
+-[OAStackViewAlignmentStrategy removeAddedConstraints]
+-[OAStackViewAlignmentStrategy addedConstraints]
+-[OAStackViewAlignmentStrategy alignView:withPreviousView:]
+-[OAStackViewAlignmentStrategy addConstraintsOnOtherAxis:]
+-[OAStackViewAlignmentStrategy centerAttribute]
+-[OAStackViewAlignmentStrategy lastMargin]
+-[OAStackViewAlignmentStrategy firstMargin]
+-[OAStackViewAlignmentStrategy otherAxisString]
+-[OAStackViewAlignmentStrategy initWithWithStackView:]
++[OAStackViewAlignmentStrategy strategyWithStackView:]
+-[OAStackView(Traversal) visibleViewBeforeView:]
+-[OAStackView(Traversal) visibleViewAfterView:]
+-[OAStackView(Traversal) visibleViewAfterIndex:]
+-[OAStackView(Traversal) visibleViewBeforeIndex:]
+-[OAStackView(Traversal) lastVisibleItem]
+-[OAStackView(Traversal) iterateVisibleViews:]
+-[OAStackView(Traversal) currentVisibleViews]
+__45-[OAStackView(Traversal) currentVisibleViews]_block_invoke
+-[OAStackView(Traversal) isLastVisibleItem:]
+-[OAStackView(Traversal) lastViewConstraint]
+-[OAStackView(Traversal) firstViewConstraint]
+-[OAStackView(Traversal) isViewLastItem:excludingItem:]
+OBJC_METH_VAR_NAME_.21
+OBJC_SELECTOR_REFERENCES_.22
+OBJC_METH_VAR_TYPE_.41
+OBJC_METH_VAR_TYPE_.42
+OBJC_METH_VAR_TYPE_.43
+OBJC_METH_VAR_TYPE_.45
+OBJC_METH_VAR_NAME_.47
+OBJC_METH_VAR_TYPE_.49
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_OAStackView_$_Traversal
+l_OBJC_$_CATEGORY_OAStackView_$_Traversal
+OBJC_LABEL_CATEGORY_$
+-[OAStackView(Traversal) isViewLastItem:excludingItem:]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/OAStackView/Pod/Classes/OAStackView+Traversal.m
+-[OAStackView(Traversal) firstViewConstraint]
+-[OAStackView(Traversal) lastViewConstraint]
+-[OAStackView(Traversal) isLastVisibleItem:]
+-[OAStackView(Traversal) currentVisibleViews]
+-[OAStackView(Traversal) iterateVisibleViews:]
+-[OAStackView(Traversal) lastVisibleItem]
+-[OAStackView(Traversal) visibleViewBeforeIndex:]
+-[OAStackView(Traversal) visibleViewAfterIndex:]
+-[OAStackView(Traversal) visibleViewAfterView:]
+-[OAStackView(Traversal) visibleViewBeforeView:]
+-[OAStackView(Hiding) addObserverForView:]
+-[OAStackView(Hiding) removeObserverForView:]
+-[OAStackView(Hiding) addObserverForViews:]
+-[OAStackView(Hiding) removeObserverForViews:]
+-[OAStackView(Hiding) observeValueForKeyPath:ofObject:change:context:]
+-[OAStackView(Hiding) didAddSubview:]
+-[OAStackView(Hiding) willRemoveSubview:]
+OBJC_METH_VAR_TYPE_.24
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_OAStackView_$_Hiding
+l_OBJC_$_CATEGORY_OAStackView_$_Hiding
+-[OAStackView(Hiding) willRemoveSubview:]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/OAStackView/Pod/Classes/OAStackView+Hiding.m
+-[OAStackView(Hiding) didAddSubview:]
+-[OAStackView(Hiding) observeValueForKeyPath:ofObject:change:context:]
+-[OAStackView(Hiding) removeObserverForViews:]
+-[OAStackView(Hiding) addObserverForViews:]
+-[OAStackView(Hiding) removeObserverForView:]
+-[OAStackView(Hiding) addObserverForView:]
+-[OATransformLayer setOpaque:]
+l_OBJC_METACLASS_RO_$_OATransformLayer
+l_OBJC_$_INSTANCE_METHODS_OATransformLayer
+l_OBJC_CLASS_RO_$_OATransformLayer
+-[OATransformLayer setOpaque:]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/OAStackView/Pod/Classes/OATransformLayer.m
+-[OAStackView(Constraint) constraintsBetweenView:andView:inAxis:includeReversed:]
+-[OAStackView(Constraint) firstConstraintAffectingView:andView:inAxis:]
+-[OAStackView(Constraint) lastConstraintAffectingView:andView:inAxis:]
+-[OAStackView(Constraint) constraintAffectingView:andView:inAxis:isLast:]
+-[OAStackView(Constraint) isConstraint:betweenView:andView:]
+-[OAStackView(Constraint) constraintsBetweenView:andView:inAxis:]
+-[OAStackView(Constraint) constraintsAffectingView:]
+-[OAStackView(Constraint) constraintsAffectingView:inAxis:]
+-[OAStackView(Constraint) isConstraint:affectingAxis:]
+-[OAStackView(Constraint) isConstraintAttribute:affectingAxis:]
+OBJC_METH_VAR_TYPE_.32
+OBJC_METH_VAR_TYPE_.34
+OBJC_METH_VAR_NAME_.36
+OBJC_METH_VAR_TYPE_.37
+OBJC_METH_VAR_TYPE_.38
+OBJC_METH_VAR_TYPE_.39
+OBJC_METH_VAR_TYPE_.40
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_OAStackView_$_Constraint
+l_OBJC_$_CATEGORY_OAStackView_$_Constraint
+-[OAStackView(Constraint) isConstraintAttribute:affectingAxis:]
+/Users/zhenia/Downloads/CarthageTest/Carthage/Checkouts/OAStackView/Pod/Classes/OAStackView+Constraint.m
+-[OAStackView(Constraint) isConstraint:affectingAxis:]
+-[OAStackView(Constraint) constraintsAffectingView:inAxis:]
+-[OAStackView(Constraint) constraintsAffectingView:]
+-[OAStackView(Constraint) constraintsBetweenView:andView:inAxis:]
+-[OAStackView(Constraint) isConstraint:betweenView:andView:]
+-[OAStackView(Constraint) constraintAffectingView:andView:inAxis:isLast:]
+-[OAStackView(Constraint) lastConstraintAffectingView:andView:inAxis:]
+-[OAStackView(Constraint) firstConstraintAffectingView:andView:inAxis:]
+-[OAStackView(Constraint) constraintsBetweenView:andView:inAxis:includeReversed:]
+/Users/zhenia/Library/Caches/AppCode2016.2/DerivedData/OAStackView-cwdfjtlnjkkhxrbgcmesasehkamc/Build/Intermediates/OAStackView.build/Release-iphoneos/OAStackView.build/DerivedSources/OAStackView_vers.c
+_ZL15__ARCLite__loadv
+_ZL30add_image_hook_autoreleasepoolPK11mach_headerl
+_ZL34__arclite_objc_autoreleasePoolPushv
+_ZL33__arclite_objc_autoreleasePoolPopPv
+_ZL19patch_lazy_pointersPK11mach_headerP7patch_tm
+_ZL42__arclite_NSArray_objectAtIndexedSubscriptP7NSArrayP13objc_selectorj
+_ZL53__arclite_NSMutableArray_setObject_atIndexedSubscriptP14NSMutableArrayP13objc_selectorP11objc_objectj
+_ZL46__arclite_NSDictionary_objectForKeyedSubscriptP12NSDictionaryP13objc_selectorP11objc_object
+_ZL47__arclite_NSOrderedSet_objectAtIndexedSubscriptP12NSOrderedSetP13objc_selectorj
+_ZL58__arclite_NSMutableOrderedSet_setObject_atIndexedSubscriptP19NSMutableOrderedSetP13objc_selectorP11objc_objectj
+_ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
+_ZL18add_image_hook_ARCPK11mach_headerl
+_ZL36__arclite_object_setInstanceVariableP11objc_objectPKcPv
+_ZL24__arclite_object_setIvarP11objc_objectP9objc_ivarS0_
+_ZL21__arclite_object_copyP11objc_objectm
+_ZL21__arclite_objc_retainP11objc_object
+_ZL26__arclite_objc_retainBlockP11objc_object
+_ZL22__arclite_objc_releaseP11objc_object
+_ZL26__arclite_objc_autoreleaseP11objc_object
+_ZL32__arclite_objc_retainAutoreleaseP11objc_object
+_ZL37__arclite_objc_autoreleaseReturnValueP11objc_object
+_ZL43__arclite_objc_retainAutoreleaseReturnValueP11objc_object
+_ZL44__arclite_objc_retainAutoreleasedReturnValueP11objc_object
+_ZL26__arclite_objc_storeStrongPP11objc_objectS0_
+_ZL22add_image_hook_swiftV1PK11mach_headerl
+_ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
+_ZL13replaceMethodP10objc_classP13objc_selectorPFP11objc_objectS4_S2_zEPS6_
+_ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
+_ZL41__arclite_NSManagedObject_allocWithEntityP11objc_objectP13objc_selectorS0_
+_ZL36__arclite_NSManagedObject_allocBatchP11objc_objectP13objc_selectorPS0_S0_j
+_ZL37__arclite_NSKKMS_fastIndexForKnownKeyP11objc_objectP13objc_selectorS0_
+_ZL28__arclite_NSKKMS_indexForKeyP11objc_objectP13objc_selectorS0_
+_ZL29__arclite_NSKKsD_objectForKeyP11objc_objectP13objc_selectorS0_
+_ZL35__arclite_NSKKsD_removeObjectForKeyP11objc_objectP13objc_selectorS0_
+_ZL33__arclite_NSKKsD_setObject_forKeyP11objc_objectP13objc_selectorS0_S0_
+_ZL41__arclite_NSKKsD_addEntriesFromDictionaryP11objc_objectP13objc_selectorP12NSDictionary
+_ZL28__arclite_objc_readClassPairP10objc_classPK15objc_image_info
+_ZL32__arclite_objc_allocateClassPairP10objc_classPKcm
+_ZL32__arclite_object_getIndexedIvarsP11objc_object
+_ZL23__arclite_objc_getClassPKc
+_ZL27__arclite_objc_getMetaClassPKc
+_ZL31__arclite_objc_getRequiredClassPKc
+_ZL26__arclite_objc_lookUpClassPKc
+_ZL26__arclite_objc_getProtocolPKc
+_ZL23__arclite_class_getNameP10objc_class
+_ZL26__arclite_protocol_getNameP8Protocol
+_ZL37__arclite_objc_copyClassNamesForImagePKcPj
+_ZL17transcribeMethodsP10objc_classP15glue_class_ro_t
+_ZL19transcribeProtocolsP10objc_classP15glue_class_ro_t
+_ZL20transcribePropertiesP10objc_classP15glue_class_ro_t
+_ZL14initialize_impP11objc_objectP13objc_selector
+_ZL18allocateMaybeSwiftP18glue_swift_class_tm
+_ZL22copySwiftV1MangledNamePKcb
+_ZL13demangledNamePKcb
+_ZL16scanMangledFieldRPKcS0_S1_Ri
+_ZL30arclite_uninitialized_functionv
+_ZL12cxxConstructP11objc_object
+_ZL20fixStringForCoreDataP11objc_object
+OBJC_METACLASS_$___ARCLite__
+_ZL24OBJC_CLASS_$___ARCLite__
+_ZL31OBJC_METACLASS_RO_$___ARCLite__
+_non_lazy_classes
+_ZL27OBJC_CLASS_RO_$___ARCLite__
+_ZL11_class_name
+_ZL32OBJC_$_CLASS_METHODS___ARCLite__
+_ZL17_load_method_name
+_ZL17_load_method_type
+_ZL23NSAutoreleasePool_class
+_ZZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
+_ZGVZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
+.str.1
+.str.2
+.str.5
+.str.6
+.str.7
+.str.13
+.str.17
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteIndexedSubscripting__
+l_OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteIndexedSubscripting__
+l_OBJC_PROTOCOL_$___ARCLiteIndexedSubscripting__
+l_OBJC_LABEL_PROTOCOL_$___ARCLiteIndexedSubscripting__
+l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteIndexedSubscripting__
+OBJC_METH_VAR_TYPE_.29
+OBJC_METH_VAR_TYPE_.31
+OBJC_CLASS_NAME_.32
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteKeyedSubscripting__
+l_OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
+_ZZL18add_image_hook_ARCPK11mach_headerlE7patches
+_ZGVZL18add_image_hook_ARCPK11mach_headerlE7patches
+.str.41
+.str.42
+.str.43
+.str.45
+.str.46
+.str.48
+.str.49
+.str.50
+.str.52
+.str.60
+_ZL30NSUndoManagerProxy_targetClass
+OBJC_METH_VAR_NAME_.65
+OBJC_SELECTOR_REFERENCES_.66
+_ZL29original_NSManagedObject_init
+_ZL40original_NSManagedObject_allocWithEntity
+_ZL35original_NSManagedObject_allocBatch
+_ZL25NSMutableDictionary_class
+.str.71
+_ZL22NSConstantString_class
+.str.72
+_ZL14NSString_class
+.str.73
+_ZL36original_NSKKMS_fastIndexForKnownKey
+_ZL27original_NSKKMS_indexForKey
+.str.78
+_ZL28original_NSKKsD_objectForKey
+_ZL34original_NSKKsD_removeObjectForKey
+_ZL32original_NSKKsD_setObject_forKey
+OBJC_SELECTOR_REFERENCES_.80
+_ZL40original_NSKKsD_addEntriesFromDictionary
+_ZZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+_ZGVZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+.str.81
+.str.82
+_ZL31original_objc_allocateClassPair
+.str.83
+_ZL31original_object_getIndexedIvars
+.str.84
+_ZL22original_objc_getClass
+.str.85
+_ZL26original_objc_getMetaClass
+.str.86
+_ZL30original_objc_getRequiredClass
+.str.87
+_ZL25original_objc_lookUpClass
+.str.88
+_ZL25original_objc_getProtocol
+.str.89
+_ZL22original_class_getName
+.str.90
+_ZL25original_protocol_getName
+.str.91
+_ZL36original_objc_copyClassNamesForImage
+OBJC_SELECTOR_REFERENCES_.93
+OBJC_SELECTOR_REFERENCES_.95
+.str.96
+.str.97
+.str.98
+.str.99
+.str.100
+.str.101
+.str.102
+.str.103
+_ZL12demangleLock
+_ZL9Demangled
+.str.105
+OBJC_METH_VAR_NAME_.108
+OBJC_METH_VAR_NAME_.116
+OBJC_SELECTOR_REFERENCES_.117
+Apple LLVM version 7.3.0 (clang-703.0.21)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -miphoneos-version-min=4.3 -g -fno-threadsafe-statics -Wno-sign-conversion -fembed-bitcode -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources/armv7 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/Symbols/BuiltProducts -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -fgnu-inline-asm -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.o -mlinker-version=264.3 -march=armv7a
+__arclite_NSKKsD_addEntriesFromDictionary
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65
+__arclite_NSKKsD_setObject_forKey
+__arclite_NSKKsD_removeObjectForKey
+__arclite_NSKKsD_objectForKey
+__arclite_NSKKMS_indexForKey
+fixStringForCoreData
+__arclite_NSKKMS_fastIndexForKnownKey
+__arclite_NSManagedObject_allocBatch
+__arclite_NSManagedObject_allocWithEntity
+cxxConstruct
+__arclite_NSManagedObject_init
+arclite_uninitialized_function
+replaceMethod
+__arclite_NSUndoManagerProxy_isKindOfClass
+patch_t<const char **(const char *, unsigned int *)>
+__arclite_objc_copyClassNamesForImage
+patch_t<const char *(Protocol *)>
+__arclite_protocol_getName
+patch_t<const char *(Class)>
+__isctype
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/usr/include/ctype.h
+isdigit
+scanMangledField
+copySwiftV1DemangledName
+demangledName
+__arclite_class_getName
+patch_t<Protocol *(const char *)>
+__arclite_objc_getProtocol
+__arclite_objc_lookUpClass
+__arclite_objc_getRequiredClass
+__arclite_objc_getMetaClass
+patch_t<Class (const char *)>
+copySwiftV1MangledName
+__arclite_objc_getClass
+patch_t<void *(id)>
+word_align
+__arclite_object_getIndexedIvars
+patch_t<Class (Class, const char *, unsigned long)>
+allocateMaybeSwift
+isSwift
+metaclass
+__arclite_objc_allocateClassPair
+patch_t<Class (Class, const objc_image_info *)>
+initialize_imp
+property_list_nth
+transcribeProperties
+transcribeProtocols
+method_list_nth
+transcribeMethods
+alignment
+max
+ivar_list_nth
+transcribeIvars
+fastFlags
+ro
+__arclite_objc_readClassPair
+add_image_hook_swiftV1
+install_swiftV1
+patch_t<void (id *, id)>
+__arclite_objc_storeStrong
+__arclite_objc_retainAutoreleasedReturnValue
+__arclite_objc_retainAutoreleaseReturnValue
+__arclite_objc_autoreleaseReturnValue
+__arclite_objc_retainAutorelease
+__arclite_objc_autorelease
+patch_t<void (id)>
+__arclite_objc_release
+__arclite_objc_retainBlock
+patch_t<id (id)>
+__arclite_objc_retain
+patch_t<id (id, unsigned long)>
+fixupCopiedReferences
+classOrSuperClassesUseARR
+__arclite_object_copy
+patch_t<void (id, objc_ivar *, id)>
+isScannedOffset
+alignedInstanceStart
+_class_getInstanceStart
+data
+__arclite_class_usesAutomaticRetainRelease
+_ivar_getClass
+__arclite_object_setIvar
+patch_t<objc_ivar *(id, const char *, void *)>
+__arclite_object_setInstanceVariable
+add_image_hook_ARC
+install_ARC
+objc_collectingEnabled
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/usr/include/objc/objc-auto.h
+__arclite_NSMutableDictionary__setObject_forKeyedSubscript
+addOrReplaceMethod
+install_dict_nil_value
+__arclite_NSMutableOrderedSet_setObject_atIndexedSubscript
+__arclite_NSOrderedSet_objectAtIndexedSubscript
+keyedGetter
+__arclite_NSDictionary_objectForKeyedSubscript
+__arclite_NSMutableArray_setObject_atIndexedSubscript
+indexedGetter
+__arclite_NSArray_objectAtIndexedSubscript
+addMethod
+install_subscripting
+patch_lazy_pointers
+patch_t<void (void *)>
+__arclite_objc_autoreleasePoolPop
+patch_t<void *()>
+__arclite_objc_autoreleasePoolPush
+add_image_hook_autoreleasepool
+install_autoreleasepool
+__ARCLite__load

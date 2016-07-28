@@ -1,0 +1,6 @@
+framework module RXPromise {
+  umbrella header "RXPromise.h"
+
+  export *
+  module * { export * }
+}
